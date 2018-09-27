@@ -6,6 +6,6 @@ result
 ![](<https://github.com/yuximao/CS5560_ICP/blob/master/document/4.12.PNG>)
 ## b.Parts of Speech Statistics & c.WordNet Statistics
 main code and result
-![](<https://github.com/yuximao/CS5560_ICP/blob/master/document/4.1.PNG>)
+![](<https://github.com/yuximao/CS5560_ICP/blob/master/document/4.1.png>)
 ## d.Medical Word Statistics
-![](<https://github.com/yuximao/CS5560_ICP/blob/master/document/4.2.PNG>)
+![](<https://github.com/yuximao/CS5560_ICP/blob/master/document/4.1.png>)
