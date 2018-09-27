@@ -8,4 +8,4 @@ result
 main code and result
 ![](<https://github.com/yuximao/CS5560_ICP/blob/master/document/4.1.png>)
 ## d.Medical Word Statistics
-![](<https://github.com/yuximao/CS5560_ICP/blob/master/document/4.1.png>)
+![](<https://github.com/yuximao/CS5560_ICP/blob/master/document/4.2.png>)
