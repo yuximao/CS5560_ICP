@@ -9,14 +9,20 @@ import org.apache.spark.mllib.feature.{Word2Vec, Word2VecModel}
 object W2V {
   def main(args: Array[String]): Unit = {
 
-    System.setProperty("hadoop.home.dir", "data")
+    System.setProperty("hadoop.home.dir", "D:\\winutils")
 
     val sparkConf = new SparkConf().setAppName("SparkWordCount").setMaster("local[*]")
       .set("spark.driver.memory", "6g").set("spark.executor.memory", "6g")
 
     val sc = new SparkContext(sparkConf)
 //reading the text file
-    val input = sc.textFile("data/sample").map(line => line.split(" ").toSeq)
+
+    val input_folder = sc.wholeTextFiles("F:\\5560\\abstract")
+    val documents = input_folder.map(abs=>{
+      abs._2
+    })
+    //val input = sc.textFile("data/sample").map(line => line.split(" ").toSeq)
+    val input = documents.map(line => line.split(" ").toSeq)
 
     val modelFolder = new File("myModelPath")
 
