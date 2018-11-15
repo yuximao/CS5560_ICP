@@ -24,7 +24,7 @@ public class RetrieveAbstracts3 {
 	    {
 	        try
 	        {
-	        	File file=new File("depressive//Just_Ids");
+	        	File file=new File("Mental Disorders//Just_Ids");
 	        	BufferedReader bufferedReader=new BufferedReader(new FileReader(file));
 	        	String dd;
 	        	String IDs = null;

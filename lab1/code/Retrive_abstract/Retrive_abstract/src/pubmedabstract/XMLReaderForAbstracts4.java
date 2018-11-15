@@ -24,7 +24,7 @@ public class XMLReaderForAbstracts4 {
 //			{
 			
 			
-			 File file = new File("depressive//abstracts//1.xml");
+			 File file = new File("Mental Disorders//abstracts//1.xml");
 		         if(file.exists())
 			  {
 			  DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();

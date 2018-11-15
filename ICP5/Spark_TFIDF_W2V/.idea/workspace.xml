@@ -1,7 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72d0f7b4-b70b-4d8e-a04a-899daa2c7f14" name="Default" comment="" />
+    <list default="true" id="72d0f7b4-b70b-4d8e-a04a-899daa2c7f14" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/data/abstract_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_21.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_22.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_26.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_27.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_28.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_29.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_30.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_31.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_32.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_33.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_34.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_35.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_36.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_37.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_38.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_39.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_40.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_41.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_42.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_43.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_44.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_45.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_46.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_47.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_48.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_49.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/abstract_9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/abs_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/abs_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/abs_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/abs_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/abs_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/abstract.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/code/Retrive_abstract/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/code/Retrive_abstract/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/code/Retrive_abstract/Retrive_abstract/src/pubmedabstract/MainRetriveFromIDs1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/code/Retrive_abstract/Retrive_abstract/src/pubmedabstract/MainRetriveFromIDs1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/code/Retrive_abstract/Retrive_abstract/src/pubmedabstract/RetrieveAbstracts3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/code/Retrive_abstract/Retrive_abstract/src/pubmedabstract/RetrieveAbstracts3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/code/Retrive_abstract/Retrive_abstract/src/pubmedabstract/XMLReaderForAbstracts4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/code/Retrive_abstract/Retrive_abstract/src/pubmedabstract/XMLReaderForAbstracts4.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
     <ignored path="$PROJECT_DIR$/project/target/" />
@@ -103,14 +164,34 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1462200258">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="txt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/TF_IDF.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="47" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="96" />
+            <state relative-caret-position="19">
+              <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
               <folding>
                 <element signature="e#0#49#0" expanded="true" />
               </folding>
@@ -119,9 +200,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/abstract_1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="80" selection-start-column="80" selection-end-column="80" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/abstract_15.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/W2V.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
+            <state relative-caret-position="418">
               <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
@@ -130,13 +225,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/NGRAM.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+            <state relative-caret-position="646">
+              <caret line="54" selection-start-line="54" selection-end-line="54" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -153,17 +251,17 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-11" />
-    <option name="width" value="980" />
-    <option name="height" value="1031" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="784" />
+    <option name="height" value="825" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,6 +296,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
@@ -205,7 +304,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537933532627" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541467828316" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/CS5570-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -215,6 +315,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\28028\Documents\GitHub\CS5560_ICP\ICP5\Spark_TFIDF_W2V\data" />
       <recent name="C:\Users\28028\Desktop\ICP5\Spark_TFIDF_W2V\data" />
     </key>
   </component>
@@ -230,7 +331,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NGRAM">
+  <component name="RunManager" selected="Application.TF_IDF">
     <configuration name="NGRAM" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="NGRAM" />
       <module name="spark_tfidf_w2v" />
@@ -292,8 +393,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NGRAM" />
         <item itemvalue="Application.TF_IDF" />
+        <item itemvalue="Application.NGRAM" />
         <item itemvalue="Application.W2V" />
         <item itemvalue="Scala Console.Scala Console" />
       </list>
@@ -354,10 +455,9 @@
     <option name="totallyTimeSpent" value="8799000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="653" height="687" extended-state="1" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4302521" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21748401" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -366,7 +466,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" weight="0.15135135" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" weight="0.9234043" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.078688525" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -379,7 +479,7 @@
       <window_info anchor="bottom" id="Messages" order="12" weight="0.21800433" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
       <window_info anchor="bottom" id="SBT Execute" order="16" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -455,30 +555,38 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../../ICP2/Retrive_abstract/Retrive_abstract/XMLReader.java" />
+    <entry file="file://$PROJECT_DIR$/data/abs_1.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/TF_IDF.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/abstract_1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="80" selection-start-column="80" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/abstract_15.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/W2V.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
+        <state relative-caret-position="418">
           <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/abs_1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/NGRAM.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/TF_IDF.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="47" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="96" />
-          <folding>
-            <element signature="e#0#49#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="646">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
         </state>
       </provider>
     </entry>

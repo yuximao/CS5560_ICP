@@ -1,0 +1,1040 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="656ef193-b85e-483f-938f-97a1f4cb2910" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SparkOpenIE_WordNET_LDA" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1408547284">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+          <entry key="scala" value="4" />
+          <entry key="sentenceSample" value="1" />
+          <entry key="test" value="2" />
+          <entry key="txt" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+          <entry key="PLAIN_TEXT" value="28" />
+          <entry key="Scala" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="scala" value="794" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Scala" value="794" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+    </session>
+    <session id="-1511013799">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+          <entry key="sbt" value="1" />
+          <entry key="txt" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="sbt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2" />
+          <entry key="scala" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2" />
+          <entry key="Scala" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1419644518">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="ObjectProperties" value="14" />
+          <entry key="SubClasses" value="14" />
+          <entry key="dummy" value="8" />
+          <entry key="java" value="1081" />
+          <entry key="scala" value="4775" />
+          <entry key="txt" value="118" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1081" />
+          <entry key="PLAIN_TEXT" value="154" />
+          <entry key="Scala" value="4775" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Individuals" value="4" />
+          <entry key="ObjectProperties" value="4" />
+          <entry key="PubMedIDs" value="3" />
+          <entry key="SubClasses" value="3" />
+          <entry key="Triplets" value="4" />
+          <entry key="java" value="6" />
+          <entry key="sbt" value="1" />
+          <entry key="scala" value="12" />
+          <entry key="subclasses" value="1" />
+          <entry key="txt" value="215" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="6" />
+          <entry key="PLAIN_TEXT" value="234" />
+          <entry key="Scala" value="12" />
+          <entry key="sbt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+    <session id="2079184720">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="4" />
+          <entry key="PLAIN_TEXT" value="81" />
+          <entry key="Scala" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2770" />
+          <entry key="PLAIN_TEXT" value="47" />
+          <entry key="Scala" value="2605" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Classes" value="1" />
+          <entry key="DataProperties" value="1" />
+          <entry key="Individuals" value="1" />
+          <entry key="ObjectProperties" value="3" />
+          <entry key="SubClasses" value="2" />
+          <entry key="Triplets" value="2" />
+          <entry key="java" value="4" />
+          <entry key="scala" value="7" />
+          <entry key="txt" value="71" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Individuals" value="7" />
+          <entry key="ObjectProperties" value="3" />
+          <entry key="java" value="2770" />
+          <entry key="scala" value="2605" />
+          <entry key="txt" value="37" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-97798358">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="PubMedIDs" value="1" />
+          <entry key="scala" value="2" />
+          <entry key="txt" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Scala" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1688208644">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/openie/SparkOpenIE3.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8775">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="e#16#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/openie/SubjObjTFIDF1.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="40" column="60" selection-start-line="40" selection-start-column="60" selection-end-line="40" selection-end-column="60" />
+              <folding>
+                <element signature="e#16#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>radicalSurgicalApproaches</find>
+      <find>[(they,have,family history,1.0), (they,have,family history of cancer,1.0), (they,have,strong family history,1.0), (they,have,strong family history of cancer,1.0), (People,are at,risk,1.0), (People,are at,risk for malignancy,1.0), (People,are at,higher risk,1.0), (People,are at,higher risk for malignancy,1.0)][(study,collect family history in,cohort of patients with pituitary adenomas in outpatient clinic,1.0), (study,collect family history in,cohort,1.0), (study,collect family history in,large cohort of patients with adenomas,1.0), (study,collect family history from,years 2005-2017,1.0), (study,collect family history in,large cohort of patients with pituitary adenomas in outpatient clinic,1.0), (study,collect family history in,large cohort,1.0), (study,collect family history in,cohort of patients in outpatient clinic,1.0), (study,collect family history in,cohort of patients with adenomas in outpatient clinic,1.0), (study,collect family history in,cohort of patients,1.0), (patients,is in,outpatient clinic,1.0), (study,collect,family history,1.0), (study,collect,family history of cancer,1.0), (study,collect family history in,large cohort of patients with pituitary adenomas,1.0), (study,collect family history in,large cohort of patients with adenomas in outpatient clinic,1.0), (study,collect family history in,large cohort of patients,1.0), (study,collect family history in,cohort of patients with pituitary adenomas,1.0), (study,collect family history in,large cohort of patients in outpatient clinic,1.0), (patients,is with,pituitary adenomas,1.0), (study,collect family history in,cohort of patients with adenomas,1.0)]</find>
+      <find>[(they,have,family history,1.0), (they,have,family history of cancer,1.0), (they,have,strong family history,1.0), (they,have,strong family history of cancer,1.0), (People,are at,risk,1.0), (People,are at,risk for malignancy,1.0), (People,are at,higher risk,1.0), (People,are at,higher risk for malignancy,1.0)]</find>
+      <find>Sentence: People are at higher risk for malignancy as they get older or have a strong family history of cancer.</find>
+      <find>2</find>
+      <find>shortest</find>
+      <find>sent</find>
+      <find>.</find>
+      <find>collect family history in</find>
+      <find>is in</find>
+      <find>was</find>
+      <find>sentence</find>
+      <find>value</find>
+      <find>tempFields</find>
+      <find>custom</find>
+      <find>(higher resolution,is in,risk stratification,1.0)</find>
+      <find>(hormonal contraception use,has,in long term has found,1.0)</find>
+      <find>accumulated Triplets</find>
+      <find>biomarker</find>
+      <find>chestWallLesions</find>
+      <find>returnTriplets</find>
+      <find>distinct</find>
+      <find>print</find>
+      <find>println</find>
+      <find>signatures</find>
+      <find>Other</find>
+      <find>performance</find>
+      <find>predDisOth</find>
+      <find>Func</find>
+      <find>clas</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="F:" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/data/7.txt" />
+        <option value="$PROJECT_DIR$/data/8.txt" />
+        <option value="$PROJECT_DIR$/data/9.txt" />
+        <option value="$PROJECT_DIR$/data/10.txt" />
+        <option value="$PROJECT_DIR$/data/11.txt" />
+        <option value="$PROJECT_DIR$/data/12.txt" />
+        <option value="$PROJECT_DIR$/data/13.txt" />
+        <option value="$PROJECT_DIR$/data/14.txt" />
+        <option value="$PROJECT_DIR$/data/15.txt" />
+        <option value="$PROJECT_DIR$/data/16.txt" />
+        <option value="$PROJECT_DIR$/data/20.txt" />
+        <option value="$PROJECT_DIR$/data/19.txt" />
+        <option value="$PROJECT_DIR$/data/18.txt" />
+        <option value="$PROJECT_DIR$/data/17.txt" />
+        <option value="$PROJECT_DIR$/Output/Objects.txt" />
+        <option value="$PROJECT_DIR$/Output/outdated/Triplets" />
+        <option value="$PROJECT_DIR$/Output/outdated/ObjectProperties" />
+        <option value="$PROJECT_DIR$/Output/outdated/SubClasses" />
+        <option value="$PROJECT_DIR$/Output/outdated/Individuals" />
+        <option value="$PROJECT_DIR$/src/main/scala/openie/SparkWordCount.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/openie/CodeFromCameronForComparison/SparkWordCount.scala" />
+        <option value="$PROJECT_DIR$/Output/Triplets" />
+        <option value="$PROJECT_DIR$/Output/SubClasses" />
+        <option value="$PROJECT_DIR$/Output/Individuals" />
+        <option value="$PROJECT_DIR$/Output/ObjectProperties" />
+        <option value="$PROJECT_DIR$/src/main/scala/openie/package.scala" />
+        <option value="$PROJECT_DIR$/data/1.txt" />
+        <option value="$PROJECT_DIR$/IDS/2.txt" />
+        <option value="$PROJECT_DIR$/data/2.txt" />
+        <option value="$PROJECT_DIR$/IDS/abstracts-20/1.txt" />
+        <option value="$PROJECT_DIR$/IDS/1.txt" />
+        <option value="$PROJECT_DIR$/src/main/scala/openie/SubjObjTFIDF.scala" />
+        <option value="$PROJECT_DIR$/Output/outdated/TF_IDF_Out.txt" />
+        <option value="$PROJECT_DIR$/src/main/scala/openie/CoreNLP.java" />
+        <option value="$PROJECT_DIR$/Output/SubjectGene.txt" />
+        <option value="$PROJECT_DIR$/Output/SubjectDisease.txt" />
+        <option value="$PROJECT_DIR$/Output/SubjectSpecies.txt" />
+        <option value="$PROJECT_DIR$/Output/TFIDF.txt" />
+        <option value="$PROJECT_DIR$/src/main/scala/wordnet/WordNetSpark.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/wordnet/WordNetSpark2.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/openie/SparkOpenIE.scala" />
+        <option value="$PROJECT_DIR$/Output/predDis.txt" />
+        <option value="$PROJECT_DIR$/src/main/scala/openie/SparkOpenIE3.scala" />
+        <option value="$PROJECT_DIR$/Output/data/Classes" />
+        <option value="$PROJECT_DIR$/Output/data/Individuals" />
+        <option value="$PROJECT_DIR$/Output/predGene.txt" />
+        <option value="$PROJECT_DIR$/Output/predOth.txt" />
+        <option value="$PROJECT_DIR$/Output/predSpec.txt" />
+        <option value="$PROJECT_DIR$/Output/data/ObjectProperties" />
+        <option value="$PROJECT_DIR$/Output/data/Triplets" />
+        <option value="$PROJECT_DIR$/IDS/PubMedIDs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="376" />
+    <option name="y" value="632" />
+    <option name="width" value="1925" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sparkopenie_wordnet_lda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkOpenIE_WordNET_LDA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkopenie_wordnet_lda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkOpenIE_WordNET_LDA" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkopenie_wordnet_lda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkOpenIE_WordNET_LDA" type="462c0819:PsiDirectoryNode" />
+              <item name="IDS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkopenie_wordnet_lda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkOpenIE_WordNET_LDA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkopenie_wordnet_lda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkOpenIE_WordNET_LDA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkopenie_wordnet_lda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkOpenIE_WordNET_LDA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkopenie_wordnet_lda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkOpenIE_WordNET_LDA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="openie" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541867826962" />
+    <property name="last_opened_file_path" value="F:/../CS5560GregBrownICPSubmission/ICP5/Spark_TFIDF_W2V/Spark_TFIDF_W2V" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560BreastCancerOntology\Part 2\source\Tutorial 3 Source Code\SparkOpenIE_WordNET_LDA\Output" />
+      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560BreastCancerOntology\Part 2\source\Tutorial 3 Source Code\SparkOpenIE_WordNET_LDA\Output\outdated\14" />
+      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560BreastCancerOntology\Part 2\source\Tutorial 3 Source Code\SparkOpenIE_WordNET_LDA\Output\outdated" />
+      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560BreastCancerOntology\Part 2\source\Tutorial 3 Source Code\SparkOpenIE_WordNET_LDA\IDS\abstracts-20" />
+      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560BreastCancerOntology\Part 2\source\Tutorial 3 Source Code\SparkOpenIE_WordNET_LDA\IDS" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560BreastCancerOntology\Part 2\source\Tutorial 3 Source Code\SparkOpenIE_WordNET_LDA\data" />
+      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560BreastCancerOntology\Part 2\source\Tutorial 3 Source Code\SparkOpenIE_WordNET_LDA\IDS\abstracts-20" />
+      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560BreastCancerOntology\Part 2\source\Tutorial 3 Source Code\SparkOpenIE_WordNET_LDA\IDS" />
+      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560BreastCancerOntology\Part 2\source\Tutorial 3 Source Code\SparkOpenIE_WordNET_LDA\Output\someRun" />
+      <recent name="D:\Users\Gregory\Documents\GitHub\CS5560GregBrownICPSubmission\ICP8\Tutorial 3 Source Code\SparkOpenIE_WordNET_LDA\data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SparkOpenIE">
+    <configuration name="CoreNLP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="openie.CoreNLP" />
+      <module name="SparkOpenIE_WordNET_LDA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="openie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparkOpenIE" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="openie.SparkOpenIE3" />
+      <module name="SparkOpenIE_WordNET_LDA" />
+      <option name="PROGRAM_PARAMETERS" value="BioConcept IDS/PubMedIDs PubTator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="openie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubjObjTFIDF" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="openie.SubjObjTFIDF1" />
+      <module name="SparkOpenIE_WordNET_LDA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="openie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordNetSpark" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="wordnet.WordNetSpark2" />
+      <module name="SparkOpenIE_WordNET_LDA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wordnet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scala Console" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true">
+      <module name="SparkOpenIE_WordNET_LDA" />
+      <setting name="vmparams4" value="-Djline.terminal=NONE" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="consoleArgs" value="-usejavacp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="SubmitSparkJob_Configuration" factoryName="HDInsight Spark">
+      <spark-job-configuration>
+        <local-run>
+          <spark-local-run-configurable-model>
+            <is-parallel-execution>false</is-parallel-execution>
+            <is-pass-parent-envs>true</is-pass-parent-envs>
+            <program-parameters />
+            <working-directory>file://$PROJECT_DIR$</working-directory>
+            <envs>
+              <map />
+            </envs>
+            <vm-parameters />
+            <main-class />
+            <data-root>file://$PROJECT_DIR$/data</data-root>
+          </spark-local-run-configurable-model>
+        </local-run>
+        <spark_submission cluster_name="" is_local_artifact="false" artifact_name="" classname="">
+          <job_conf />
+          <cmd_line_args />
+          <ref_jars />
+          <ref_files />
+        </spark_submission>
+      </spark-job-configuration>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SparkOpenIE" />
+      <item itemvalue="Application.CoreNLP" />
+      <item itemvalue="Scala Console.Scala Console" />
+      <item itemvalue="Application.SubjObjTFIDF" />
+      <item itemvalue="Application.WordNetSpark" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SparkOpenIE" />
+        <item itemvalue="Application.SubjObjTFIDF" />
+        <item itemvalue="Application.WordNetSpark" />
+        <item itemvalue="Scala Console.Scala Console" />
+        <item itemvalue="Application.CoreNLP" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="SparkOpenIE_WordNET_LDA" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="sparkopenie_wordnet_lda [file:/C:/Users/Gregory/Desktop/Official/UMKC/CS5560/Tutorial%203%20Source%20Code/SparkOpenIE_WordNET_LDA/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="sparkopenie_wordnet_lda-build [file:/C:/Users/Gregory/Desktop/Official/UMKC/CS5560/Tutorial%203%20Source%20Code/SparkOpenIE_WordNET_LDA/]" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3083380614000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1173050290" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2920355924" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="656ef193-b85e-483f-938f-97a1f4cb2910" name="Default Changelist" comment="" />
+      <created>1536267792390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536267792390</updated>
+      <workItem from="1536267793616" duration="922000" />
+      <workItem from="1536361495955" duration="6766000" />
+      <workItem from="1537739868535" duration="1602000" />
+      <workItem from="1537745539846" duration="510000" />
+      <workItem from="1537746082390" duration="4115000" />
+      <workItem from="1537773509645" duration="37000" />
+      <workItem from="1537831238196" duration="771000" />
+      <workItem from="1537833431943" duration="3000" />
+      <workItem from="1538365991424" duration="32000" />
+      <workItem from="1539286661485" duration="1924000" />
+      <workItem from="1539871573154" duration="572000" />
+      <workItem from="1539872240494" duration="287000" />
+      <workItem from="1539873200954" duration="1558000" />
+      <workItem from="1539875181839" duration="1143000" />
+      <workItem from="1539876538829" duration="18345000" />
+      <workItem from="1540313555224" duration="5219000" />
+      <workItem from="1540321024429" duration="5260000" />
+      <workItem from="1540427161742" duration="9651000" />
+      <workItem from="1540582166282" duration="1190000" />
+      <workItem from="1540860149201" duration="10341000" />
+      <workItem from="1541483724038" duration="7288000" />
+      <workItem from="1541634973758" duration="21862000" />
+      <workItem from="1541831075526" duration="863000" />
+      <workItem from="1541831987828" duration="88000" />
+      <workItem from="1541832675893" duration="1343000" />
+      <workItem from="1541866819698" duration="1013000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="102705000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="3456" height="1416" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12249705" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Image Layers" order="7" />
+      <window_info id="Azure Explorer" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.40327615" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32936078" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Debug Remote Spark Job in Cluster" order="15" />
+      <window_info anchor="bottom" id="Remote Spark Job in Cluster" order="16" />
+      <window_info anchor="bottom" id="HDInsight Spark Submission" order="17" />
+      <window_info anchor="bottom" id="Azure Activity Log" order="18" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="sbt" order="5" weight="0.32995737" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Gradle" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../.." />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/openie/CoreNLP.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.hadoop/hadoop-mapreduce-client-core/srcs/hadoop-mapreduce-client-core-2.6.5-sources.jar!/org/apache/hadoop/mapred/FileInputFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="911">
+          <caret line="284" selection-start-line="284" selection-end-line="284" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/outdated/14/Subjects.txt" />
+    <entry file="file://$PROJECT_DIR$/IDS/abstracts-20/1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="101" selection-start-column="101" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDS/2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="58" selection-start-column="58" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDS/abstracts-20/3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="76" selection-start-column="76" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/outdated/14/TF_IDF_Out.txt" />
+    <entry file="file://$PROJECT_DIR$/Output/outdated/TF_IDF_Out.txt" />
+    <entry file="file://$PROJECT_DIR$/Output/outdated/13/objectOther.txt" />
+    <entry file="file://$PROJECT_DIR$/Output/outdated/13/objectDisease.txt" />
+    <entry file="file://$PROJECT_DIR$/Output/outdated/13/objectGene.txt" />
+    <entry file="file://$PROJECT_DIR$/Output/Subjects.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/openie/CoreNLP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3590">
+          <caret line="26" column="32" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/TF_IDF_Out.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/wordnet/WordNetSpark2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="47" column="37" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/synTFIDF.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/TFIDF.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/classes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="15" column="9" lean-forward="true" selection-end-line="37" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/data/DataProperties" />
+    <entry file="file://$PROJECT_DIR$/Output/data/Classes" />
+    <entry file="file://$PROJECT_DIR$/Output/objectChemical.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/objectDisease.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="20" lean-forward="true" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/objectGene.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/objectMutation.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/objectOther.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="12" column="15" lean-forward="true" selection-end-line="309" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/objectSpecies.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/SubjectChemical.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/SubjectDisease.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="12" lean-forward="true" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/SubjectGene.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/SubjectOther.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="21" lean-forward="true" selection-end-line="208" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/SubjectMutation.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/SubjectSpecies.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/data/SubClasses" />
+    <entry file="file://$PROJECT_DIR$/Output/data/Individuals" />
+    <entry file="file://$PROJECT_DIR$/Output/data/ObjectProperties" />
+    <entry file="file://$PROJECT_DIR$/Output/predChem.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDS/abstracts-20/2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="236" selection-start-column="236" selection-end-column="236" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/Triplets.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="20" column="25" selection-end-line="384" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDS/1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="74" selection-start-column="74" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/predSpec.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/predMut.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/predOth.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="156" column="31" selection-start-line="156" selection-start-column="31" selection-end-line="156" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/predGene.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="1" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output/data/Triplets" />
+    <entry file="file://$PROJECT_DIR$/Output/predDis.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDS/PubMedIDs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/openie/SubjObjTFIDF1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="40" column="60" selection-start-line="40" selection-start-column="60" selection-end-line="40" selection-end-column="60" />
+          <folding>
+            <element signature="e#16#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/CS5560_KDM_ICP-master/Lab3/src/main/scala/wordnet/WordNetMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1227" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/CS5560_KDM_ICP-master/Lab3/src/main/scala/openie/CoreNLP.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/openie/SparkOpenIE3.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8775">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#16#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

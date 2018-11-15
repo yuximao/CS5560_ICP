@@ -38,7 +38,7 @@ public class MainRetriveFromIDs1 {
 	 
 	            BufferedReader br = new BufferedReader(new InputStreamReader((conn.getInputStream())));
 	           String d;
-	           File f = new File("depressive//ids.xml");
+	           File f = new File("Mental Disorders//ids.xml");
 	            FileWriter fw= new FileWriter(f.getAbsoluteFile());
 	            BufferedWriter bw=new BufferedWriter(fw); 
 	           while((d=br.readLine())!=null)

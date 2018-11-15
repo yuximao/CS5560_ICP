@@ -1,0 +1,1 @@
+We describe a method for analyzing the within-household network dynamics of a disease transmission. We apply it to analyze the occurrences of endemic diarrheal disease in Cameroon, Central Africa based on observational, cross-sectional data available from household health surveys.
