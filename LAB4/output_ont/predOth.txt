@@ -1,0 +1,1389 @@
+was,major cause,breast cancer,Func
+wasApplied,treatment schedule,MEA,Func
+was,cause,breast cancer,Func
+cause,BreastCancer,Breast cancer,Func
+wasApplied,treatment schedule,Molecular Evolution Assay,FuncisIn,cancer mortality,women,Func
+isIn,cancer deaths,women,Func
+isIn,resistance,patients,Func
+isIn,Pik3caH1047R-induced mammary tumorigenesis,mice,Func
+isIn,cancer related deaths,women,Func
+restoreHormoneSensitivityIn,PI3Ki,mouse,FuncestablishFrequencyWithout,methylation analyses,BRCA1,Func
+isIn,Pathogenic variants,BRCA1,Func
+rs2046210In,two polymorphisms,ESR1,FuncisWith,short-term supplementation,estrogen,Funcis,development,process,Func
+examined,We,associations between breast cancer,Func
+isIn,mortality,metastatic cancer patients Dissemination,Func
+isWith,families,multiple individuals affected by breast variants,Func
+demonstrates,evidence,direct molecular links between assembly in mouse models,Func
+significantlyAffected,RNA quality,outcome,Func
+showed,Kaplan-Meier analyses,matching for factors,Func
+make,poor conditions,breast self-examination tool for prevention,Func
+were,Genotypes,determined,Func
+Using,we,bioinformatic patient database analysis,Func
+is,breast cancer risk,associated with histopathological characteristics in high altitude Ecuadorian mestizo population,Func
+demonstrates,recent evidence,direct links between assembly of invadopodia in mouse models,Func
+make,conditions,breast self-examination tool for prevention of breast cancer,Func
+are,Dissemination,identified,Func
+haveInvestigated,we,relationship in population cohort,Func
+linksBetween,evidence,assembly,Func
+provide,we,detailed overview,Func
+be,invadopodia,used,Func
+howeverRecurFollowing,numerous breast tumors,initial response,Func
+directLinksBetween,evidence,assembly in mouse models in patients,Func
+Dissemination,Dissemination,cause in metastatic cancer patients Dissemination,Func
+establish,RNA sequencing,allelic expression,Func
+hereThereforeHaveInvestigated,we,relationship between SNPs in population cohort,Func
+recurFollowing,numerous breast tumors,initial response,Func
+assess,aim,knowledge among female college students of Karachi,Func
+demonstrates,recent evidence,direct molecular links between assembly of invadopodia,Func
+isWith,families,individuals families,Func
+is,breast cancer risk,associated with characteristics in high altitude Ecuadorian mestizo population,Func
+make,poor conditions,breast self-examination best tool for prevention of breast cancer,Func
+isDefinedAs,non-obstructive azoospermia,absence of spermatozoa,Func
+isLeadingCauseOf,their spread,mortality,Func
+areIdentifiedIn,Pathogenic variants,∼ 20 % of families with individuals,Func
+isIn,cancer-related deaths,US,Func
+recurFollowing,numerous breast tumors,response,Func
+were,90,diagnosed,Func
+isIn,cooperation,tumor development,Func
+haveFound,association studies,several potential breast nucleotide polymorphisms in many different populations,Func
+isIn,assembly,mouse models,Func
+be,pregnancy,associated,Func
+demonstrates,recent evidence,links between assembly in human patients,Func
+enableThrough,extracellular matrix,it,Func
+demonstrates,evidence,direct molecular links between assembly in human patients,Func
+howeverRecurWithin,numerous breast tumors,10 years,Func
+revealed,Subgroup analyses,risk for patients diagnosed within year postpartum in ER,Func
+bestToolFor,breast self-examination,prevention,Func
+isDefinedAs,azoospermia,absence in ejaculate due to failed spermatogenesis,Func
+isIn,mortality,metastatic cancer patients cancer cells,Func
+performedRna-seqWith,we,ten pieces from breast tissue from single patient,Func
+directLinksBetween,evidence,assembly of invadopodia,Func
+is,breast cancer risk,associated with histopathological characteristics in high altitude population,Func
+demonstrate,we,correlation between genes to breast cancer metastasis,Func
+make,conditions,breast self-examination best tool for prevention,Func
+areIdentifiedIn,Pathogenic variants,∼ 20 % of families with multiple individuals affected,Func
+directLinksBetween,recent evidence,assembly in human patients,Func
+is,Dissemination,cause of mortality in metastatic cancer patients,Func
+make,socioeconomic conditions,breast self-examination tool for prevention of breast cancer,Func
+matchingFor,Kaplan-Meier analyses,factors,Func
+report,we,dominantly inherited 5 UTR variant associated,Func
+wasAppliedTo,whole-exome sequencing,two brothers,Func
+presents,review,perspective,Func
+have,Green spaces,have recently associated,Func
+includeHere,We,novel network interaction map,Func
+report,we,inherited 5 UTR variant associated with BRCA1 silencing,Func
+is,validation,required,Func
+used,We,reverse phase protein array analysis,Func
+evaluated,we,popular splice-aware alignment algorithms in context of RNA variant-calling analysis,Func
+demonstrating,We,negligible number,Func
+Dissemination,Dissemination,cause of mortality in metastatic cancer patients Dissemination,Func
+directMolecularLinksBetween,evidence,assembly of invadopodia,Func
+using,hazard ratios,Cox hazard models,Func
+affectedBy,individuals,breast variants,Func
+areIdentified,Dissemination,identified in âˆ 1/4 20 % of families with multiple individuals affected,Func
+demonstrates,recent evidence,molecular links between assembly in mouse models,Func
+directMolecularLinksBetween,evidence,assembly of invadopodia in mouse models in human patients,Func
+isDefinedAs,Idiopathic non-obstructive azoospermia,absence,Func
+encodes,AKT1,kinase B alpha protein,Func
+isIn,allelic loss,families,Func
+was,Survival,examined,Func
+haveFound,association studies,several potential breast cancer-associated single nucleotide polymorphisms in different populations,Func
+areIdentifiedIn,Pathogenic variants,∼ 20 % of families with multiple individuals,Func
+is,breast cancer risk,how associated in high altitude Ecuadorian mestizo population,Func
+is,BreastCancer,leading cause,Func
+mustConsiderDuring,researchers,RNA variant analysis,Func
+investigated,We,outcomes,Func
+isDefinedAs,Idiopathic azoospermia,absence of spermatozoa in ejaculate due to failed spermatogenesis,Func
+leading,composition,commonly regulated in MEAs,Func
+alsoShowed,Kaplan-Meier analyses,matching,Func
+performedRna-seqWith,we,ten pieces of invasive carcinoma,Func
+demonstrates,evidence,direct molecular links,Func
+is,breast cancer risk,associated with characteristics in altitude Ecuadorian mestizo population,Func
+following,quality,3DCRT,Func
+areIdentifiedIn,variants,∼ 20 % of families with individuals,Func
+investigated,We,outcomes of repeat stereotactic radiosurgery,Func
+directLinksBetween,recent evidence,assembly of invadopodia in patients,Func
+molecularLinksBetween,evidence,assembly,Func
+is,leading cause,cause,Func
+make,poor socioeconomic conditions,breast self-examination best tool for prevention,Func
+areAssociatedWith,SNPs,AKT signaling,Func
+demonstrates,evidence,links between assembly in patients,Func
+directLinksBetween,evidence,assembly of invadopodia in mouse models,Func
+useOfIs,deep inferior epigastric perforator,popular approach,Func
+wasAppliedIn,whole-exome sequencing,study,Func
+make,poor socioeconomic conditions,breast self-examination tool for prevention of breast cancer,Func
+isIn,frequency,families affected by early-onset breast,Func
+areIdentified,Dissemination,identified in âˆ 1/4 20 % of families,Func
+performedRna-seqFor,we,this,Func
+induced,complexes,cell death,Func
+importantlyHoweverHadEffectIn,combination,cancer cells,Func
+haveFound,Genome-wide association studies,several potential breast nucleotide polymorphisms in different populations,Func
+was,Follow-up,calculated,Func
+areIdentifiedIn,variants,∼ 20 % of families with individuals affected by breast,Func
+isDefinedAs,non-obstructive azoospermia,absence in ejaculate due to failed spermatogenesis,Func
+phosphorylates,AKT1,downstream substrates,Func
+following,quality,conventional three-dimensional radiotherapy,Func
+report,we,dominantly inherited 5 UTR variant associated with epigenetic BRCA1 silencing,Func
+performedRna-seqWith,we,ten pieces of invasive carcinoma from breast tissue,Func
+wasAppliedTo,sequencing,two brothers,Func
+establish,methylation analyses,frequency of mechanism in families,Func
+encompasses,Breast tumorigenesis,factors,Func
+demonstrates,recent evidence,molecular links,Func
+make,poor socioeconomic conditions,breast self-examination tool for prevention,Func
+demonstrates,evidence,direct links between assembly,Func
+present,We,overview of cancer-related trials,Func
+performedRna-seqWith,we,ten pieces of carcinoma from single patient,Func
+revealed,Subgroup analyses,risk for patients diagnosed within year postpartum,Func
+wasCalculatedFrom,Follow-up,date,Func
+were,sac =,where synthesized,Func
+isLeadingCauseIn,Dissemination,cancer patients Dissemination,Func
+is,Dissemination,leading cause of mortality in metastatic cancer patients,Func
+molecularLinksBetween,recent evidence,assembly in mouse models in patients,Func
+phosphorylates,AKT1,substrates,Func
+disseminationOfIs,cancer cells,cause of mortality in metastatic cancer patients,Func
+haveInvestigated,we,relationship between SNPs in population cohort,Func
+is,further validation,thus required,Func
+present,We,updated overview of clinical trials,Func
+is,development,multi‑directed process,Func
+demonstrates,evidence,direct molecular links between assembly in mouse models in human patients,Func
+were,Compound heterozygous loss-of-function variants,detected,Func
+directLinksBetween,evidence,assembly of invadopodia in human patients,Func
+directLinksBetween,recent evidence,assembly in mouse models,Func
+can,BARD1 SNPs,can potentially used,Func
+haveFound,association studies,SNPs,Func
+beUsedAs,invadopodia,prognostic marker,Func
+revealed,Subgroup analyses,increased risk for patients diagnosed within year postpartum,Func
+provided,all-cause survival rates,implications for treatment,Func
+for,RNA,dynamic nature,Func
+thereforeHaveInvestigated,we,relationship between SNPs in population cohort,Func
+make,incidence,breast self-examination tool for prevention,Func
+demonstrates,recent evidence,links,Func
+demonstrates,evidence,links between assembly of invadopodia in mouse models,Func
+presents,review,perspective on invadopodia-mediated tumor invasiveness,Func
+demonstrating,short-term supplementation,cooperation in tumor development,Func
+was,sequencing,In study applied to two brothers diagnosed,Func
+is,BreastCancer,cause,Func
+haveFound,association studies,potential breast cancer-associated nucleotide polymorphisms in different populations,Func
+is,use,popular,Func
+provided,lower survival rates,helpful implications for treatment,Func
+was,whole-exome sequencing,In study applied to two brothers,Func
+isLeadingCauseOf,BreastCancer,mortality in cancer patients Dissemination,Func
+assess,aim,knowledge among college students of Karachi,Func
+useOfIs,deep perforator,approach,Func
+is,breast cancer risk,how associated with characteristics in altitude population,Func
+is,breast cancer risk,how associated with histopathological characteristics in high altitude population,Func
+wasAppliedTo,sequencing,two brothers diagnosed,Func
+isAssociatedIn,breast cancer risk,high altitude Ecuadorian mestizo population,Func
+exhibitedCytotoxicityComparedWith,rest,cisplatin,Func
+effectOf,explaining,spaces,Func
+be,proteins,differentially expressed targets,Func
+include,We,novel network interaction map,Func
+Dissemination,Dissemination,leading cause of mortality in cancer patients,Func
+must,care,must taken,Func
+causeCellCycleArrestAt,complexes,S,Func
+was,sequencing,In study applied to two brothers diagnosed with NOA,Func
+linksBetween,evidence,assembly in human patients,Func
+toolFor,breast self-examination,prevention of breast cancer,Func
+is,breast cancer risk,associated with histopathological characteristics in altitude population,Func
+useOfIs,perforator,approach,Func
+knowledgeAmong,practice,female college students,Func
+is,breast cancer risk,how associated with histopathological characteristics in altitude population,Func
+is,further validation,required,Func
+includeHere,We,novel network interaction map of invadopodia-associated proteins,Func
+thereforeHaveInvestigated,we,relationship in population case-control cohort,Func
+include,We,novel network interaction map of invadopodia-associated proteins with currently available inhibitors,Func
+present,We,overview,Func
+include,We,network interaction map of invadopodia-associated proteins,Func
+areIdentifiedIn,Pathogenic variants,∼ 20 % of families,Func
+performedRna-seqWith,we,ten pieces from breast tissue from patient,Func
+explaining,Mechanisms,effect,Func
+is,article,protected,Func
+howeverHad,combination,profound BIM-dependent effect,Func
+correlatedWith,we,sensitivity,Func
+provideReferenceInformationIn,We,cases of PTMC.The analysis,Func
+hereProvide,we,detailed overview,Func
+investigatedPrognosis,we,compared with forms of thyroidectomy approaches,Func
+following,quality,three-dimensional radiotherapy,Func
+provided,all-cause survival rates,helpful implications for treatment,Func
+linksBetween,recent evidence,assembly of invadopodia in mouse models,Func
+found,We,possible association between rs3803304,Func
+demonstrating,We,number of trials,Func
+recurWithin,numerous breast tumors,10 years,Func
+is,This,case-control,Func
+directMolecularLinksBetween,recent evidence,assembly of invadopodia in patients,Func
+isLeadingCauseIn,Dissemination,metastatic cancer patients,Func
+knowledgeAmong,practice,college students,Func
+areIdentifiedIn,Dissemination,âˆ 1/4 20 % with individuals variants,Func
+surrounding,Metastatic cancer cells,tissues,Func
+comparedWith,we,other forms,Func
+provided,survival rates,helpful implications for treatment of patients,Func
+isAssociatedIn,breast cancer risk,high altitude population,Func
+is,breast cancer risk,associated with characteristics in altitude population,Func
+enable,matrix,invasion of tumor cells,Func
+mustConsider,researchers,experimental features,Func
+establish,methylation analyses,frequency in families,Func
+had,combination,profound effect,Func
+demonstrates,recent evidence,molecular links between assembly,Func
+includeHere,We,network interaction map,Func
+demonstrate,we,significant correlation between invadopodia-associated genes,Func
+isIn,epigenetic silencing,two independent families,Func
+wereDetectedAs,Compound heterozygous loss-of-function variants,most likely cause for their condition,Func
+isLeadingCauseIn,their spread,metastatic cancer patients,Func
+were,sac,synthesized,Func
+beUsedAs,invadopodia,marker,Func
+hereProvide,we,overview of markers,Func
+areIdentifiedIn,Dissemination,âˆ 1/4 20 % of families with individuals affected by early-onset breast variants,Func
+was,BRCA1 promoter hypermethylation,identified in,Func
+assess,aim,knowledge among college students,Func
+leadTo,review,development of novel approaches for cancer metastasis,Func
+areIdentifiedIn,Dissemination,âˆ 1/4 20 % with individuals affected,Func
+leadingTo,composition,only small number of proteins,Func
+developmentOfIs,resistance,process,Func
+probedThrough,potent complexes,annexin V positivity,Func
+leadingTo,composition,only number,Func
+isDefinedAs,non-obstructive azoospermia,absence of spermatozoa in ejaculate due to failed spermatogenesis,Func
+demonstrates,evidence,molecular links between assembly in patients,Func
+was,whole-exome sequencing,In study applied to two brothers diagnosed,Func
+follows,development,certain patterns,Func
+hereThereforeHaveInvestigated,we,relationship in population case-control cohort,Func
+demonstrating,We,number,Func
+is,breast cancer risk,how associated with characteristics in high altitude population,Func
+areIdentifiedIn,variants,∼ 20 % of families with multiple individuals affected by breast,Func
+be,proteins,expressed targets,Func
+cause,complexes,cell cycle arrest,Func
+wasAppliedIn,sequencing,study,Func
+wereDetectedAs,Compound loss-of-function variants,most likely cause,Func
+demonstrates,evidence,links between assembly of invadopodia in mouse models in human patients,Func
+wasApplied,treatment schedule,Evolution Assay leading to resistance formation,Func
+wasMapped,cause,reads on splice junctions,Func
+isCauseOf,BreastCancer,mortality,Func
+demonstrates,evidence,links between assembly of invadopodia,Func
+demonstrates,recent evidence,direct molecular links between assembly of invadopodia in mouse models,Func
+howeverHad,combination,profound effect,Func
+directLinksBetween,evidence,assembly of invadopodia in mouse models in human patients,Func
+performedRna-seqWith,we,ten pieces of carcinoma from breast tissue from single patient,Func
+was,Real-time PCR analysis,performed,Func
+wasAppliedEvolutionAssayIn,treatment schedule,present study,Func
+linksBetween,evidence,assembly of invadopodia in mouse models in patients,Func
+was,it,observed,Func
+hadEffectIn,combination,PIK3CA-mutant cancer cells,Func
+wasAppliedEvolutionAssayIn,treatment schedule,in model,Func
+thereforeHaveInvestigated,we,relationship between SNPs in population case-control cohort,Func
+haveInvestigated,we,relationship between SNPs in population case-control cohort,Func
+useOfIs,deep epigastric perforator,popular approach,Func
+disseminationOfIs,cancer cells,cause in metastatic cancer patients,Func
+explaining,Mechanisms,effect of spaces,Func
+had,combination,profound BIM-dependent effect,Func
+examined,We,associations between breast cancer diagnosed during pregnancy,Func
+remains,issues,prevalent,Func
+finallyCorrelatedSnpStatusWith,we,sensitivity,Func
+wasCalculatedTo,Follow-up,2014,Func
+demonstrates,evidence,direct molecular links between assembly,Func
+provided,lower all-cause survival rates,helpful implications,Func
+found,We,possible association,Func
+is,their spread,leading cause,Func
+hereReport,we,inherited 5 UTR variant associated with BRCA1 silencing,Func
+wereDeadBy,2920 patients,end of 2014,Func
+performedRna-seqWith,we,ten pieces of invasive ductal carcinoma from breast tissue from patient,Func
+provided,lower survival rates,implications for treatment,Func
+is,Dissemination,cause of mortality,Func
+quantify,purpose,expression level of genes,Func
+is,breast cancer risk,how associated with histopathological characteristics in altitude Ecuadorian mestizo population,Func
+exhibit,certain cinnamic acid dimers,cytotoxicity,Func
+demonstrates,recent evidence,direct links between assembly of invadopodia in mouse models in human patients,Func
+isDefinedAs,Idiopathic non-obstructive azoospermia,absence in ejaculate due to failed spermatogenesis,Func
+are,SNPs,associated,Func
+demonstrates,recent evidence,links between assembly of invadopodia in mouse models in patients,Func
+is,breast cancer risk,how associated in altitude Ecuadorian mestizo population,Func
+is,breast cancer risk,how associated in high altitude population,Func
+demonstrates,evidence,direct links between assembly in mouse models in human patients,Func
+areIdentified,Dissemination,identified in âˆ 1/4 20 % of families with individuals affected by breast variants,Func
+demonstrates,recent evidence,molecular links between assembly in human patients,Func
+were,data,used,Func
+impactOn,we,response,Func
+directMolecularLinksBetween,evidence,assembly in patients,Func
+inducedCellDeath,complexes,probed,Func
+make,socioeconomic conditions,breast self-examination tool for prevention,Func
+areIdentifiedIn,variants,∼ 20 % of families with individuals affected,Func
+is,Dissemination,leading cause in metastatic cancer patients,Func
+establish,methylation analyses,frequency of mechanism in families affected,Func
+areIdentifiedIn,Pathogenic variants,∼ 20 % of families with individuals affected,Func
+evaluated,we,popular splice-aware alignment algorithms in context,Func
+demonstrates,recent evidence,direct molecular links between assembly of invadopodia in human patients,Func
+areIdentifiedIn,variants,∼ 20 % of families,Func
+molecularLinksBetween,recent evidence,assembly of invadopodia in mouse models in human patients,Func
+beAssociatedWith,pregnancy,higher mortality,Func
+directMolecularLinksBetween,evidence,assembly of invadopodia in mouse models,Func
+isIn,leading cause,metastatic cancer patients cancer cells,Func
+directMolecularLinksBetween,evidence,assembly of invadopodia in human patients,Func
+demonstrates,recent evidence,molecular links between assembly in mouse models in human patients,Func
+demonstrates,recent evidence,molecular links between assembly of invadopodia in patients,Func
+demonstrating,We,negligible number of trials focusing,Func
+isWith,Kaplan-Meier analyses,log-rank tests,Func
+demonstrates,evidence,direct molecular links between assembly of invadopodia in mouse models in patients,Func
+revealed,Subgroup analyses,increased risk of mortality for patients diagnosed within year postpartum in ER,Func
+provided,lower all-cause survival rates,implications for treatment of patients with PTMC,Func
+revealed,Subgroup analyses,risk of mortality for patients diagnosed within year postpartum in ER,Func
+haveFound,association studies,potential breast single nucleotide polymorphisms in many different populations,Func
+make,socioeconomic conditions,breast self-examination best tool for prevention,Func
+demonstrating,We,central role,Func
+hereReport,we,5 UTR variant associated with BRCA1 silencing,Func
+demonstrates,evidence,links between assembly in mouse models in patients,Func
+importantlyHoweverHad,combination,cytotoxic effect,Func
+provided,lower all-cause survival rates,implications for treatment of patients,Func
+haveFound,association studies,potential breast cancer-associated single nucleotide polymorphisms in different populations,Func
+includeHere,We,network interaction map of invadopodia-associated proteins,Func
+was,gene ontology term apoptotic signaling pathway,reduced,Func
+demonstrate,we,correlation between genes,Func
+includeHere,We,network interaction map of invadopodia-associated proteins with currently available inhibitors,Func
+Dissemination,Dissemination,cause of mortality in cancer patients,Func
+importantlyHoweverHad,combination,BIM-dependent effect,Func
+affects,Infertility,around 7 %,Func
+performedRna-seqWith,we,ten pieces of invasive ductal carcinoma from breast tissue from single patient,Func
+molecularLinksBetween,recent evidence,assembly of invadopodia in human patients,Func
+demonstrates,evidence,direct molecular links between assembly of invadopodia in patients,Func
+isDefinedAs,azoospermia,absence,Func
+provided,lower all-cause survival rates,implications,Func
+demonstrates,recent evidence,direct links between assembly in mouse models in patients,Func
+revealed,Subgroup analyses,risk of mortality,Func
+knowledgeAmong,practice,female college students of Karachi,Func
+isCausedBy,NOA,defects,Func
+areIdentifiedIn,Dissemination,âˆ 1/4 20 %,Func
+isProtectedBy,article,copyright,Func
+correlatedSnpStatusWith,we,sensitivity to platinum,Func
+directMolecularLinksBetween,evidence,assembly in mouse models in patients,Func
+developmentOf,certain patterns,resistance,Func
+probedThrough,complexes,annexin V positivity,Func
+demonstrates,recent evidence,links between assembly of invadopodia in patients,Func
+is,supportive treatment,crucial,Func
+explaining,Mechanisms,beneficial effect of spaces,Func
+beAssociatedWith,recent pregnancy,higher mortality among ER,Func
+explored,we,impact of HER-family,Func
+make,conditions,breast self-examination best tool for prevention of breast cancer,Func
+haveFound,association studies,several potential breast single nucleotide polymorphisms in many different populations,Func
+useOfIs,inferior epigastric perforator,popular approach,Func
+provideReferenceInformationIn,We,cases,Func
+hereHaveInvestigated,we,relationship between SNPs in population cohort,Func
+exhibited,rest,potent cytotoxicity,Func
+isDefinedAs,Idiopathic azoospermia,absence in ejaculate due to failed spermatogenesis,Func
+is,Dissemination,cause of mortality in cancer patients Dissemination,Func
+is,breast cancer risk,how associated with characteristics in altitude Ecuadorian mestizo population,Func
+provided,survival rates,helpful implications for treatment of patients with PTMC,Func
+haveFound,Genome-wide association studies,potential breast single nucleotide polymorphisms in different populations,Func
+investigatedPrognosis,we,compared,Func
+discuss,we,disadvantages,Func
+found,We,possible association between noncoding intronic variant rs3803304,Func
+molecularLinksBetween,evidence,assembly in mouse models in human patients,Func
+demonstrates,evidence,molecular links between assembly of invadopodia in mouse models in human patients,Func
+exhibited,rest,cytotoxicity,Func
+hereReport,we,dominantly inherited 5 UTR variant associated,Func
+performedRna-seqWith,we,ten pieces of invasive ductal carcinoma from single patient,Func
+demonstrating,supplementation,cooperation of hormone in tumor development,Func
+make,socioeconomic conditions,breast self-examination best tool for prevention of breast cancer,Func
+wasAppliedTo,whole-exome sequencing,two brothers diagnosed,Func
+demonstrate,we,correlation,Func
+demonstrates,evidence,molecular links between assembly in mouse models in patients,Func
+isLeadingCauseIn,Dissemination,cancer patients cancer cells,Func
+molecularLinksBetween,evidence,assembly of invadopodia in patients,Func
+is,Estrogen dependence,driver,Func
+inducedCellDeath,complexes,probed through annexin V positivity,Func
+isCausedBy,NOA,rare defects,Func
+includeHere,We,novel network interaction map of invadopodia-associated proteins with currently available inhibitors,Func
+provide,we,detailed overview of markers,Func
+demonstrates,recent evidence,direct molecular links between assembly in mouse models in patients,Func
+isIn,mortality,cancer patients,Func
+is,cause,cause,Func
+isCauseOf,BreastCancer,mortality in cancer patients Dissemination,Func
+is,breast cancer risk,associated with characteristics in high altitude population,Func
+stimulates,toxin,acetylcholine receptors,Func
+hereReport,we,dominantly inherited 5 UTR variant,Func
+surrounding,cancer cells,blood vessels,Func
+beneficialEffectOf,explaining,spaces,Func
+remains,treatment,controversial,Func
+could,re-purposing,could used,Func
+include,Mechanisms,levels of physical activity,Func
+wereDiagnosedDuring,90,pregnancy,Func
+areIdentified,Dissemination,identified in âˆ 1/4 20 % of families with individuals,Func
+demonstrating,short-term supplementation,cooperation of hormone,Func
+isIn,cause,metastatic cancer patients Dissemination,Func
+report,we,5 UTR variant associated with BRCA1 silencing,Func
+is,their spread,cause,Func
+comparedWith,we,forms,Func
+presents,review,perspective on tumor invasiveness,Func
+areIdentifiedIn,Dissemination,âˆ 1/4 20 % with individuals Pathogenic variants,Func
+was,whole-exome sequencing,applied,Func
+thereforeHaveInvestigated,we,relationship in population cohort,Func
+areIdentified,Dissemination,identified in âˆ 1/4 20 % of families with multiple individuals affected by breast variants,Func
+sparing,combination,cells,Func
+isDefinedAs,Idiopathic non-obstructive azoospermia,absence of spermatozoa in ejaculate due to failed spermatogenesis,Func
+revealed,Subgroup analyses,increased risk of mortality,Func
+isCauseOf,Dissemination,mortality,Func
+disseminationOfIs,cancer cells,leading cause,Func
+directMolecularLinksBetween,recent evidence,assembly of invadopodia in mouse models in patients,Func
+is,breast cancer risk,how associated with characteristics,Func
+isDefinedAs,Idiopathic azoospermia,absence,Func
+howeverHadEffectIn,combination,PIK3CA-mutant cancer cells,Func
+leadTo,review,development of approaches for cancer metastasis,Func
+is,ovarian cancer,whereby caused by,Func
+isCauseOf,BreastCancer,cancer mortality among women,Func
+toolFor,breast self-examination,prevention,Func
+isMainCauseOf,BreastCancer,cancer mortality Breast cancer,Func
+restoreHormoneSensitivityIn,PI3Ki,resistant mouse,Func
+demonstrates,evidence,direct links between assembly of invadopodia in patients,Func
+provide,We,reference information,Func
+isIn,BRCA1 promoter methylation,families,Func
+wasExaminedBy,Survival,Kaplan-Meier analyses with tests,Func
+is,Dissemination,leading cause,Func
+presents,review,new perspective on invadopodia-mediated tumor invasiveness,Func
+demonstrates,recent evidence,links between assembly in mouse models,Func
+was,whole-exome sequencing,In study applied to two brothers diagnosed with NOA,Func
+using,we,cell line models,Func
+stimulatesAcetylcholineReceptorsIn,toxin,central systems,Func
+was,PCR analysis,performed,Func
+areIdentifiedIn,Dissemination,âˆ 1/4 20 % with individuals affected by breast variants,Func
+provide,we,overview of markers,Func
+wereDeadBy,2920 patients,end,Func
+isIn,alterations,protein expression,Func
+areIdentifiedIn,variants,∼ 20 % of families with multiple individuals affected,Func
+assess,aim,knowledge among female college students,Func
+isCauseIn,Dissemination,cancer patients Dissemination,Func
+explaining,Mechanisms,beneficial effect,Func
+is,Dissemination,leading cause of mortality in cancer patients Dissemination,Func
+leadTo,review,development,Func
+provided,survival rates,helpful implications,Func
+evaluate,RNA-seq data,performance,Func
+isLeadingCauseOf,BreastCancer,mortality,Func
+include,Mechanisms,increased levels of physical activity,Func
+beAssociatedWith,recent pregnancy,mortality,Func
+was,cell redox homeostasis,upregulated,Func
+is,breast cancer risk,associated with histopathological characteristics in altitude Ecuadorian mestizo population,Func
+linksBetween,recent evidence,assembly of invadopodia in human patients,Func
+directLinksBetween,recent evidence,assembly in mouse models in human patients,Func
+evaluatedAlignmentAlgorithmsIn,we,study,Func
+linksBetween,recent evidence,assembly of invadopodia in mouse models in human patients,Func
+discuss,we,their advantages,Func
+thereforeMustConsider,researchers,experimental features,Func
+was,main cause,mapped,Func
+developmentOfIs,resistance,multi‑directed process,Func
+leadingTo,composition,small number of proteins,Func
+is,ovarian cancer,caused by,Func
+isIn,resistance,tumor cells,Func
+be,methylation analyses,undertaken,Func
+revealed,Subgroup analyses,increased risk for patients diagnosed within year postpartum in ER,Func
+report,we,dominantly inherited 5 UTR variant,Func
+isCrucialFor,treatment,survival,Func
+must,care,However must taken,Func
+demonstrates,recent evidence,direct links between assembly of invadopodia,Func
+establish,methylation analyses,frequency of mechanism in families affected by breast,Func
+demonstrates,recent evidence,links between assembly,Func
+isWith,interaction,DNA/HSA,Func
+leading,BreastCancer,cause,Func
+provided,lower all-cause survival rates,helpful implications for treatment of patients,Func
+hereThereforeHaveInvestigated,we,relationship in population cohort,Func
+include,We,novel network interaction map of invadopodia-associated proteins with available inhibitors,Func
+demonstrates,recent evidence,molecular links between assembly of invadopodia in mouse models in patients,Func
+make,poor conditions,breast self-examination best tool for prevention,Func
+demonstrates,evidence,direct links,Func
+includeHere,We,network interaction map of proteins with inhibitors,Func
+is,breast cancer risk,how associated in altitude population,Func
+areIdentifiedIn,Dissemination,âˆ 1/4 20 % with individuals,Func
+thereforeMustConsider,researchers,features,Func
+using,our findings,support vector machines,Func
+useOfIs,epigastric perforator,popular approach,Func
+following,quality,radiotherapy,Func
+areIdentifiedIn,variants,∼ 20 % of families with multiple individuals,Func
+haveFound,Genome-wide association studies,potential breast nucleotide polymorphisms in different populations,Func
+isWith,families,multiple individuals,Func
+isAssociatedWith,BARD1 SNP,greater sensitivity,Func
+restoreHormoneSensitivityIn,PI3Ki,several resistant mouse,Func
+demonstrates,evidence,direct links between assembly in human patients,Func
+is,Dissemination,cause in metastatic cancer patients,Func
+bestToolFor,breast self-examination,prevention of breast cancer,Func
+hereReport,we,dominantly inherited 5 UTR variant associated with epigenetic BRCA1 silencing,Func
+isIn,cancer related deaths,women worldwide,Func
+hereHaveInvestigated,we,relationship between SNPs in population case-control cohort,Func
+isIn,leading cause,cancer patients,Func
+found,We,possible association between intronic rs3803304,Func
+haveFound,Genome-wide association studies,potential breast cancer-associated single nucleotide polymorphisms in many different populations,Func
+evaluate,data,performance of splice-aware aligners,Func
+disseminationOfIs,cancer cells,cause,Func
+follows,development,patterns,Func
+was,sequencing,In study applied to two brothers,Func
+demonstrates,evidence,molecular links between assembly of invadopodia in human patients,Func
+include,We,network interaction map of proteins with inhibitors,Func
+make,poor socioeconomic conditions,breast self-examination best tool for prevention of breast cancer,Func
+molecularLinksBetween,evidence,assembly in mouse models,Func
+haveFound,Genome-wide association studies,several potential breast cancer-associated single nucleotide polymorphisms in many different populations,Func
+developmentOf,patterns,resistance,Func
+provided,lower all-cause survival rates,helpful implications for treatment of patients with PTMC,Func
+include,We,novel network interaction map of invadopodia-associated proteins,Func
+quantify,primary purpose,expression level of genes,Func
+present,We,updated overview of current cancer-related trials,Func
+explored,we,impact of HER-family on response,Func
+enableThrough,matrix,it,Func
+isCauseIn,Dissemination,cancer patients cancer cells,Func
+provided,survival rates,implications,Func
+is,breast cancer risk,how associated with histopathological characteristics in high altitude Ecuadorian mestizo population,Func
+examined,We,associations between breast cancer diagnosed,Func
+is,their spread,cause of mortality in metastatic cancer patients,Func
+present,We,overview of current clinical trials,Func
+establish,RNA sequencing,expression,Func
+evaluated,we,alignment algorithms in context of RNA variant-calling analysis,Func
+isCauseOf,BreastCancer,cancer mortality,Func
+areIdentifiedIn,Pathogenic variants,∼ 20 % of families with multiple individuals affected by breast,Func
+investigated,We,outcomes of repeat radiosurgery,Func
+demonstrates,evidence,molecular links between assembly of invadopodia,Func
+revealed,Subgroup analyses,risk,Func
+present,We,overview of trials,Func
+isAssociatedWith,BARD1 SNP,sensitivity to carboplatin,Func
+demonstrates,recent evidence,direct molecular links between assembly in patients,Func
+performedRna-seqWith,we,ten pieces of carcinoma from patient,Func
+have,Green spaces,have associated,Func
+areIdentified,Dissemination,identified in âˆ 1/4 20 % of families with multiple individuals,Func
+provided,survival rates,implications for treatment of patients,Func
+were,Compound loss-of-function variants,detected,Func
+investigatedPrognosis,we,compared with other forms of thyroidectomy approaches,Func
+isDefinedAs,Idiopathic non-obstructive azoospermia,absence of spermatozoa,Func
+isWith,families,multiple individuals affected by breast Pathogenic variants,Func
+molecularLinksBetween,recent evidence,assembly in patients,Func
+leadTo,review,development of novel prognostic approaches for cancer metastasis,Func
+haveFound,association studies,potential breast nucleotide polymorphisms in many different populations,Func
+isLeadingCauseOf,Dissemination,mortality,Func
+wereDetectedAs,Compound loss-of-function variants,most likely cause for their condition,Func
+isIn,assembly,human patients,Func
+leadTo,review,development of prognostic approaches for cancer metastasis,Func
+alsoShowed,Kaplan-Meier analyses,matching for influential factors,Func
+is,use,popular approach,Func
+evaluated,we,alignment algorithms in context,Func
+was,sequencing,applied,Func
+disseminationOfIs,cancer cells,leading cause of mortality,Func
+isCauseIn,their spread,metastatic cancer patients,Func
+mustConsider,researchers,features,Func
+useOfIs,deep inferior perforator,approach,Func
+exhibit,acid dimers,cytotoxicity,Func
+beAssociatedWith,pregnancy,mortality among ER,Func
+demonstrates,evidence,direct links between assembly of invadopodia in mouse models in patients,Func
+isDefinedAs,azoospermia,absence of spermatozoa in ejaculate due to failed spermatogenesis,Func
+presents,review,new perspective,Func
+were,2920 patients,dead,Func
+hereHaveInvestigated,we,relationship in population cohort,Func
+affects,Infertility,around 7 % of men worldwide,Func
+evaluated,we,alignment algorithms,Func
+be,proteins,promising expressed targets,Func
+wasConfirmedIn,BRCA1 promoter hypermethylation,blood,Func
+wereLinkedTo,abstracted,Taiwan National Death Certificate Database,Func
+provided,survival rates,implications for treatment of patients with PTMC,Func
+thereforeMustConsiderDuring,researchers,RNA variant analysis,Func
+directMolecularLinksBetween,recent evidence,assembly in mouse models,Func
+revealed,Subgroup analyses,risk of mortality for patients diagnosed within year postpartum,Func
+isAssociatedWith,BARD1 SNP,greater sensitivity to carboplatin,Func
+leading,composition,regulated in MEAs,Func
+include,We,network interaction map,Func
+includeHere,We,network interaction map of invadopodia-associated proteins with available inhibitors,Func
+present,We,updated overview of cancer-related clinical trials,Func
+wasAppliedTo,whole-exome sequencing,two brothers diagnosed with NOA,Func
+readsOn,cause,splice junctions,Func
+wereAbstractedFrom,pregnancies,National Health Insurance database,Func
+=,P,0.001,Func
+isIn,cancer deaths,women cancer,Func
+directMolecularLinksBetween,recent evidence,assembly,Func
+isAssociatedIn,breast cancer risk,altitude population,Func
+isWith,âˆ 1/4 20 %,individuals affected by early-onset breast variants,Func
+causeCellCycleArrestAt,complexes,DNA synthesis,Func
+present,We,overview of current cancer-related clinical trials,Func
+establish,methylation analyses,frequency in families affected by breast,Func
+revealed,Subgroup analyses,increased risk,Func
+is,breast cancer risk,how associated with characteristics in high altitude Ecuadorian mestizo population,Func
+include,We,network interaction map of invadopodia-associated proteins with currently available inhibitors,Func
+is,breast cancer risk,how associated,Func
+for129Is,those,0.96-1.74,Func
+stimulatesAcetylcholineReceptorsIn,toxin,central nervous systems,Func
+isWith,families,multiple individuals variants,Func
+evaluated,we,popular splice-aware alignment algorithms,Func
+make,conditions,breast self-examination tool for prevention,Func
+is,prompt supportive treatment,crucial,Func
+demonstrates,evidence,links between assembly of invadopodia in human patients,Func
+isIn,year postpartum,ER,Func
+exhibit,certain acid dimers,cytotoxicity,Func
+following,quality,conventional radiotherapy,Func
+were,BH3 mimetics,unable,Func
+areIdentified,Dissemination,identified in âˆ 1/4 20 % of families with individuals affected,Func
+isDefinedAs,non-obstructive azoospermia,absence,Func
+is,validation,thus required,Func
+isAssociatedIn,breast cancer risk,altitude Ecuadorian mestizo population,Func
+linksBetween,evidence,assembly in mouse models in human patients,Func
+directMolecularLinksBetween,recent evidence,assembly in mouse models in human patients,Func
+exhibit,cinnamic acid dimers,cytotoxicity,Func
+finallyCorrelatedWith,we,sensitivity to platinum,Func
+linksBetween,evidence,assembly in mouse models,Func
+wasMapped,cause,reads,Func
+developmentOfIs,resistance,complex process,Func
+directLinksBetween,evidence,assembly in patients,Func
+wasInvestigatedAgainst,anticancer activity,MCF-7,Func
+leadingTo,composition,number,Func
+wasInvestigatedAgainst,activity,MCF-7,Func
+inducedCellDeath,potent complexes,probed through annexin V positivity,Func
+performedRna-seqWith,we,ten pieces from patient,Func
+establish,methylation analyses,frequency in families affected,Func
+performedRna-seqWith,we,ten pieces from single patient,Func
+was,This,prespecified,Func
+was,DNA,extracted,Func
+haveFound,Genome-wide association studies,potential breast cancer-associated nucleotide polymorphisms in many different populations,Func
+is,development,complex process,Func
+isDefinedAs,Idiopathic azoospermia,absence of spermatozoa,Func
+isIn,relationship,Vietnamese population case-control cohort,Func
+Using,we,patient database analysis,Func
+found,We,possible association between noncoding variant rs3803304,Func
+demonstrates,recent evidence,links between assembly in mouse models in human patients,Func
+correlated,we,SNP status,Func
+provide,we,overview,Func
+wasAppliedTo,sequencing,two brothers diagnosed with NOA,Func
+were,PI3Ki,unable,Func
+demonstrating,supplementation,cooperation,Func
+demonstrates,recent evidence,direct molecular links between assembly of invadopodia in mouse models in human patients,Func
+revealed,Subgroup analyses,increased risk of mortality for patients diagnosed within year postpartum,Func
+demonstrates,evidence,direct links between assembly in mouse models,Func
+affected,RNA quality,outcome,Func
+inducedCellDeath,potent complexes,probed,Func
+disseminationOfIs,cancer cells,cause of mortality,Func
+is,their spread,leading cause of mortality in metastatic cancer patients,Func
+present,We,updated overview of current trials,Func
+directLinksBetween,recent evidence,assembly,Func
+have,Invadopodia,have observed,Func
+is,breast cancer risk,how associated with histopathological characteristics,Func
+is,breast cancer risk,associated,Func
+includeHere,We,novel network interaction map of invadopodia-associated proteins with available inhibitors,Func
+molecularLinksBetween,recent evidence,assembly of invadopodia in mouse models,Func
+linksBetween,evidence,assembly of invadopodia in patients,Func
+make,poor conditions,breast self-examination tool for prevention of breast cancer,Func
+wereDetectedAs,Compound heterozygous loss-of-function variants,most likely cause,Func
+haveFound,Genome-wide association studies,several potential breast single nucleotide polymorphisms in different populations,Func
+assess,aim,practice,Func
+isIn,cause,metastatic cancer patients cancer cells,Func
+demonstrates,evidence,molecular links between assembly of invadopodia in mouse models,Func
+performedRna-seqWith,we,ten pieces of invasive ductal carcinoma from patient,Func
+directMolecularLinksBetween,recent evidence,assembly in human patients,Func
+molecularLinksBetween,evidence,assembly in human patients,Func
+demonstrates,recent evidence,direct links between assembly of invadopodia in human patients,Func
+demonstrating,We,number of trials focusing,Func
+is,Dissemination,leading cause of mortality,Func
+wasConfirmedIn,Soma-wide BRCA1 promoter hypermethylation,blood,Func
+haveInvestigated,we,relationship in population case-control cohort,Func
+performedRna-seqWith,we,ten pieces of ductal carcinoma,Func
+disseminationOfIs,cancer cells,leading cause in metastatic cancer patients,Func
+wasApplied,treatment schedule,Molecular Evolution Assay leading to resistance formation,Func
+be,proteins,most promising targets,Func
+induced,potent complexes,cell death,Func
+molecularLinksBetween,recent evidence,assembly of invadopodia,Func
+Dissemination,Dissemination,leading cause of mortality in metastatic cancer patients Dissemination,Func
+isIn,cause,cancer patients,Func
+wereIdentifiedFrom,Breast cancer patients,Taiwan Cancer Registry,Func
+be,proteins,promising differentially expressed targets,Func
+directLinksBetween,recent evidence,assembly of invadopodia in mouse models in patients,Func
+evaluate,RNA-seq data,performance of aligners,Func
+enable,extracellular matrix,invasion of tumor cells,Func
+isCauseOf,their spread,mortality,Func
+isDefinedAs,azoospermia,absence of spermatozoa,Func
+linksBetween,recent evidence,assembly of invadopodia,Func
+linksBetween,recent evidence,assembly in mouse models in patients,Func
+haveFound,Genome-wide association studies,several potential breast cancer-associated nucleotide polymorphisms in many different populations,Func
+hereThereforeHaveInvestigated,we,relationship between SNPs in population case-control cohort,Func
+were,abstracted,then linked,Func
+includeHere,We,novel network interaction map of proteins with inhibitors,Func
+disseminationOfIs,cancer cells,leading cause of mortality in metastatic cancer patients,Func
+is,Dissemination,cause,Func
+Dissemination,Dissemination,leading cause in metastatic cancer patients Dissemination,Func
+demonstrate,we,significant correlation between invadopodia-associated genes to breast cancer metastasis,Func
+isCrucialFor,prompt treatment,survival,Func
+presents,review,new perspective on tumor invasiveness,Func
+hereProvide,we,overview,Func
+performedRna-seqWith,we,ten pieces of ductal carcinoma from breast tissue,Func
+isCauseIn,Dissemination,metastatic cancer patients,Func
+isAssociatedWith,breast cancer risk,characteristics,Func
+demonstrates,recent evidence,direct links between assembly in patients,Func
+useOfIs,inferior perforator,approach,Func
+isAssociatedWith,BARD1 SNP,sensitivity,Func
+areIdentifiedIn,Pathogenic variants,∼ 20 % of families with individuals affected by breast,Func
+importantlyHoweverHad,combination,effect,Func
+include,We,novel network interaction map of proteins with inhibitors,Func
+include,We,network interaction map of invadopodia-associated proteins with available inhibitors,Func
+used,We,phase protein array analysis,Func
+hereHaveInvestigated,we,relationship in population case-control cohort,Func
+isIn,use,autologous reconstruction,Func
+haveFound,association studies,several potential breast cancer-associated nucleotide polymorphisms in different populations,Func
+howeverRecurFollowing,numerous breast tumors,response,Func
+molecularLinksBetween,evidence,assembly of invadopodia in mouse models in patients,Func
+make,incidence,breast self-examination tool for prevention of breast cancer,Func
+performedRna-seqWith,we,ten pieces of carcinoma from breast tissue from patient,Func
+demonstrating,We,negligible number of trials,Func
+linksBetween,recent evidence,assembly in patients,Func
+isIn,leading cause,metastatic cancer patients Dissemination,Func
+knowledgeAmong,practice,college students of Karachi,Func
+accountFor,care,RNA 's dynamic nature,Func
+isIn,following popular splice-aware alignment algorithms,context of RNA variant-calling analysis,Func
+isAssociatedWith,breast cancer risk,histopathological characteristics,Func
+revealed,Subgroup analyses,increased risk for patients,Func
+is,treatment,crucial,Func
+provided,all-cause survival rates,implications for treatment of patients with PTMC,Func
+provided,survival rates,helpful implications for treatment,Func
+directMolecularLinksBetween,recent evidence,assembly in patients,Func
+hereReport,we,5 UTR variant associated with epigenetic BRCA1 silencing,Func
+howeverHad,combination,cytotoxic effect,Func
+provided,all-cause survival rates,helpful implications,Func
+is,BARD1 SNP,associated,Func
+is,allele,risk allele,Func
+include,We,network interaction map of proteins,Func
+isDefinedAs,azoospermia,absence of spermatozoa in ejaculate due to spermatogenesis,Func
+were,abstracted,linked,Func
+provided,all-cause survival rates,helpful implications for treatment of patients with PTMC,Func
+wasMethylated,DNA,consistent,Func
+report,we,5 UTR variant associated,Func
+includeHere,We,novel network interaction map of proteins,Func
+is,cause,cause of,Func
+enableInvasionThrough,matrix,it,Func
+are,Pathogenic variants,identified,Func
+demonstrates,evidence,links between assembly in mouse models in human patients,Func
+demonstrates,evidence,direct molecular links between assembly of invadopodia,Func
+isWith,comparison,patients undergoing,Func
+isIn,promoter hypermethylation,two families affected by breast,Func
+directLinksBetween,recent evidence,assembly of invadopodia in mouse models in human patients,Func
+revealed,Subgroup analyses,risk for patients,Func
+areIdentifiedIn,Dissemination,âˆ 1/4 20 % of families with multiple individuals affected,Func
+evaluated,we,popular alignment algorithms in context of RNA variant-calling analysis,Func
+following,quality,conventional three-dimensional conformal radiotherapy,Func
+cause,Dissemination,their spread,Func
+areIdentifiedIn,Dissemination,âˆ 1/4 20 % of families with individuals affected by breast Pathogenic variants,Func
+isWith,âˆ 1/4 20 %,individuals Pathogenic variants,Func
+make,poor socioeconomic conditions,breast self-examination best tool,Func
+directMolecularLinksBetween,evidence,assembly in mouse models in human patients,Func
+haveFound,Genome-wide association studies,potential breast nucleotide polymorphisms in many different populations,Func
+thereforeMustConsiderFeaturesDuring,researchers,RNA variant analysis,Func
+directMolecularLinksBetween,evidence,assembly of invadopodia in patients,Func
+disseminationOfIs,cancer cells,leading cause of mortality in cancer patients,Func
+haveFound,Genome-wide association studies,several potential breast cancer-associated nucleotide polymorphisms in different populations,Func
+alsoUsed,We,phase protein array analysis,Func
+Dissemination,Dissemination,cause of mortality,Func
+is,Dissemination,cause of mortality in cancer patients,Func
+demonstrating,We,number of trials focusing on cancer metastasis,Func
+Using,we,Cox regression analysis,Func
+molecularLinksBetween,recent evidence,assembly in mouse models,Func
+isDefinedAs,Idiopathic non-obstructive azoospermia,absence of spermatozoa in ejaculate due to spermatogenesis,Func
+was,BRCA1 promoter hypermethylation,identified,Func
+isIn,absence,ejaculate due to failed spermatogenesis,Func
+haveInvestigated,we,relationship between SNPs in Vietnamese population case-control cohort,Func
+present,We,updated overview of current clinical trials,Func
+isCauseOf,BreastCancer,cancer mortality Breast cancer,Func
+evaluated,we,splice-aware alignment algorithms in context,Func
+demonstrates,evidence,molecular links between assembly of invadopodia in patients,Func
+were,abstracted,then linked to Taiwan National Death Certificate Database,Func
+readsOn,main cause,splice junctions,Func
+disseminationOfIs,cancer cells,leading cause in cancer patients,Func
+present,We,updated overview of trials,Func
+isCauseOf,Dissemination,mortality Dissemination,Func
+present,We,updated overview of current cancer-related clinical trials,Func
+is,Estrogen dependence,major driver,Func
+evaluate,RNA-seq data,performance of splice-aware aligners,Func
+demonstrates,recent evidence,molecular links between assembly of invadopodia,Func
+demonstrates,recent evidence,links between assembly of invadopodia,Func
+Dissemination,Dissemination,cause of mortality in cancer patients Dissemination,Func
+report,we,5 UTR variant associated with epigenetic BRCA1 silencing,Func
+directLinksBetween,evidence,assembly of invadopodia in mouse models in patients,Func
+is,breast cancer risk,associated with histopathological characteristics in altitude mestizo population,Func
+report,we,5 UTR variant,Func
+wasApplied,treatment schedule,Evolution Assay leading,Func
+haveFound,Genome-wide association studies,potential breast cancer-associated single nucleotide polymorphisms in different populations,Func
+isAssociatedIn,breast cancer risk,altitude mestizo population,Func
+includeHere,We,network interaction map of proteins with currently available inhibitors,Func
+revealed,Subgroup analyses,increased risk for patients diagnosed,Func
+explored,we,impact,Func
+haveFound,Genome-wide association studies,potential breast cancer-associated nucleotide polymorphisms in different populations,Func
+wereDeterminedBy,Genotypes,genomic sequencing,Func
+include,Mechanisms,increased levels of activity,Func
+demonstrates,recent evidence,direct molecular links between assembly in mouse models,Func
+was,BRCA1 promoter hypermethylation,confirmed,Func
+stimulatesAcetylcholineReceptorsIn,toxin,systems,Func
+significantlyAffectedOutcomeIn,RNA quality,addition,Func
+wasMethylated,DNA,consistent with silencing,Func
+is,breast cancer risk,how associated in altitude mestizo population,Func
+directMolecularLinksBetween,recent evidence,assembly of invadopodia,Func
+developmentOfIs,resistance,even more complex process,Func
+is,breast cancer risk,associated with histopathological characteristics in high altitude mestizo population,Func
+wasMapped,main cause,reads on splice junctions,Func
+performedRna-seqWith,we,ten pieces of invasive carcinoma from breast tissue from patient,Func
+molecularLinksBetween,recent evidence,assembly,Func
+wereDetectedAs,Compound loss-of-function variants,likely cause,Func
+wasApplied,treatment schedule,Molecular Evolution Assay leading,Func
+is,We,cause,Func
+remains,treatment,deeply controversial,Func
+is,clinical validation,required,Func
+present,We,overview of cancer-related clinical trials,Func
+molecularLinksBetween,evidence,assembly in patients,Func
+isIn,breast cancer risk,Vietnamese population,Func
+damagingTo,cell cycle arrest,mitochondria,Func
+showed,Kaplan-Meier analyses,matching for influential factors,Func
+provided,lower all-cause survival rates,implications for treatment,Func
+include,We,network interaction map of proteins with available inhibitors,Func
+finallyCorrelated,we,SNP status,Func
+demonstrates,evidence,direct links between assembly of invadopodia,Func
+exhibit,acid dimers,higher cytotoxicity,Func
+leadTo,review,development of prognostic approaches,Func
+is,further clinical validation,required,Func
+isWith,invadopodia-associated proteins,currently available inhibitors,Func
+areIdentifiedIn,Dissemination,âˆ 1/4 20 % with individuals affected by early-onset breast variants,Func
+can,BARD1 SNPs,can used,Func
+demonstrates,recent evidence,direct links between assembly,Func
+followingRadiotherapyAs,quality,part,Func
+thereforeHaveInvestigated,we,relationship between SNPs,Func
+demonstrate,we,correlation between invadopodia-associated genes to breast cancer metastasis,Func
+directLinksBetween,evidence,assembly,Func
+explaining,Mechanisms,effect of green spaces,Func
+evaluate,data,performance of aligners,Func
+hereHaveInvestigated,we,relationship in Vietnamese population cohort,Func
+be,proteins,most promising differentially expressed targets,Func
+investigatedPrognosis,we,compared with forms,Func
+directLinksBetween,evidence,assembly in mouse models in human patients,Func
+be,proteins,promising targets,Func
+quantify,purpose,expression level of known genes,Func
+have,Green spaces,have associated with reduced cancer mortality,Func
+areIdentifiedIn,Pathogenic variants,∼ 20 %,Func
+demonstrate,we,significant correlation between genes to breast cancer metastasis,Func
+Dissemination,Dissemination,leading cause of mortality,Func
+include,Mechanisms,increased levels,Func
+developsBreastCancerIn,one,Pakistan,Func
+provided,lower all-cause survival rates,helpful implications for treatment,Func
+wasAppliedTo,whole-exome sequencing,two Estonian brothers,Func
+isWith,MCF‑7 breast cancer cells,three biological,Func
+include,We,novel network interaction map of proteins,Func
+linksBetween,evidence,assembly of invadopodia,Func
+is,breast cancer risk,how associated in altitude Ecuadorian population,Func
+restore,PI3Ki,hormone sensitivity,Func
+directMolecularLinksBetween,evidence,assembly in human patients,Func
+howeverHad,combination,effect,Func
+wasApplied,treatment schedule,Evolution Assay,Func
+have,Green spaces,have associated with cancer mortality among women,Func
+isAssociatedIn,breast cancer risk,altitude Ecuadorian population,Func
+have,Green spaces,have associated with reduced cancer mortality among women,Func
+directMolecularLinksBetween,evidence,assembly of invadopodia in mouse models in patients,Func
+directLinksBetween,recent evidence,assembly of invadopodia in mouse models,Func
+beAssociatedWith,recent pregnancy,higher mortality,Func
+was,Soma-wide BRCA1 promoter hypermethylation,confirmed,Func
+isDefinedAs,Idiopathic azoospermia,absence of spermatozoa in ejaculate due,Func
+is,cause,2nd,Func
+demonstrates,recent evidence,direct links,Func
+wasAppliedEvolutionAssayIn,treatment schedule,study,Func
+mustConsiderFeaturesDuring,researchers,RNA variant analysis,Func
+demonstrates,evidence,direct molecular links between assembly in mouse models in patients,Func
+molecularLinksBetween,evidence,assembly in mouse models in patients,Func
+cause,PI3Ki,upregulation of pro-apoptotic gene BIM,Func
+revealed,Subgroup analyses,increased risk of mortality for patients,Func
+report,we,inherited 5 UTR variant associated with epigenetic BRCA1 silencing,Func
+demonstrates,recent evidence,direct molecular links between assembly of invadopodia in mouse models in patients,Func
+revealed,RNA sequencing,loss of BRCA1 expression in families,Func
+demonstrates,recent evidence,molecular links between assembly in patients,Func
+isLeadingCauseOf,Dissemination,mortality in cancer patients,Func
+is,breast cancer risk,associated with characteristics in high altitude Ecuadorian population,Func
+have,Green spaces,have associated with cancer mortality,Func
+developmentOfIs,resistance,more complex process,Func
+hereReport,we,dominantly inherited 5 UTR variant associated with BRCA1 silencing,Func
+performedRna-seqWith,we,ten pieces of invasive carcinoma from patient,Func
+performedRna-seqWith,we,ten pieces from breast tissue,Func
+demonstrates,recent evidence,direct molecular links between assembly of invadopodia in patients,Func
+directLinksBetween,evidence,assembly in mouse models,Func
+hereHaveInvestigated,we,relationship between SNPs,Func
+was,sequencing,In study applied to two Estonian brothers diagnosed with NOA,Func
+make,poor conditions,breast self-examination best tool,Func
+demonstrates,recent evidence,direct links between assembly of invadopodia in patients,Func
+areAssociatedWith,SNPs,non-PI3K AKT signaling,Func
+isCauseIn,Dissemination,cancer patients,Func
+wasAppliedTo,whole-exome sequencing,two Estonian brothers diagnosed with NOA,Func
+directLinksBetween,recent evidence,assembly of invadopodia in human patients,Func
+isDefinedAs,non-obstructive azoospermia,absence of spermatozoa in ejaculate due to spermatogenesis,Func
+includeHere,We,novel network interaction map of proteins with available inhibitors,Func
+revealed,Subgroup analyses,increased risk of mortality for patients diagnosed,Func
+isDefinedAs,azoospermia,absence in ejaculate due,Func
+exhibitCytotoxicityThan,certain acid dimers,than non-tumorigenic cells,Func
+isCausedBy,NOA,genetic defects,Func
+wasAppliedTo,sequencing,two Estonian brothers diagnosed with NOA,Func
+haveFound,Genome-wide association studies,SNPs,Func
+demonstrating,supplementation,cooperation of hormone,Func
+stimulatesAcetylcholineReceptorsIn,toxin,nervous systems,Func
+assess,aim,attitude,Func
+showed,Kaplan-Meier analyses,matching,Func
+beAssociatedWith,pregnancy,higher mortality among ER,Func
+be,proteins,most promising expressed targets,Func
+is,clinical validation,thus required,Func
+directMolecularLinksBetween,evidence,assembly,Func
+haveFound,association studies,several potential breast cancer-associated single nucleotide polymorphisms in many different populations,Func
+revealed,RNA sequencing,loss in families,Func
+accountFor,care,RNA 's nature,Func
+importantlyHoweverHad,combination,profound BIM-dependent effect,Func
+demonstrating,supplementation,cooperation in tumor development,Func
+haveInvestigated,we,relationship in Vietnamese population case-control cohort,Func
+hereReport,we,inherited 5 UTR variant,Func
+importantlyHoweverHad,combination,profound effect,Func
+areIdentifiedIn,Dissemination,âˆ 1/4 20 % of families with individuals affected by breast variants,Func
+provided,all-cause survival rates,helpful implications for treatment of patients,Func
+isWith,medications,minimal adverse effects,Func
+areIdentifiedIn,Pathogenic variants,∼ 20 % of families with multiple individuals affected by early-onset breast,Func
+are,variants,identified,Func
+have,Green spaces,have recently associated with cancer mortality among women,Func
+discuss,we,their efficiency,Func
+areIdentifiedIn,Dissemination,âˆ 1/4 20 % of families with multiple individuals affected by breast Pathogenic variants,Func
+is,Dissemination,cause in cancer patients,Func
+isIn,leading cause,metastatic cancer patients,Func
+isCauseIn,Dissemination,metastatic cancer patients Dissemination,Func
+leadingTo,composition,only number of proteins,Func
+is,breast cancer risk,associated with characteristics in altitude mestizo population,Func
+isDefinedAs,Idiopathic non-obstructive azoospermia,absence of spermatozoa in ejaculate due,Func
+affectedBy,individuals,early-onset breast variants,Func
+linksBetween,recent evidence,assembly of invadopodia in mouse models in patients,Func
+present,We,overview of current cancer-related trials,Func
+evaluated,we,splice-aware alignment algorithms,Func
+demonstrating,short-term supplementation,cooperation,Func
+is,breast cancer risk,how associated with characteristics in altitude mestizo population,Func
+haveFound,association studies,potential breast nucleotide polymorphisms in different populations,Func
+haveInvestigated,we,relationship between SNPs in Vietnamese population cohort,Func
+demonstrates,recent evidence,direct molecular links,Func
+wasCalculatedFrom,Follow-up,date of breast cancer diagnosis,Func
+focusingOn,We,tumor control,Func
+isIn,breast cancer risk,various populations including those very similar to Vietnamese,Func
+is,breast cancer risk,how associated with histopathological characteristics in high altitude Ecuadorian population,Func
+useOfIs,deep inferior epigastric perforator,approach,Func
+exhibitCytotoxicityThan,cinnamic acid dimers,than non-tumorigenic cells,Func
+demonstrates,evidence,links,Func
+include,Mechanisms,reduced exposure,Func
+isDefinedAs,Idiopathic non-obstructive azoospermia,absence in ejaculate due,Func
+evaluated,we,popular alignment algorithms,Func
+was,RNA sequencing,undertaken,Func
+exhibitCytotoxicityThan,certain acid dimers,than cells,Func
+wasInvestigatedAgainst,activity,breast,Func
+thereforeHaveInvestigated,we,relationship between SNPs in Vietnamese population cohort,Func
+performedRna-seqWith,we,ten pieces of invasive carcinoma from single patient,Func
+phosphorylates,Activated AKT1,downstream substrates,Func
+wasAppliedTo,sequencing,two Estonian brothers diagnosed,Func
+demonstrates,recent evidence,links between assembly of invadopodia in mouse models,Func
+explored,we,treatment,Func
+isDefinedAs,non-obstructive azoospermia,absence in ejaculate,Func
+provided,all-cause survival rates,implications for treatment of patients,Func
+is,ovarian cancer,whereby caused,Func
+isDefinedAs,azoospermia,absence in ejaculate due to spermatogenesis,Func
+isIn,time,her life,Func
+had,combination,effect,Func
+provided,lower survival rates,implications for treatment of patients,Func
+thereforeHaveInvestigated,we,relationship in Vietnamese population cohort,Func
+hereThereforeHaveInvestigated,we,relationship in Vietnamese population cohort,Func
+hereReport,we,inherited 5 UTR variant associated,Func
+quantify,primary purpose,expression level,Func
+demonstrates,recent evidence,molecular links between assembly of invadopodia in human patients,Func
+demonstrates,evidence,direct links between assembly of invadopodia in mouse models,Func
+demonstrates,recent evidence,links between assembly of invadopodia in mouse models in human patients,Func
+followingRadiotherapyAs,quality,part of management,Func
+exhibitCytotoxicityThan,certain cinnamic acid dimers,than cells,Func
+demonstrates,evidence,direct molecular links between assembly of invadopodia in mouse models,Func
+is,Dissemination,cause of mortality in metastatic cancer patients Dissemination,Func
+linksBetween,recent evidence,assembly of invadopodia in patients,Func
+finallyCorrelatedWith,we,sensitivity,Func
+revealed,Subgroup analyses,risk of mortality for patients,Func
+demonstrates,evidence,molecular links between assembly,Func
+areIdentifiedIn,Dissemination,âˆ 1/4 20 % of families with individuals affected,Func
+areIdentifiedIn,Dissemination,âˆ 1/4 20 % of families with multiple individuals,Func
+isIn,cytotoxic activity,hormonal therapy-resistant,Func
+be,proteins,targets,Func
+wereDetectedAs,Compound loss-of-function variants,likely cause for their condition,Func
+hereReport,we,5 UTR variant associated,Func
+surrounding,cancer cells,tissues,Func
+phosphorylates,Activated AKT1,substrates,Func
+include,We,novel network interaction map of proteins with currently available inhibitors,Func
+cause,BreastCancer,their spread,Func
+Dissemination,Dissemination,leading cause in cancer patients Dissemination,Func
+is,Idiopathic non-obstructive azoospermia,defined,Func
+Dissemination,Dissemination,leading cause of mortality in cancer patients Dissemination,Func
+exhibitCytotoxicityIn,cinnamic acid dimers,breast cancer cells,Func
+hereHaveInvestigated,we,relationship,Func
+include,We,network interaction map of invadopodia-associated proteins with inhibitors,Func
+exhibitCytotoxicityThan,acid dimers,than non-tumorigenic cells,Func
+demonstrates,recent evidence,links between assembly of invadopodia in human patients,Func
+isIn,differences,allelic frequencies,Func
+exhibitCytotoxicityThan,cinnamic acid dimers,than cells,Func
+revealed,Subgroup analyses,risk of mortality for patients diagnosed,Func
+haveFound,association studies,potential breast cancer-associated single nucleotide polymorphisms in many different populations,Func
+leadTo,review,development of novel approaches,Func
+include,We,novel network interaction map of proteins with available inhibitors,Func
+have,Invadopodia,have observed in vivo,Func
+explored,we,impact on response,Func
+exhibit,cinnamic acid dimers,higher cytotoxicity,Func
+investigatedPrognosis,we,compared with other forms,Func
+isWith,prolonged preventive treatment,invadopodia inhibitors,Func
+revealed,Subgroup analyses,risk for patients diagnosed,Func
+report,we,inherited 5 UTR variant associated,Func
+areIdentifiedIn,Dissemination,âˆ 1/4 20 % of families with multiple individuals affected by breast variants,Func
+includeHere,We,network interaction map of invadopodia-associated proteins with inhibitors,Func
+include,We,novel network interaction map of invadopodia-associated proteins with inhibitors,Func
+wasAppliedTo,sequencing,two Estonian brothers,Func
+explaining,Mechanisms,beneficial effect of green spaces,Func
+demonstrate,we,correlation between invadopodia-associated genes,Func
+revealed,RNA sequencing,allelic loss of BRCA1 expression in families,Func
+performedRna-seqWith,we,ten pieces of invasive ductal carcinoma from breast tissue,Func
+includeHere,We,network interaction map of proteins,Func
+wasAppliedTo,whole-exome sequencing,two Estonian brothers diagnosed,Func
+demonstrates,evidence,links between assembly of invadopodia in patients,Func
+molecularLinksBetween,evidence,assembly of invadopodia in mouse models in human patients,Func
+linksBetween,evidence,assembly of invadopodia in mouse models,Func
+make,poor conditions,breast self-examination tool,Func
+is,breast cancer risk,how associated with histopathological characteristics in altitude mestizo population,Func
+were,pregnancies,abstracted,Func
+wasExaminedBy,Survival,Kaplan-Meier analyses,Func
+beAssociatedWith,recent pregnancy,mortality among ER,Func
+isIn,cause,metastatic cancer patients,Func
+is,further clinical validation,thus required,Func
+demonstrates,evidence,direct links between assembly in mouse models in patients,Func
+was,whole-exome sequencing,In study applied to two Estonian brothers diagnosed,Func
+isWith,âˆ 1/4 20 %,individuals affected by breast variants,Func
+isIn,mortality,cancer patients cancer cells,Func
+be,recent pregnancy,associated,Func
+isDefinedAs,Idiopathic azoospermia,absence of spermatozoa in ejaculate,Func
+isDefinedAs,Idiopathic azoospermia,absence in ejaculate,Func
+demonstrates,recent evidence,direct molecular links between assembly in human patients,Func
+demonstrates,evidence,direct molecular links between assembly of invadopodia in mouse models in human patients,Func
+molecularLinksBetween,evidence,assembly of invadopodia in human patients,Func
+areIdentifiedIn,Dissemination,âˆ 1/4 20 % of families with individuals,Func
+=,P,0.0015,Func
+enableInvasionThrough,extracellular matrix,it,Func
+is,BreastCancer,main cause,Func
+importantlyHoweverHadEffectIn,combination,PIK3CA-mutant cancer cells,Func
+was,sequencing,In study applied to two Estonian brothers,Func
+directLinksBetween,recent evidence,assembly of invadopodia,Func
+using,differences,R software,Func
+isDefinedAs,Idiopathic non-obstructive azoospermia,absence in ejaculate,Func
+molecularLinksBetween,evidence,assembly of invadopodia in mouse models,Func
+leadingTo,composition,small number,Func
+demonstrates,recent evidence,direct molecular links between assembly,Func
+useOfIs,deep epigastric perforator,approach,Func
+report,we,dominantly inherited 5 UTR variant associated with BRCA1 silencing,Func
+isWith,families,multiple individuals affected by early-onset breast variants,Func
+wereDetectedAs,Compound heterozygous loss-of-function variants,likely cause,Func
+linksBetween,evidence,assembly in mouse models in patients,Func
+demonstrates,evidence,links between assembly in mouse models,Func
+have,Green spaces,have recently associated with reduced cancer mortality among women,Func
+was,DNA,methylated,Func
+found,We,possible association between noncoding rs3803304,Func
+include,Mechanisms,levels,Func
+liveAbove,91 women,2,Func
+isMainCauseOf,BreastCancer,cancer mortality,Func
+areIdentifiedIn,Dissemination,âˆ variants,Func
+demonstrates,evidence,molecular links,Func
+Dissemination,Dissemination,leading cause,Func
+haveFound,association studies,several potential breast cancer-associated nucleotide polymorphisms in many different populations,Func
+found,We,possible association between noncoding intronic rs3803304,Func
+directMolecularLinksBetween,recent evidence,assembly of invadopodia in mouse models,Func
+induced,potent complexes,apoptotic cell death,Func
+areIdentified,Dissemination,identified,Func
+found,We,possible association between intronic variant rs3803304,Func
+encompasses,Breast tumorigenesis,extrinsic factors,Func
+molecularLinksBetween,recent evidence,assembly of invadopodia in patients,Func
+isDefinedAs,Idiopathic non-obstructive azoospermia,absence of spermatozoa in ejaculate,Func
+isDefinedAs,Idiopathic azoospermia,absence of spermatozoa in ejaculate due to spermatogenesis,Func
+provide,We,reference information for treatment selection,Func
+isDefinedAs,non-obstructive azoospermia,absence of spermatozoa in ejaculate due,Func
+demonstrates,recent evidence,direct molecular links between assembly in mouse models in human patients,Func
+linksBetween,recent evidence,assembly,Func
+demonstrates,evidence,links between assembly in human patients,Func
+demonstrates,recent evidence,direct links between assembly in mouse models,Func
+howeverHadEffectIn,combination,cancer cells,Func
+is,breast cancer risk,how associated with characteristics in high altitude Ecuadorian population,Func
+present,We,overview of current trials,Func
+is,breast cancer risk,associated with histopathological characteristics in high altitude Ecuadorian population,Func
+comparedWith,we,forms of thyroidectomy approaches,Func
+present,We,updated overview,Func
+quantify,primary purpose,expression level of known genes,Func
+isIn,resistance development,clinic,Func
+was,gene ontology term signaling pathway,reduced,Func
+make,socioeconomic conditions,breast self-examination tool,Func
+isAssociatedIn,breast cancer risk,high altitude Ecuadorian population,Func
+have,Green spaces,have recently associated with cancer mortality,Func
+sparing,combination,normal cells,Func
+provided,lower survival rates,helpful implications for treatment of patients,Func
+include,Mechanisms,levels of activity,Func
+areIdentifiedIn,Dissemination,âˆ 1/4 20 % of families with individuals variants,Func
+alsoUsed,We,reverse phase protein array analysis,Func
+leading,BreastCancer,cause of deaths Breast cancer,Func
+demonstrates,evidence,molecular links between assembly in mouse models in human patients,Func
+haveFound,association studies,several potential breast single nucleotide polymorphisms in different populations,Func
+directLinksBetween,recent evidence,assembly in patients,Func
+is,ovarian cancer,caused,Func
+correlatedWith,we,sensitivity to platinum,Func
+examined,We,associations,Func
+revealed,RNA sequencing,allelic loss in families,Func
+haveInvestigated,we,relationship in Vietnamese population cohort,Func
+isIn,leading cause,cancer patients cancer cells,Func
+establish,methylation analyses,frequency of mechanism,Func
+is,development,more complex process,Func
+demonstrates,evidence,direct links between assembly of invadopodia in mouse models in human patients,Func
+was,activity,investigated,Func
+linksBetween,recent evidence,assembly in mouse models in human patients,Func
+exhibitCytotoxicityThan,acid dimers,than cells,Func
+isIn,Compound heterozygous loss-of-function variants,FANCM,Func
+isCrucialFor,supportive treatment,survival,Func
+haveFound,association studies,potential breast cancer-associated nucleotide polymorphisms in many different populations,Func
+isLeadingCauseIn,Dissemination,cancer patients,Func
+areIdentifiedIn,variants,∼ 20 % of families with multiple individuals affected by early-onset breast,Func
+disseminationOfIs,cancer cells,cause in cancer patients,Func
+present,We,updated overview of cancer-related trials,Func
+surrounding,Metastatic cancer cells,blood vessels,Func
+disseminationOfIs,cancer cells,cause of mortality in cancer patients,Func
+demonstrates,recent evidence,molecular links between assembly of invadopodia in mouse models in human patients,Func
+induced,complexes,apoptotic cell death,Func
+molecularLinksBetween,evidence,assembly of invadopodia,Func
+was,This,secondary,Func
+patientsWith,protein expression/phosphorylation,ERBB3 SNPs,Func
+using,hazard ratios,Cox proportional hazard models,Func
+isIn,recurrence free survival,our patients,Func
+demonstrate,we,significant correlation between genes,Func
+isCauseOf,BreastCancer,mortality in metastatic cancer patients Dissemination,Func
+demonstrates,recent evidence,direct links between assembly of invadopodia in mouse models in patients,Func
+demonstrates,recent evidence,links between assembly in patients,Func
+establish,methylation analyses,frequency,Func
+following,quality,three-dimensional conformal radiotherapy,Func
+performedRna-seqWith,we,ten pieces of carcinoma,Func
+areIdentifiedIn,Dissemination,âˆ 1/4 20 % of families with multiple individuals variants,Func
+assess,aim,knowledge,Func
+is,This,retrospective,Func
+present,We,overview of clinical trials,Func
+demonstrates,recent evidence,molecular links between assembly in mouse models in patients,Func
+investigatedPrognosisIn,we,study,Func
+isIn,loss,BRCA1 5 UTR,Func
+performedRna-seqWith,we,ten pieces of carcinoma from breast tissue,Func
+isIn,common cancer,women worldwide,Func
+is,use,approach,Func
+exhibitCytotoxicityIn,certain acid dimers,breast cancer cells,Func
+is,their spread,cause of mortality in cancer patients,Func
+matchingFor,Kaplan-Meier analyses,influential factors,Func
+alsoShowed,Kaplan-Meier analyses,matching for factors,Func
+useOfIs,deep inferior perforator,popular approach,Func
+includeHere,We,novel network interaction map of invadopodia-associated proteins with inhibitors,Func
+restOf,cytotoxicity,complexes,Func
+is,breast cancer risk,associated with histopathological characteristics in altitude Ecuadorian population,Func
+isDefinedAs,Idiopathic non-obstructive azoospermia,absence in ejaculate due to spermatogenesis,Func
+molecularLinksBetween,recent evidence,assembly in mouse models in human patients,Func
+cooperationIn,demonstrating,tumor development,Func
+provided,lower survival rates,implications,Func
+wereIdentifiedFrom,Breast cancer patients,2002-2014,Func
+is,development,multi‑directed,Func
+was,anticancer activity,investigated,Func
+was,sequencing,In study applied to two Estonian brothers diagnosed,Func
+directLinksBetween,recent evidence,assembly in mouse models in patients,Func
+hereThereforeHaveInvestigated,we,relationship between SNPs,Func
+is,breast cancer risk,how associated with histopathological characteristics in high altitude mestizo population,Func
+exhibit,certain acid dimers,higher cytotoxicity,Func
+linksBetween,evidence,assembly of invadopodia in human patients,Func
+areIdentified,Dissemination,identified in âˆ 1/4 20 %,Func
+is,NOA,caused,Func
+finallyCorrelatedSnpStatusWith,we,sensitivity to platinum,Func
+isCausedBy,NOA,rare genetic defects,Func
+thereforeHaveInvestigated,we,relationship between SNPs in Vietnamese population case-control cohort,Func
+hereReport,we,inherited 5 UTR variant associated with epigenetic BRCA1 silencing,Func
+directMolecularLinksBetween,evidence,assembly in mouse models,Func
+molecularLinksBetween,recent evidence,assembly in human patients,Func
+isMainCauseOf,BreastCancer,cancer mortality among women,Func
+isIn,mortality,metastatic cancer patients,Func
+provided,all-cause survival rates,implications,Func
+is,their spread,leading cause of mortality in cancer patients,Func
+enable,matrix,invasion,Func
+isDefinedAs,Idiopathic azoospermia,absence in ejaculate due,Func
+for127Is,those,0.95-1.70,Func
+demonstrates,evidence,molecular links between assembly in human patients,Func
+is,breast cancer risk,associated with characteristics in high altitude mestizo population,Func
+liveAbove,91 affected women,2,Func
+is,azoospermia,defined,Func
+mayHaveOn,We used,PI3K/AKT,Func
+beneficialEffectOf,explaining,green spaces,Func
+hereHaveInvestigated,we,relationship between SNPs in Vietnamese population cohort,Func
+affectedOutcomeIn,RNA quality,addition,Func
+leadTo,review,development of approaches,Func
+haveFound,Genome-wide association studies,several potential breast nucleotide polymorphisms in many different populations,Func
+howeverHad,combination,BIM-dependent effect,Func
+establish,RNA sequencing,presence of germline variants,Func
+wereDeterminedBy,Genotypes,sequencing,Func
+linksBetween,recent evidence,assembly in human patients,Func
+provided,lower survival rates,helpful implications,Func
+haveInvestigated,we,relationship,Func
+were,sac,where synthesized,Func
+comparedWith,we,other forms of thyroidectomy approaches,Func
+useOfIs,inferior perforator,popular approach,Func
+wereDetectedAs,Compound heterozygous loss-of-function variants,likely cause for their condition,Func
+areIdentifiedIn,variants,∼ 20 %,Func
+isDefinedAs,non-obstructive azoospermia,absence in ejaculate due to spermatogenesis,Func
+directMolecularLinksBetween,recent evidence,assembly of invadopodia in human patients,Func
+was,aim,determine,Func
+hereThereforeHaveInvestigated,we,relationship between SNPs in Vietnamese population cohort,Func
+discuss,we,their predicted efficiency,Func
+have,Green spaces,have recently associated with reduced cancer mortality,Func
+useOfIs,inferior epigastric perforator,approach,Func
+restoreHormoneSensitivityIn,PI3Ki,several mouse,Func
+linksBetween,evidence,assembly of invadopodia in mouse models in human patients,Func
+were,Breast cancer patients,identified,Func
+hereThereforeHaveInvestigated,we,relationship between SNPs in Vietnamese population case-control cohort,Func
+isCauseIn,their spread,cancer patients,Func
+was,cause,mapped,Func
+demonstrates,evidence,links between assembly,Func
+make,conditions,breast self-examination tool,Func
+demonstrates,recent evidence,direct links between assembly in mouse models in human patients,Func
+impactOf,we,HER-family,Func
+was,PCR high-resolution analysis,performed,Func
+make,conditions,breast self-examination best tool,Func
+hadEffectIn,combination,cancer cells,Func
+isWith,âˆ 1/4 20 %,individuals,Func
+is,development,even more complex process,Func
+performed,we,RNA-seq,Func
+make,socioeconomic conditions,breast self-examination best tool,Func
+haveFound,association studies,several potential breast nucleotide polymorphisms in different populations,Func
+is,breast cancer risk,how associated with histopathological characteristics in altitude Ecuadorian population,Func
+investigated,we,prognosis,Func
+have,rs121434592 single nucleotide polymorphisms,have identified,Func
+thereforeHaveInvestigated,we,relationship in Vietnamese population case-control cohort,Func
+isWith,families,multiple individuals affected by early-onset breast,Func
+wasMethylated,DNA,∼ 50 %,Func
+performedRna-seqWith,we,ten pieces of invasive ductal carcinoma,Func
+demonstrates,recent evidence,molecular links between assembly of invadopodia in mouse models,Func
+demonstrates,evidence,direct links between assembly in patients,Func
+useOfIs,epigastric perforator,approach,Func
+restOf,potent cytotoxicity,complexes,Func
+found,We,possible association between variant rs3803304,Func
+demonstrating,short-term supplementation,cooperation of hormone in tumor development,Func
+areIdentifiedIn,Dissemination,âˆ 1/4 20 % of families with individuals Pathogenic variants,Func
+is,It,essential,Func
+useOfIs,perforator,popular approach,Func
+demonstrates,recent evidence,links between assembly in mouse models in patients,Func
+had,combination,BIM-dependent effect,Func
+is,Dissemination,leading cause of mortality in cancer patients,Func
+isCrucialFor,prompt supportive treatment,survival,Func
+is,Idiopathic azoospermia,defined,Func
+make,incidence,breast self-examination tool,Func
+isWith,based regimen,minor allele of ERBB3,Func
+beAssociatedWith,pregnancy,mortality,Func
+isCauseOf,Dissemination,mortality in cancer patients,Func
+following,quality,conformal radiotherapy,Func
+was,whole-exome sequencing,In study applied to two Estonian brothers diagnosed with NOA,Func
+isDefinedAs,azoospermia,absence of spermatozoa in ejaculate,Func
+is,Dissemination,leading cause in cancer patients,Func
+isDefinedAs,azoospermia,absence in ejaculate,Func
+isDefinedAs,Idiopathic azoospermia,absence in ejaculate due to spermatogenesis,Func
+evaluated,we,splice-aware alignment algorithms in context of RNA variant-calling analysis,Func
+assess,aim,practice of BSE,Func
+have,rs121434592 nucleotide polymorphisms,have identified in AKT1 kinase gene,Func
+useOfIs,deep perforator,popular approach,Func
+directLinksBetween,evidence,assembly of invadopodia in patients,Func
+developmentOf,patterns,resistance in tumor cells,Func
+demonstrating,We,role,Func
+directMolecularLinksBetween,recent evidence,assembly of invadopodia in mouse models in human patients,Func
+demonstrates,evidence,direct links between assembly of invadopodia in human patients,Func
+isDefinedAs,non-obstructive azoospermia,absence of spermatozoa in ejaculate,Func
+haveFound,Genome-wide association studies,several potential breast single nucleotide polymorphisms in many different populations,Func
+provided,lower survival rates,helpful implications for treatment of patients with PTMC,Func
+developmentOf,certain patterns,resistance in tumor cells,Func
+Dissemination,Dissemination,cause in cancer patients Dissemination,Func
+wasInvestigatedAgainst,anticancer activity,breast,Func
+isLeadingCauseOf,BreastCancer,mortality in metastatic cancer patients Dissemination,Func
+establish,methylation analyses,frequency in families affected by early-onset breast,Func
+are,Cases,quite rare,Func
+include,We,network interaction map of proteins with currently available inhibitors,Func
+block,re-purposing,breast cancer metastasis,Func
+have,rs121434592 single nucleotide polymorphisms,have identified in AKT1 kinase gene,Func
+performedRna-seqWith,we,ten pieces of ductal carcinoma from breast tissue from single patient,Func
+hereThereforeHaveInvestigated,we,relationship,Func
+were,sac =,synthesized,Func
+provide,we,overview of markers for cancer metastasis,Func
+may,it,may hypothesized,Func
+is,prompt treatment,crucial,Func
+inPolymorphismsIs,many different populations,SNPs,Func
+had,combination,cytotoxic effect,Func
+hereProvide,we,overview of markers for cancer metastasis,Func
+performedRna-seqWith,we,ten pieces of ductal carcinoma from patient,Func
+affects,Infertility,around 7 % of men,Func
+provided,lower survival rates,implications for treatment of patients with PTMC,Func
+use,it,it,Func
+isDefinedAs,non-obstructive azoospermia,absence in ejaculate due,Func
+is,breast cancer risk,associated with characteristics in altitude Ecuadorian population,Func
+includeHere,We,novel network interaction map of proteins with currently available inhibitors,Func
+demonstrates,evidence,links between assembly of invadopodia in mouse models in patients,Func
+wasMapped,main cause,reads,Func
+linksBetween,recent evidence,assembly in mouse models,Func
+establish,RNA sequencing,presence,Func
+haveFound,Genome-wide association studies,potential breast single nucleotide polymorphisms in many different populations,Func
+enable,extracellular matrix,invasion,Func
+exhibitCytotoxicityIn,acid dimers,breast cancer cells,Func
+Dissemination,Dissemination,cause,Func
+areIdentifiedIn,Dissemination,âˆ 1/4 20 % of families with individuals families,Func
+was,whole-exome sequencing,In study applied to two Estonian brothers,Func
+isLeadingCauseIn,Dissemination,metastatic cancer patients Dissemination,Func
+haveFound,Genome-wide association studies,several potential breast cancer-associated single nucleotide polymorphisms in different populations,Func
+leadTo,review,development of novel prognostic approaches,Func
+demonstrates,evidence,molecular links between assembly of invadopodia in mouse models in patients,Func
+include,Mechanisms,exposure,Func
+isIn,protein expression,MCF‑7 breast cancer cells with three biological,Func
+leadingTo,composition,only small number,Func
+thereforeHaveInvestigated,we,relationship,Func
+evaluated,we,popular alignment algorithms in context,Func
+exhibit,certain cinnamic acid dimers,higher cytotoxicity,Func
+report,we,inherited 5 UTR variant,Func
+demonstrate,we,significant correlation,Func
+performedRna-seqWith,we,ten pieces of ductal carcinoma from single patient,Func
+were,90,Among 30,Func
+is,Dissemination,leading cause of mortality in metastatic cancer patients Dissemination,Func
+demonstrates,evidence,direct molecular links between assembly of invadopodia in human patients,Func
+hereReport,we,5 UTR variant,Func
+directLinksBetween,evidence,assembly in human patients,Func
+were,RNA-seq data,used,Func
+quantify,purpose,expression level,Func
+cooperationOf,demonstrating,hormone,Func
+haveFound,association studies,potential breast single nucleotide polymorphisms in different populations,Func
+establish,methylation analyses,frequency of mechanism in families affected by early-onset breast,Func
+exhibitCytotoxicityIn,certain cinnamic acid dimers,breast cancer cells,Func
+areIdentifiedIn,Pathogenic variants,∼ 20 % of families with individuals affected by early-onset breast,Func
+demonstrates,evidence,molecular links between assembly in mouse models,Func
+is,breast cancer risk,how associated with characteristics in altitude Ecuadorian population,Func
+isDefinedAs,azoospermia,absence of spermatozoa in ejaculate due,Func
+isAssociatedIn,breast cancer risk,high altitude mestizo population,Func
+demonstrating,We,negligible number of trials focusing on cancer metastasis,Func
+directMolecularLinksBetween,recent evidence,assembly in mouse models in patients,Func
+are,Cases,rare,Func
+isLeadingCauseIn,their spread,cancer patients,Func
+provide,we,detailed overview of markers for cancer metastasis,Func
+examine,We,impact ERBB3 SNPs,Func
+exhibitCytotoxicityThan,certain cinnamic acid dimers,than non-tumorigenic cells,Func
+effectOf,explaining,green spaces,Func
+isLeadingCauseIn,BreastCancer,cancer patients,Func
+is,leading cause,cause of,Func
+is,non-obstructive azoospermia,defined,Func
+is,breast cancer risk,how associated in high altitude mestizo population,Func
+following,quality,conventional conformal radiotherapy,Func
+haveInvestigated,we,relationship between SNPs,Func
+hereThereforeHaveInvestigated,we,relationship in Vietnamese population case-control cohort,Func
+is,breast cancer risk,how associated in high altitude Ecuadorian population,Func
+is,development,complex,Func
+performedRna-seqWith,we,ten pieces of invasive carcinoma from breast tissue from single patient,Func
+isWith,families,multiple individuals affected by early-onset breast Pathogenic variants,Func
+patientsWith,elevated protein expression/phosphorylation,ERBB3 SNPs,Func
+leadingTo,composition,number of proteins,Func
+hereHaveInvestigated,we,relationship in Vietnamese population case-control cohort,Func
+make,poor socioeconomic conditions,breast self-examination tool,Func
+isIn,several potential breast cancer-associated single nucleotide polymorphisms,many different populations,Func
+evaluate,data,performance,Func
+is,breast cancer risk,how associated with characteristics in high altitude mestizo population,Func
+performedRna-seqWith,we,ten pieces of ductal carcinoma from breast tissue from patient,Func
+includeHere,We,network interaction map of proteins with available inhibitors,Func
+demonstrates,recent evidence,direct links between assembly in human patients,Func
+hereHaveInvestigated,we,relationship between SNPs in Vietnamese population case-control cohort,Func
+molecularLinksBetween,recent evidence,assembly of invadopodia in mouse models in patients,Func
+provided,survival rates,implications for treatment,Func
+correlatedSnpStatusWith,we,sensitivity,Func
+linksBetween,evidence,assembly in patients,Func
+wereDiagnosedAmong,90,30,Func
+areIdentifiedIn,Dissemination,âˆ Pathogenic variants,Func
+wasAppliedEvolutionAssayIn,treatment schedule,model,Func
+isCauseIn,BreastCancer,cancer patients,Func
+performedRna-seqWith,we,ten pieces,Func
+areIdentifiedIn,variants,∼ 20 % of families with individuals affected by early-onset breast,Func
+areIdentifiedIn,Dissemination,âˆ 1/4 20 % of families,Func
+demonstrates,evidence,direct molecular links between assembly in patients,Func
+have,rs121434592 nucleotide polymorphisms,have identified,Func

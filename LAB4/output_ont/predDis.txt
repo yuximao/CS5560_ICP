@@ -1,0 +1,78 @@
+isLeadingCauseOf,Breast cancer,deaths,,Func
+isSecondLeadingCauseOf,Breast cancer,deaths,,Func
+isCauseOf,Breast cancer,deaths,,Func
+causeOfWas,death,breast cancer,,Func
+isSecondCauseOf,Breast cancer,deaths,,Func
+isLeadingCauseOf,Breast cancer,death,,Func
+is,Breast cancer,cancer,,Func
+majorCauseOfWas,death,breast cancer,,Func
+isCauseOf,Breast cancer,death,,FuncisMostCommonCancerIn,Breast cancer,women,,Func
+isCancerIn,Breast cancer,women,,Func
+isCommonCancerIn,Breast cancer,women,,FuncrecurFollowing,breast tumors,initial response,,Func
+isLeadingCauseOf,Breast cancer,cancer mortality,,Func
+is,Breast cancer,2nd leading cause,,Func
+isLeadingCauseOf,Breast cancer,cancer related deaths in women,,Func
+isLeadingCauseOf,Breast cancer,cancer deaths,,Func
+isLeadingCauseOf,Breast cancer,cancer-related death among women worldwide,,Func
+howeverRecurFollowing,breast tumors,initial response,,Func
+isCauseOf,Breast cancer,death among women worldwide,,Func
+isCauseOf,Breast cancer,cancer-related deaths,,Func
+isCauseOf,Breast cancer,cancer related deaths in women,,Func
+is,cancer,whereby caused by,,Func
+is,Breast cancer,second leading cause,,Func
+isCauseOf,Breast cancer,cancer mortality among women,,Func
+is,Breast cancer,classified,,Func
+is,cancer,leading,,Func
+ofDateIs,death,2014,,Func
+is2ndLeadingCauseOf,Breast cancer,cancer mortality,,Func
+isCauseOf,Breast cancer,cancer mortality,,Func
+is,cancer,caused by,,Func
+is,Breast cancer,2nd cause,,Func
+basedOn,cancer,receptor status,,Func
+is2ndCauseOf,Breast cancer,cancer mortality,,Func
+isCauseOf,Breast cancer,cancer deaths in women worldwide,,Func
+is,Breast cancer,common cancer,,Func
+howeverRecurFollowing,breast tumors,response,,Func
+isLeadingCauseOf,Breast cancer,death among women worldwide,,Func
+recurFollowing,breast tumors,response,,Func
+isSecondCauseOf,Breast cancer,cancer-related deaths,,Func
+isCommonCancerIn,Breast cancer,women worldwide,,Func
+isSecondLeadingCauseOf,Breast cancer,cancer-related deaths,,Func
+isLeadingCauseOf,Breast cancer,cancer-related deaths,,Func
+is,Breast cancer,second cause,,Func
+is,Breast cancer,cause,,Func
+isCauseOf,Breast cancer,cancer deaths,,Func
+isCauseOf,Breast cancer,cancer-related death among women worldwide,,Func
+isLeadingCauseOf,Breast cancer,cancer deaths in women worldwide,,Func
+recurWithin,breast tumors,10 years,,Func
+is,Breast cancer,leading cause,,Func
+howeverRecurWithin,breast tumors,10 years,,Func
+isLeadingCauseOf,Breast cancer,cancer mortality in women,,Func
+is2ndCauseOf,Breast cancer,cancer mortality in women,,Func
+is,Breast cancer,main cause,,Func
+exhibits,Breast cancer,highest incidence of cancer types,,Func
+is,cancer,whereby caused,,Func
+exhibits,Breast cancer,incidence of cancer types,,Func
+is,Breast cancer,most common cancer,,Func
+isCauseOf,Breast cancer,cancer related deaths,,Func
+isCancerIn,Breast cancer,women worldwide,,Func
+isCauseOf,Breast cancer,deaths worldwide,,Func
+isMostCommonCancerIn,Breast cancer,women worldwide,,Func
+isCauseOf,Breast cancer,death among women,,Func
+isMainCauseOf,Breast cancer,cancer mortality,,Func
+isCauseOf,Breast cancer,cancer related deaths in women worldwide,,Func
+isLeadingCauseOf,Breast cancer,cancer related deaths in women worldwide,,Func
+is2ndLeadingCauseOf,Breast cancer,cancer mortality in women,,Func
+isMainCauseOf,Breast cancer,cancer mortality among women,,Func
+isCauseOf,Breast cancer,cancer-related death among women,,Func
+isLeadingCauseOf,Breast cancer,cancer-related death,,Func
+isLeadingCauseOf,Breast cancer,cancer related deaths,,Func
+isLeadingCauseOf,Breast cancer,death among women,,Func
+isCauseOf,Breast cancer,cancer-related death,,Func
+isLeadingCauseOf,Breast cancer,deaths worldwide,,Func
+isCauseOf,Breast cancer,cancer mortality in women,,Func
+isLeadingCauseOf,Breast cancer,cancer-related death among women,,Func
+isCauseOf,Breast cancer,cancer deaths in women,,Func
+isLeadingCauseOf,Breast cancer,cancer deaths in women,,Func
+is,cancer,caused,,Func
+isClassifiedInto,Breast cancer,subtypes,,Func

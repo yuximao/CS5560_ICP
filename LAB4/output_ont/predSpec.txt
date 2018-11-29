@@ -1,0 +1,36 @@
+isWith,patients,PTMC,Funchad,patients,survival rates,Func
+were,patients,significantly more likely,Func
+mayConsume,Patients,plant,Func
+hadSurvivalRatesAccordingTo,patients,Cox regression analyses,Func
+provided,patients,helpful implications for treatment,Func
+hadSurvivalRatesIn,patients,comparison,Func
+shown,patients,elevated protein expression/phosphorylation,Func
+provided,patients,implications for treatment,Func
+had,patients,similar cancer-specific survival rates,Func
+shown,patients,protein expression/phosphorylation of Src kinase,Func
+shown,patients,protein expression/phosphorylation,Func
+had,patients,lower all-cause survival rates,Func
+had,patients,higher all-cause survival rates,Func
+undergoing,patients,biopsy,Func
+hadSurvivalRatesIn,patients,comparison with patients,Func
+shown,patients,elevated protein expression/phosphorylation of Src kinase,Func
+were,patients,more likely,Func
+mistaking,Patients,it,Func
+isWith,patients,ERBB3 SNPs,Func
+had,patients,all-cause survival rates,Func
+had,patients,cancer-specific survival rates,Func
+hadSurvivalRatesAccordingTo,patients,multivariate Cox regression analyses,Func
+wereDeadBy,patients,end of 2014,Func
+were,patients,dead,Func
+provided,patients,helpful implications for treatment of patients,Func
+provided,patients,implications for treatment of patients,Func
+provided,patients,implications for treatment of patients with PTMC,Func
+were,patients,significantly likely,Func
+had,patients,higher survival rates,Func
+provided,patients,implications,Func
+were,patients,likely,Func
+wereDeadBy,patients,end,Func
+provided,patients,helpful implications,Func
+had,patients,lower survival rates,Func
+had,patients,similar survival rates,Func
+provided,patients,helpful implications for treatment of patients with PTMC,Func

@@ -1,0 +1,4 @@
+Disease,cancer
+Disease,death
+Disease,breastCancer
+Disease,breastTumors

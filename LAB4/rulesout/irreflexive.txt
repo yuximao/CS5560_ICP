@@ -1,0 +1,1 @@
+depression,istypeOf,mental  irreflexive is depression isTypeOf,depression

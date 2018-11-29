@@ -1,0 +1,4 @@
+depression,is,leadingCause SYMMETRIC TO leadingCause,is,depression
+
+leadingCause,is,depression SYMMETRIC TO depression,is,leadingCause
+
