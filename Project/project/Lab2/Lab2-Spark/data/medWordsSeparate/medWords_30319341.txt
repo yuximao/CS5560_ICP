@@ -1,0 +1,14 @@
+Depression	Disease
+depression	Disease
+depression	Disease
+depression	Disease
+depression	Disease
+patients	Species
+depression	Disease
+patients	Species
+depression	Disease
+patients	Species
+depression	Disease
+patients	Species
+depression	Disease
+patients	Species

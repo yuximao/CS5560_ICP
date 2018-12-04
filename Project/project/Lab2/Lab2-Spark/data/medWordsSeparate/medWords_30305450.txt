@@ -1,0 +1,20 @@
+patients	Species
+movement disorders	Disease
+patients	Species
+movement disorders	Disease
+patients	Species
+movement disorders	Disease
+neurologic symptom disorder	Disease
+abnormal involuntary movements	Disease
+participants	Species
+Depression	Disease
+Trauma	Disease
+depression	Disease
+anxiety	Disease
+Patients	Species
+movement disorders	Disease
+patient	Species
+patients	Species
+movement disorders	Disease
+matter abnormalities	Disease
+patients	Species

@@ -1,0 +1,20 @@
+mental disorders	Disease
+mental disorders	Disease
+mental disorders	Disease
+mental disorders	Disease
+Mental disorders	Disease
+mental disorders	Disease
+males	Species
+mental disorder	Disease
+anxiety	Disease
+dissociative and somatoform disorders	Disease
+male	Species
+male	Species
+drug dependence	Disease
+male	Species
+episodic mood disorders	Disease
+male	Species
+male	Species
+depressive disorder	Disease
+male	Species
+mental disorders	Disease

@@ -1,0 +1,24 @@
+MEN	Disease
+substance abuse	Disease
+mental health disorders	Disease
+people	Species
+men	Species
+Hepatitis C	Disease
+Patient	Species
+men	Species
+men	Species
+men	Species
+alcoholic abuse	Disease
+substance abuse	Disease
+depression	Disease
+anxiety	Disease
+psychosis	Disease
+mental health disorder	Disease
+metabolic syndrome	Disease
+cardiovascular disease	Disease
+hepatitis C	Disease
+respiratory disorder	Disease
+men	Species
+metabolic disorders	Disease
+Hepatitis C	Disease
+men	Species

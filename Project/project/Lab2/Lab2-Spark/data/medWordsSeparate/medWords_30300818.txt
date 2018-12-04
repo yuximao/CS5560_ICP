@@ -1,0 +1,10 @@
+Women	Species
+compulsive buying or gambling disorder	Disease
+women	Species
+gambling disorder	Disease
+women	Species
+women	Species
+depressive disorders	Disease
+tobacco	Species
+CBB	Chemical
+women	Species

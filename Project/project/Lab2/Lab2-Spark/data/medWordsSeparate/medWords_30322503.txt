@@ -1,0 +1,5 @@
+childhood cancer	Disease
+childhood cancer	Disease
+childhood cancer	Disease
+cancer	Disease
+childhood cancer	Disease

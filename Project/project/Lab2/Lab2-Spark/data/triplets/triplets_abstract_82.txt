@@ -1,0 +1,3 @@
+functional ability	relate to	cognition
+functional disability	related to	cognition from that attribute to motor symptom
+performance-based functional assessment	allow for	direct observation of activity of daily living skill

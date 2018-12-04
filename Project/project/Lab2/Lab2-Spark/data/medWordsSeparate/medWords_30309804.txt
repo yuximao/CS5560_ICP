@@ -1,0 +1,30 @@
+sporadic Creutzfeldt-Jakob disease	Disease
+Sporadic Creutzfeldt-Jakob disease	Disease
+sCJD	Disease
+human	Species
+prion disease	Disease
+sCJD	Disease
+PrPC	Gene
+Neuropathological disease	Disease
+gliosis	Disease
+neuronal loss	Disease
+spongiform degeneration	Disease
+visual disabilities	Disease
+cognitive impairment, gait or limb ataxia	Disease
+myoclonus	Disease
+Definite	Chemical
+sCJD	Disease
+neuronal damage	Disease
+PrPC	Gene
+NFL	Gene
+neurological disorders	Disease
+prion diseases	Disease
+NFL	Gene
+patient	Species
+sCJD	Disease
+sCJD	Disease
+NFL	Gene
+sCJD	Disease
+NFL	Gene
+NFL	Gene
+sCJD	Disease

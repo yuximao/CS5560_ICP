@@ -1,0 +1,23 @@
+Turkey	Species
+isolated disease	Disease
+malnutrition	Disease
+dementia	Disease
+depression	Disease
+urinary incontinence	Disease
+ulcer	Disease
+sarcopenia	Disease
+patients	Species
+urinary incontinence	Disease
+dementia	Disease
+depression	Disease
+Mental Disorders	Disease
+sarcopenia	Disease
+urinary incontinence 47	Disease
+malnutrition	Disease
+depression	Disease
+dementia	Disease
+sarcopenia	Disease
+participants	Species
+depression	Disease
+depression	Disease
+people	Species

@@ -1,0 +1,20 @@
+anxiety disorders and/or depression	Disease
+Anxiety disorders	Disease
+depression	Disease
+mental health problems	Disease
+MHP	Disease
+MHP	Disease
+mental/cognitive disabilities	Disease
+anxiety and/or depression	Disease
+MHP	Disease
+MHP	Disease
+anxiety disorder	Disease
+depression	Disease
+anxiety	Disease
+depression	Disease
+anxiety	Disease
+depression	Disease
+anxiety and/or depression	Disease
+person	Species
+mental/cognitive disabilities	Disease
+mental health problems	Disease

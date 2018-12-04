@@ -1,0 +1,14 @@
+approaches for anorexia nervosa	Disease
+Anorexia nervosa	Disease
+AN	Disease
+AN	Disease
+Mental Disorders	Disease
+participants	Species
+anorexia nervosa	Disease
+participants	Species
+participants	Species
+participants	Species
+participants	Species
+eating disorder	Disease
+participants	Species
+people	Species

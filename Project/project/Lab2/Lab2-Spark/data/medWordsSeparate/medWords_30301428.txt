@@ -1,0 +1,9 @@
+Schizophrenia	Disease
+Schizophrenia	Disease
+mental illness	Disease
+hallucinations	Disease
+schizophrenia	Disease
+patients	Species
+schizophrenia	Disease
+patient	Species
+schizophrenia	Disease

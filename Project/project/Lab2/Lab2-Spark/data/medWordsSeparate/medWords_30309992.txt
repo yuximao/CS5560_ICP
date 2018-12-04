@@ -1,0 +1,26 @@
+depression	Disease
+alcohol	Chemical
+low-income and middle-income country districts	Disease
+depression	Disease
+alcohol use disorder	Disease
+AUD	Disease
+low-income and middle-income country	Disease
+LMIC	Disease
+PARTICIPANTS	Species
+depression	Disease
+AUD	Disease
+participants	Species
+depression	Disease
+depression	Disease
+AUD	Disease
+AUD	Disease
+depression	Disease
+participants	Species
+depression	Disease
+participants	Species
+AUD	Disease
+participants	Species
+AUD	Disease
+patients	Species
+LMIC	Disease
+LMIC	Disease

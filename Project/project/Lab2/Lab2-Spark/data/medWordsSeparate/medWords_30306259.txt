@@ -1,0 +1,21 @@
+people	Species
+psychiatric	Disease
+patients	Species
+severe mental illness	Disease
+SMI	Disease
+patient	Species
+patients	Species
+patients	Species
+SMI	Disease
+respiratory tract disorders	Disease
+metabolic syndrome	Disease
+cardiovascular complications	Disease
+osteoporosis	Disease
+fractures	Disease
+patients	Species
+SMI	Disease
+patient	Species
+psychiatric	Disease
+patients	Species
+SMI	Disease
+psychiatric	Disease

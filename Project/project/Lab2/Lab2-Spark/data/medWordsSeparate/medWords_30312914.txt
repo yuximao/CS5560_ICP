@@ -1,0 +1,12 @@
+suicidal ideation	Disease
+suicidal ideation	Disease
+SI	Disease
+SI	Disease
+SI	Disease
+Patients	Species
+SI	Disease
+SI	Disease
+mental health problems	Disease
+SI	Disease
+SI	Disease
+substance abuse	Disease

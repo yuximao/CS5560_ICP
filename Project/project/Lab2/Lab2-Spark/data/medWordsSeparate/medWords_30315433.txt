@@ -1,0 +1,11 @@
+Assisted outpatient treatment	Disease
+AOT	Disease
+people	Species
+mental illness	Disease
+AOT	Disease
+AOT	Disease
+AOT	Disease
+patient	Species
+AOT	Disease
+AOT	Disease
+AOT	Disease

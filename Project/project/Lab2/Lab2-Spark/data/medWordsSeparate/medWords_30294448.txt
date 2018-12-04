@@ -1,0 +1,8 @@
+generalised anxiety disorder	Disease
+generalised anxiety disorder	Disease
+GAD	Disease
+patients	Species
+patients	Species
+GAD	Disease
+patients	Species
+GAD	Disease

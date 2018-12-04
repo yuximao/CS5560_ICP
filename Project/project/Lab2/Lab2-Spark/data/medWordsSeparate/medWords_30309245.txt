@@ -1,0 +1,17 @@
+schizophrenia	Disease
+schizophrenia	Disease
+schizophrenia	Disease
+schizophrenia	Disease
+real-world settings	Disease
+schizophrenia	Disease
+patients	Species
+schizophrenia	Disease
+patients	Species
+patients	Species
+patients	Species
+patients	Species
+person	Species
+person	Species
+patients	Species
+patients	Species
+schizophrenia	Disease

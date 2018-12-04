@@ -1,0 +1,24 @@
+Patients	Species
+patients	Species
+clozapine	Chemical
+risperidone	Chemical
+olanzapine	Chemical
+quetiapine	Chemical
+aripiprazole	Chemical
+ziprasidone	Chemical
+paliperidone	Chemical
+asenapine	Chemical
+iloperidone	Chemical
+lurasidone	Chemical
+cariprazine	Chemical
+schizophrenia	Disease
+bipolar disorder	Disease
+Tourette's disorder	Disease
+autism spectrum disorder	Disease
+disruptive behavior disorders	Disease
+aggression	Disease
+mental health disorders	Disease
+children	Species
+patient	Species
+Maladaptive aggression	Disease
+children	Species

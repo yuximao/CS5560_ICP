@@ -1,0 +1,32 @@
+Psychotic Symptoms	Disease
+Psychosis	Disease
+psychosis	Disease
+subthreshold psychotic symptoms	Disease
+STPS	Disease
+psychosis	Disease
+patients	Species
+psychosis	Disease
+STPS	Disease
+patients	Species
+STPS	Disease
+Participants	Species
+patients	Species
+Patients	Species
+STPS	Disease
+STPS	Disease
+STPS	Disease
+Depression	Disease
+Schizophrenia	Disease
+Hamilton Anxiety	Disease
+male	Species
+participants	Species
+male	Species
+participants	Species
+psychosis	Disease
+patients	Species
+patients	Species
+STPS	Disease
+psychotic symptoms	Disease
+patients	Species
+STPS	Disease
+psychotic illness	Disease

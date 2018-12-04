@@ -1,0 +1,18 @@
+ARFID	Disease
+Avoidant/restrictive food intake disorder	Disease
+ARFID	Disease
+rumination disorder	Disease
+RD	Disease
+DSM-5	Species
+ARFID	Disease
+ARFID	Disease
+ARFID	Disease
+ARFID	Disease
+RD	Disease
+participants	Species
+ARFID	Disease
+participants	Species
+ARFID	Disease
+ARFID	Disease
+ARFID	Disease
+ARFID	Disease

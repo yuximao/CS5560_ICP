@@ -1,0 +1,4 @@
+depression	Disease
+patient	Species
+patient	Species
+patients	Species

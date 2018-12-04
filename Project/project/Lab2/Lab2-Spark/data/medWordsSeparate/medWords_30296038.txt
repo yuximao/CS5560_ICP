@@ -1,0 +1,6 @@
+Children	Species
+Untreated mental disorders	Disease
+mental illness	Disease
+children	Species
+mental illness	Disease
+mental illness	Disease

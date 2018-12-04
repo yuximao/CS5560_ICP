@@ -1,0 +1,30 @@
+zinc	Chemical
+lithium	Chemical
+bipolar disorder	Disease
+Lithium	Chemical
+bipolar disorder	Disease
+BD	Disease
+Lithium	Chemical
+BD	Disease
+patients	Species
+lithium	Chemical
+lithium chloride	Chemical
+lithium	Chemical
+patients	Species
+BD	Disease
+patients	Species
+lithium	Chemical
+lithium	Chemical
+zinc	Chemical
+ZNF429	Gene
+zinc	Chemical
+ZNF493	Gene
+lithium	Chemical
+lithium	Chemical
+ZNF493	Gene
+ZNF493	Gene
+lithium	Chemical
+lithium	Chemical
+BD	Disease
+zinc	Chemical
+lithium	Chemical

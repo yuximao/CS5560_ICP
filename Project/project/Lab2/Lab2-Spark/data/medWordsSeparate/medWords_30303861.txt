@@ -1,0 +1,30 @@
+Methylenedioxymethamphetamine	Chemical
+MDMA	Chemical
+mental health disorders	Disease
+posttraumatic stress disorders	Disease
+PTSD	Disease
+methylenedioxymethamphetamine	Chemical
+MDMA	Chemical
+patients	Species
+MDMA	Chemical
+patients	Species
+psychopathology of the disorder	Disease
+MDMA	Chemical
+neurotoxicity	Disease
+MDMA	Chemical
+PTSD	Disease
+MDMA	Chemical
+MDMA	Chemical
+PTSD	Disease
+MDMA	Chemical
+Methylenedioxymethamphetamine	Chemical
+oxytocin	Chemical
+MDMA	Chemical
+MDMA	Chemical
+PTSD	Disease
+MDMA	Chemical
+PTSD	Disease
+MDMA	Chemical
+MDMA	Chemical
+MDMA	Chemical
+MDMA	Chemical

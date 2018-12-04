@@ -1,0 +1,10 @@
+anorexia	Disease
+Disordered Eating	Disease
+anorexia	Disease
+eating disorders	Disease
+anorexia	Disease
+eating disorders	Disease
+mental illness	Disease
+eating disorders	Disease
+eating disorders	Disease
+eating disorders	Disease

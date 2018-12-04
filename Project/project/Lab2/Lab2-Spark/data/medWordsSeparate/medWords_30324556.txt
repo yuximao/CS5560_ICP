@@ -1,0 +1,32 @@
+depression	Disease
+hearing-impairment	Disease
+mental disorders	Disease
+psychiatric	Disease
+depression	Disease
+people	Species
+hearing-impairment	Disease
+patient	Species
+hearing-impaired	Disease
+participants	Species
+women	Species
+men	Species
+mental disorder	Disease
+psychiatric	Disease
+hearing-impaired	Disease
+participants	Species
+women	Species
+men	Species
+mental disorders	Disease
+hearing-impairments	Disease
+functional impairment	Disease
+Sheehan Disability	Disease
+SDS	Chemical
+depressive symptoms	Disease
+Participants	Species
+patient	Species
+depression	Disease
+hearing-impairment	Disease
+patients	Species
+hearing-impaired	Disease
+mental disorders	Disease
+patients	Species

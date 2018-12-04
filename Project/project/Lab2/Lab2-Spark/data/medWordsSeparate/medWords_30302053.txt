@@ -1,0 +1,14 @@
+Patients	Species
+Schizophrenia	Disease
+Bipolar Disorder	Disease
+patients	Species
+schizophrenia	Disease
+bipolar disorder	Disease
+patient	Species
+mental illness	Disease
+patients	Species
+patients	Species
+patients	Species
+schizophrenia	Disease
+bipolar disorder	Disease
+patients	Species

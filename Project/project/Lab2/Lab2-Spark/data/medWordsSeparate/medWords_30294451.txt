@@ -1,0 +1,8 @@
+depression	Disease
+anxiety	Disease
+patients	Species
+patient	Species
+patient	Species
+patient	Species
+Anxiety disorders	Disease
+depressive disorders	Disease

@@ -1,0 +1,9 @@
+mental disorders	Disease
+people	Species
+mental illness	Disease
+people	Species
+mental illness	Disease
+people	Species
+mental illness	Disease
+cardiovascular disease	Disease
+participants	Species

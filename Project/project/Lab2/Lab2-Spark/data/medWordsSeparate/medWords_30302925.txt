@@ -1,0 +1,11 @@
+depression	Disease
+people	Species
+depression	Disease
+people	Species
+Depressive Disorder	Disease
+depression	Disease
+people	Species
+depression	Disease
+people	Species
+people	Species
+psychological health	Disease

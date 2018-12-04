@@ -1,0 +1,3 @@
+patient	Species
+mental disorders	Disease
+Person	Species

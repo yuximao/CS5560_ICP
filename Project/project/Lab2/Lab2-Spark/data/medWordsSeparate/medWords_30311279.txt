@@ -1,0 +1,27 @@
+17b-estradiol	Chemical
+rat	Species
+depression	Disease
+psychiatric disorders	Disease
+major depressive disorder	Disease
+women	Species
+men	Species
+estrogen	Chemical
+17b-estradiol	Chemical
+depression	Disease
+17b-estradiol	Chemical
+depression	Disease
+Sprague-Dawley rats	Species
+Rats	Species
+saccharin	Chemical
+anxiety	Disease
+anxiety	Disease
+17b-estradiol	Chemical
+progesterone	Chemical
+testosterone	Chemical
+rats	Species
+17b-estradiol	Chemical
+saccharin	Chemical
+estrogens	Chemical
+17b-estradiol	Chemical
+depression-related symptoms	Disease
+anhedonia	Disease

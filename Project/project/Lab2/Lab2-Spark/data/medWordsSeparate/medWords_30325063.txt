@@ -1,0 +1,20 @@
+HIV	Species
+mouse	Species
+HIV-associated neurocognitive disorder	Disease
+C1q	Gene
+HIV-associated neurocognitive disorders	Disease
+HAND	Disease
+HIV	Species
+type of cognitive impairment	Disease
+HIV	Species
+neurotoxic	Disease
+mouse	Species
+HAND	Disease
+C1q	Gene
+C1qa	Gene
+mice	Species
+wild-type	Disease
+WT	Disease
+mice	Species
+C1q	Gene
+HIV1	Species

@@ -1,0 +1,26 @@
+eating disorders	Disease
+eating-disorder	Disease
+ED	Disease
+athletes	Disease
+athletes	Disease
+athletes	Disease
+athletes	Disease
+athletes	Disease
+ED	Disease
+athletes	Disease
+athletes	Disease
+women	Species
+athletes	Disease
+ED	Disease
+women	Species
+athletes	Disease
+ED	Disease
+athletes	Disease
+ED	Disease
+athletes	Disease
+ED	Disease
+athletes	Disease
+ED	Disease
+athletes	Disease
+athletes	Disease
+EDs	Disease

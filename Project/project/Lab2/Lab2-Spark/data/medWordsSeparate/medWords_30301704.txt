@@ -1,0 +1,27 @@
+Sexual Dysfunction	Disease
+sexual dysfunction	Disease
+sexual dysfunction	Disease
+sexual dysfunction	Disease
+sexual dysfunction	Disease
+anxiety	Disease
+depression	Disease
+sexual dysfunction	Disease
+erectile dysfunction	Disease
+ED	Disease
+sexual dysfunction-ED	Disease
+hypoactive sexual desire disorder	Disease
+HSDD	Disease
+sexual performance anxiety	Disease
+XCT	Gene
+sexual dysfunction	Disease
+mental disorders	Disease
+sexual dysfunction	Disease
+sexual dysfunction	Disease
+men	Species
+ED	Disease
+women	Species
+HSDD	Disease
+men	Species
+women	Species
+sexual performance anxiety	Disease
+Sexual Dysfunction	Disease

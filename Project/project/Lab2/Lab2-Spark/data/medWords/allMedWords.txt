@@ -1,0 +1,1934 @@
+patients	Species
+mental health disorders	Disease
+patient	Species
+psychosomatic disorder	Disease
+patients	Species
+women	Species
+panic disorder	Disease
+newborns	Species
+women	Species
+panic disorder	Disease
+women	Species
+patients	Species
+panic disorder	Disease
+patients	Species
+panic disorder	Disease
+Panic disorder	Disease
+Mental Disorders	Disease
+preterm birth	Disease
+infants	Species
+patients	Species
+infants	Species
+infants	Species
+patients	Species
+newborns	Species
+patients	Species
+panic disorder	Disease
+panic disorder	Disease
+infants	Species
+Patients	Species
+Anorexia Nervosa	Disease
+patients	Species
+anorexia nervosa	Disease
+AN	Disease
+anxiety	Disease
+eating disorders	Disease
+patients	Species
+AN	Disease
+Patients	Species
+AN	Disease
+eating disorder	Disease
+anxiety	Disease
+depression	Disease
+patients	Species
+AN	Disease
+patients	Species
+psychopathologies of eating disorders	Disease
+participants	Species
+patients	Species
+AN	Disease
+psychopathology of eating disorders	Disease
+anxiety	Disease
+patients	Species
+AN	Disease
+HIV	Species
+mouse	Species
+HIV-associated neurocognitive disorder	Disease
+C1q	Gene
+HIV-associated neurocognitive disorders	Disease
+HAND	Disease
+HIV	Species
+type of cognitive impairment	Disease
+HIV	Species
+neurotoxic	Disease
+mouse	Species
+HAND	Disease
+C1q	Gene
+C1qa	Gene
+mice	Species
+wild-type	Disease
+WT	Disease
+mice	Species
+C1q	Gene
+HIV1	Species
+MEN	Disease
+substance abuse	Disease
+mental health disorders	Disease
+people	Species
+men	Species
+Hepatitis C	Disease
+Patient	Species
+men	Species
+men	Species
+men	Species
+alcoholic abuse	Disease
+substance abuse	Disease
+depression	Disease
+anxiety	Disease
+psychosis	Disease
+mental health disorder	Disease
+metabolic syndrome	Disease
+cardiovascular disease	Disease
+hepatitis C	Disease
+respiratory disorder	Disease
+men	Species
+metabolic disorders	Disease
+Hepatitis C	Disease
+men	Species
+depression	Disease
+hearing-impairment	Disease
+mental disorders	Disease
+psychiatric	Disease
+depression	Disease
+people	Species
+hearing-impairment	Disease
+patient	Species
+hearing-impaired	Disease
+participants	Species
+women	Species
+men	Species
+mental disorder	Disease
+psychiatric	Disease
+hearing-impaired	Disease
+participants	Species
+women	Species
+men	Species
+mental disorders	Disease
+hearing-impairments	Disease
+functional impairment	Disease
+Sheehan Disability	Disease
+SDS	Chemical
+depressive symptoms	Disease
+Participants	Species
+patient	Species
+depression	Disease
+hearing-impairment	Disease
+patients	Species
+hearing-impaired	Disease
+mental disorders	Disease
+patients	Species
+Chronic Disease	Disease
+patients	Species
+patients	Species
+hypertension	Disease
+diabetes	Disease
+respiratory disease	Disease
+hyperlipidemia	Disease
+psychiatric disorder	Disease
+Tobacco	Species
+patients	Species
+alcohol	Chemical
+anemia	Disease
+anxiety	Disease
+chronic obstructive pulmonary disease	Disease
+psychiatric disorders	Disease
+Hypertension	Disease
+diabetes	Disease
+respiratory diseases	Disease
+mental health disorders	Disease
+women	Species
+men	Species
+tobacco	Species
+alcohol	Chemical
+women	Species
+patient	Species
+mental disorders	Disease
+Person	Species
+Baclofen	Chemical
+Patients	Species
+Alcohol Use Disorder	Disease
+Mental Health Disorders	Disease
+Alcohol Use Disorder	Disease
+AUD	Disease
+patients	Species
+human	Species
+baclofen	Chemical
+AUD	Disease
+baclofen	Chemical
+AUD	Disease
+psychiatric	Disease
+baclofen	Chemical
+alcohol	Chemical
+baclofen	Chemical
+AUD	Disease
+patients	Species
+psychiatric disorders	Disease
+human	Species
+baclofen	Chemical
+AUD	Disease
+physical disorders	Disease
+psychiatric	Disease
+patients	Species
+AUD	Disease
+baclofen	Chemical
+anxiety	Disease
+mood disorders	Disease
+baclofen	Chemical
+AUD	Disease
+patients	Species
+psychiatric disorders	Disease
+psychiatric	Disease
+AUD	Disease
+patients	Species
+baclofen	Chemical
+patient	Species
+patients	Species
+serious mental illness	Disease
+patients	Species
+patient	Species
+patients	Species
+serious mental illness	Disease
+SMI	Disease
+patients	Species
+patient	Species
+patient	Species
+patients	Species
+patients	Species
+SMI	Disease
+patients	Species
+patients	Species
+SMI	Disease
+patients	Species
+patients	Species
+Turkey	Species
+isolated disease	Disease
+malnutrition	Disease
+dementia	Disease
+depression	Disease
+urinary incontinence	Disease
+ulcer	Disease
+sarcopenia	Disease
+patients	Species
+urinary incontinence	Disease
+dementia	Disease
+depression	Disease
+Mental Disorders	Disease
+sarcopenia	Disease
+urinary incontinence 47	Disease
+malnutrition	Disease
+depression	Disease
+dementia	Disease
+sarcopenia	Disease
+participants	Species
+depression	Disease
+depression	Disease
+people	Species
+Apomorphine	Chemical
+Apomorphine	Chemical
+dopamine	Chemical
+diseases and mental disorders	Disease
+Parkinson's disease	Disease
+PD	Disease
+apomorphine	Chemical
+apomorphine	Chemical
+PD	Disease
+cognitive behaviors	Disease
+cognitive behaviors	Disease
+apomorphine	Chemical
+cognitive impairment	Disease
+PD	Disease
+apomorphine	Chemical
+apomorphine	Chemical
+minocycline	Chemical
+schizophrenia	Disease
+patients	Species
+psychosis	Disease
+minocycline	Chemical
+neuropathic	Disease
+schizophrenia	Disease
+minocycline	Chemical
+people	Species
+schizophrenia-spectrum disorder	Disease
+Participants	Species
+minocycline	Chemical
+interleukin 6	Gene
+people	Species
+minocycline	Chemical
+minocycline	Chemical
+minocycline	Chemical
+minocycline	Chemical
+psychiatric	Disease
+minocycline	Chemical
+minocycline	Chemical
+psychiatric	Disease
+minocycline	Chemical
+minocycline	Chemical
+minocycline	Chemical
+Minocycline	Chemical
+schizophrenia	Disease
+psychosis	Disease
+neuropathic	Disease
+minocycline	Chemical
+psychosis	Disease
+minocycline	Chemical
+childhood cancer	Disease
+childhood cancer	Disease
+childhood cancer	Disease
+cancer	Disease
+childhood cancer	Disease
+mental disorders	Disease
+people	Species
+mental illness	Disease
+people	Species
+mental illness	Disease
+people	Species
+mental illness	Disease
+cardiovascular disease	Disease
+participants	Species
+people	Species
+anxiety	Disease
+depressive disorders	Disease
+mental disorders	Disease
+people	Species
+participants	Species
+adjustment disorders	Disease
+anxiety disorders	Disease
+depressive disorder	Disease
+participants	Species
+patients	Species
+mental disorders	Disease
+Patients	Species
+mental disorders	Disease
+patients	Species
+patients	Species
+patients	Species
+patients	Species
+patients	Species
+psychiatric	Disease
+psychiatric	Disease
+somatic disorders	Disease
+psychiatric and the somatic disorder	Disease
+fatigue	Disease
+patients	Species
+systemic lupus erythematosus	Disease
+fatigue	Disease
+patients	Species
+systemic lupus erythematosus	Disease
+SLE	Disease
+Patients	Species
+SLE	Disease
+BEL112233	Chemical
+NCT00724867	Chemical
+patients	Species
+fatigue	Disease
+Chronic Illness	Disease
+BEL206350	Chemical
+fatigue	Disease
+patients	Species
+Patients	Species
+fatigue	Disease
+Physical Component Summary	Disease
+PCS	Disease
+Mental Component Summary	Disease
+MCS	Disease
+PCS	Disease
+MCS	Disease
+PCS	Disease
+MCS	Disease
+patient	Species
+fatigue	Disease
+approaches for anorexia nervosa	Disease
+Anorexia nervosa	Disease
+AN	Disease
+AN	Disease
+Mental Disorders	Disease
+participants	Species
+anorexia nervosa	Disease
+participants	Species
+participants	Species
+participants	Species
+participants	Species
+eating disorder	Disease
+participants	Species
+people	Species
+Autism	Disease
+Anxiety	Disease
+Depression	Disease
+anxiety	Disease
+depression	Disease
+autism spectrum disorder	Disease
+ASD	Disease
+ASD	Disease
+anxiety	Disease
+depression	Disease
+ASD	Disease
+depression	Disease
+anxiety	Disease
+depression	Disease
+anxiety disorder	Disease
+ASD	Disease
+psychiatric	Disease
+people	Species
+benzodiazepine	Chemical
+ASD	Disease
+ASD	Disease
+ASD	Disease
+anxiety	Disease
+depression	Disease
+ASD	Disease
+ASD	Disease
+anxiety	Disease
+depression	Disease
+ASD	Disease
+psychiatric	Disease
+psychotic disorders	Disease
+personality disorders	Disease
+neurodevelopmental disorders	Disease
+substance abuse	Disease
+patients	Species
+patient	Species
+psychiatric	Disease
+psychiatric	Disease
+psychiatric	Disease
+patients	Species
+psychiatric	Disease
+psychiatric	Disease
+women	Species
+intellectual disabilities	Disease
+psychiatric	Disease
+Depression	Disease
+depression	Disease
+depression	Disease
+depression	Disease
+depression	Disease
+patients	Species
+depression	Disease
+patients	Species
+depression	Disease
+patients	Species
+depression	Disease
+patients	Species
+depression	Disease
+patients	Species
+anxiety disorders and/or depression	Disease
+Anxiety disorders	Disease
+depression	Disease
+mental health problems	Disease
+MHP	Disease
+MHP	Disease
+mental/cognitive disabilities	Disease
+anxiety and/or depression	Disease
+MHP	Disease
+MHP	Disease
+anxiety disorder	Disease
+depression	Disease
+anxiety	Disease
+depression	Disease
+anxiety	Disease
+depression	Disease
+anxiety and/or depression	Disease
+person	Species
+mental/cognitive disabilities	Disease
+mental health problems	Disease
+zinc	Chemical
+lithium	Chemical
+bipolar disorder	Disease
+Lithium	Chemical
+bipolar disorder	Disease
+BD	Disease
+Lithium	Chemical
+BD	Disease
+patients	Species
+lithium	Chemical
+lithium chloride	Chemical
+lithium	Chemical
+patients	Species
+BD	Disease
+patients	Species
+lithium	Chemical
+lithium	Chemical
+zinc	Chemical
+ZNF429	Gene
+zinc	Chemical
+ZNF493	Gene
+lithium	Chemical
+lithium	Chemical
+ZNF493	Gene
+ZNF493	Gene
+lithium	Chemical
+lithium	Chemical
+BD	Disease
+zinc	Chemical
+lithium	Chemical
+anxiety	Disease
+autism	Disease
+children	Species
+autism spectrum disorders	Disease
+anxiety	Disease
+autism	Disease
+anxiety	Disease
+anxiety	Disease
+autism	Disease
+autism	Disease
+anxiety	Disease
+anxiety	Disease
+anxiety	Disease
+autism	Disease
+autism	Disease
+children	Species
+children	Species
+anxiety	Disease
+anxiety	Disease
+autism	Disease
+autism	Disease
+obesity	Disease
+serious mental illness	Disease
+serious mental illness	Disease
+SMI	Disease
+schizophrenia	Disease
+bipolar disorder	Disease
+early death	Disease
+cardiovascular disease	Disease
+chronic illnesses	Disease
+weight loss	Disease
+cardiorespiratory fitness	Disease
+SMI	Disease
+SMI	Disease
+participants	Species
+psychiatric	Disease
+Participants	Species
+weight loss	Disease
+SMI	Disease
+Cortisol	Chemical
+hypothalamus-pituitary-adrenal (HPA) axis	Disease
+mental disorders	Disease
+HPA axis	Disease
+mental disorders	Disease
+patient	Species
+cortisol	Chemical
+cortisol	Chemical
+persons	Species
+autism spectrum disorders	Disease
+psychiatric	Disease
+high-functioning autism	Disease
+HFA	Disease
+psychiatric	Disease
+HFA spectrum disorder	Disease
+psychiatric	Disease
+HFA spectrum disorder	Disease
+Autism spectrum disorders	Disease
+ASD	Disease
+HFA spectrum disorders	Disease
+Asperger's syndrome	Disease
+pervasive developmental disorders	Disease
+NOS	Gene
+ASD	Disease
+psychiatric	Disease
+psychiatric	Disease
+psychiatric illness	Disease
+psychiatric	Disease
+obsessive-compulsive disorder	Disease
+OCD	Disease
+Bipolar disorder	Disease
+BD	Disease
+psychiatric	Disease
+psychotic spectrum disorders	Disease
+HFA spectrum disorders	Disease
+psychiatric	Disease
+OCD	Disease
+psychiatric	Disease
+BD	Disease
+psychotic spectrum disorders	Disease
+psychiatric	Disease
+HFA	Disease
+patients	Species
+patients	Species
+anxiety	Disease
+depression	Disease
+post-traumatic stress disorder	Disease
+PTSD	Disease
+patients	Species
+patients	Species
+participants	Species
+participants	Species
+patients	Species
+patients	Species
+patient	Species
+participants	Species
+participants	Species
+patients	Species
+patients	Species
+participants	Species
+patient	Species
+anxiety	Disease
+participants	Species
+anxiety	Disease
+MD -1	Chemical
+patient	Species
+depression	Disease
+patient	Species
+participants	Species
+depression	Disease
+MD -1	Chemical
+patient	Species
+anxiety	Disease
+depression	Disease
+MD -1	Chemical
+patient	Species
+participants	Species
+PTSD	Disease
+patient	Species
+participants	Species
+patient	Species
+anxiety	Disease
+patient	Species
+depression	Disease
+MD -1	Chemical
+MD -1	Chemical
+patient	Species
+anxiety	Disease
+depression	Disease
+participants	Species
+participants	Species
+participants	Species
+participant	Species
+anxiety	Disease
+depression	Disease
+participant	Species
+PTSD	Disease
+patients	Species
+Assisted outpatient treatment	Disease
+AOT	Disease
+people	Species
+mental illness	Disease
+AOT	Disease
+AOT	Disease
+AOT	Disease
+patient	Species
+AOT	Disease
+AOT	Disease
+AOT	Disease
+Addictive Behavior	Disease
+Idiopathic Parkinson's Disease	Disease
+Parkinson's disease	Disease
+PD	Disease
+cognitive and neurobehavioral complications	Disease
+Dopamine	Chemical
+addictive behavior	Disease
+impulse control disorders	Disease
+behavioral addictions	Disease
+addictive behavior	Disease
+PD	Disease
+addictive behavior	Disease
+PD to addiction	Disease
+behavioral addictions	Disease
+neurogenic deficits	Disease
+HIV-1	Species
+transgenic mice	Species
+HIV-1-infected	Disease
+patients	Species
+HIV-1-associated neurocognitive disorders	Disease
+HAND	Disease
+gp120	Gene
+HIV-1	Species
+mouse	Species
+HIV-1-infected	Disease
+patients	Species
+HIV-1	Species
+transgenic mice	Species
+littermates	Species
+retroviral	Species
+dendritic complexity	Disease
+p17	Gene
+env	Gene
+gp120	Gene
+mice	Species
+mouse	Species
+mouse	Species
+mouse	Species
+mice	Species
+newborn	Species
+mice	Species
+deficiencies in dendritic arborization	Disease
+dendritic length	Disease
+HIV-1	Species
+mice	Species
+neurogenesis deficits	Disease
+HAND	Disease
+HAND	Disease
+HIV-1-infected	Disease
+patients	Species
+suicidal ideation	Disease
+suicidal ideation	Disease
+SI	Disease
+SI	Disease
+SI	Disease
+Patients	Species
+SI	Disease
+SI	Disease
+mental health problems	Disease
+SI	Disease
+SI	Disease
+substance abuse	Disease
+psychiatric disorders	Disease
+stroke	Disease
+patients	Species
+neuropsychiatric disorders	Disease
+neuropsychiatric disorders	Disease
+depressive disorder	Disease
+schizophrenia	Disease
+anxiety	Disease
+autism	Disease
+eating disorders	Disease
+eating-disorder	Disease
+ED	Disease
+athletes	Disease
+athletes	Disease
+athletes	Disease
+athletes	Disease
+athletes	Disease
+ED	Disease
+athletes	Disease
+athletes	Disease
+women	Species
+athletes	Disease
+ED	Disease
+women	Species
+athletes	Disease
+ED	Disease
+athletes	Disease
+ED	Disease
+athletes	Disease
+ED	Disease
+athletes	Disease
+ED	Disease
+athletes	Disease
+athletes	Disease
+EDs	Disease
+ARFID	Disease
+Avoidant/restrictive food intake disorder	Disease
+ARFID	Disease
+rumination disorder	Disease
+RD	Disease
+DSM-5	Species
+ARFID	Disease
+ARFID	Disease
+ARFID	Disease
+ARFID	Disease
+RD	Disease
+participants	Species
+ARFID	Disease
+participants	Species
+ARFID	Disease
+ARFID	Disease
+ARFID	Disease
+ARFID	Disease
+Patients	Species
+patients	Species
+clozapine	Chemical
+risperidone	Chemical
+olanzapine	Chemical
+quetiapine	Chemical
+aripiprazole	Chemical
+ziprasidone	Chemical
+paliperidone	Chemical
+asenapine	Chemical
+iloperidone	Chemical
+lurasidone	Chemical
+cariprazine	Chemical
+schizophrenia	Disease
+bipolar disorder	Disease
+Tourette's disorder	Disease
+autism spectrum disorder	Disease
+disruptive behavior disorders	Disease
+aggression	Disease
+mental health disorders	Disease
+children	Species
+patient	Species
+Maladaptive aggression	Disease
+children	Species
+psychosis	Disease
+psychiatric	Disease
+patients	Species
+psychosis	Disease
+patient	Species
+psychosis	Disease
+patients	Species
+patient	Species
+males	Species
+cannabis	Chemical
+Neuroimaging in Psychiatric Disorders	Disease
+psychiatric disorders	Disease
+psychiatric disorders	Disease
+Depressive disorders	Disease
+schizophrenia	Disease
+psychotic disorders	Disease
+autism spectrum disorder	Disease
+post-traumatic stress disorder	Disease
+psychiatric disorders	Disease
+JAMA	Gene
+psychiatric disorders	Disease
+depression	Disease
+patient	Species
+patient	Species
+patients	Species
+17b-estradiol	Chemical
+rat	Species
+depression	Disease
+psychiatric disorders	Disease
+major depressive disorder	Disease
+women	Species
+men	Species
+estrogen	Chemical
+17b-estradiol	Chemical
+depression	Disease
+17b-estradiol	Chemical
+depression	Disease
+Sprague-Dawley rats	Species
+Rats	Species
+saccharin	Chemical
+anxiety	Disease
+anxiety	Disease
+17b-estradiol	Chemical
+progesterone	Chemical
+testosterone	Chemical
+rats	Species
+17b-estradiol	Chemical
+saccharin	Chemical
+estrogens	Chemical
+17b-estradiol	Chemical
+depression-related symptoms	Disease
+anhedonia	Disease
+mental disorders	Disease
+mental disorders	Disease
+mental disorders	Disease
+mental disorders	Disease
+Mental disorders	Disease
+mental disorders	Disease
+males	Species
+mental disorder	Disease
+anxiety	Disease
+dissociative and somatoform disorders	Disease
+male	Species
+male	Species
+drug dependence	Disease
+male	Species
+episodic mood disorders	Disease
+male	Species
+male	Species
+depressive disorder	Disease
+male	Species
+mental disorders	Disease
+patients	Species
+major depressive disorder	Disease
+duloxetine	Chemical
+escitalopram	Chemical
+fluoxetine	Chemical
+paroxetine	Chemical
+sertraline	Chemical
+patients	Species
+major depressive disorder	Disease
+duloxetine	Chemical
+escitalopram	Chemical
+fluoxetine	Chemical
+paroxetine	Chemical
+sertraline	Chemical
+Patients	Species
+major depressive disorder	Disease
+patients	Species
+sexual dysfunction	Disease
+Depression	Disease
+patients	Species
+duloxetine	Chemical
+escitalopram	Chemical
+fluoxetine	Chemical
+paroxetine	Chemical
+sertraline	Chemical
+duloxetine	Chemical
+patients	Species
+escitalopram	Chemical
+fluoxetine	Chemical
+paroxetine	Chemical
+sertraline	Chemical
+patients	Species
+escitalopram	Chemical
+fluoxetine	Chemical
+paroxetine	Chemical
+sertraline	Chemical
+duloxetine	Chemical
+duloxetine	Chemical
+paroxetine	Chemical
+sertraline	Chemical
+Duloxetine	Chemical
+patients	Species
+depression	Disease
+serotonin	Chemical
+patients	Species
+GSK3b	Gene
+erythropoietin	Chemical
+mood disorders	Disease
+Mood disorders	Disease
+psychosocial and occupational disability	Disease
+major depressive disorder	Disease
+MDD	Disease
+cognitive dysfunctions	Disease
+mood disorders	Disease
+human	Species
+erythropoietin	Gene
+EPO	Chemical
+EPO	Chemical
+patients	Species
+mood disorders	Disease
+glycogen synthase kinase 3-beta	Gene
+GSK3b	Gene
+EPO	Chemical
+mood disorder	Disease
+patients	Species
+EPO	Chemical
+mood disorders	Disease
+cognition	Disease
+GSK3b	Gene
+MDD	Disease
+patients	Species
+cognitive deficits	Disease
+patients	Species
+mood disorders	Disease
+EPO	Chemical
+patients	Species
+mood disorders	Disease
+depression	Disease
+alcohol	Chemical
+low-income and middle-income country districts	Disease
+depression	Disease
+alcohol use disorder	Disease
+AUD	Disease
+low-income and middle-income country	Disease
+LMIC	Disease
+PARTICIPANTS	Species
+depression	Disease
+AUD	Disease
+participants	Species
+depression	Disease
+depression	Disease
+AUD	Disease
+AUD	Disease
+depression	Disease
+participants	Species
+depression	Disease
+participants	Species
+AUD	Disease
+participants	Species
+AUD	Disease
+patients	Species
+LMIC	Disease
+LMIC	Disease
+sporadic Creutzfeldt-Jakob disease	Disease
+Sporadic Creutzfeldt-Jakob disease	Disease
+sCJD	Disease
+human	Species
+prion disease	Disease
+sCJD	Disease
+PrPC	Gene
+Neuropathological disease	Disease
+gliosis	Disease
+neuronal loss	Disease
+spongiform degeneration	Disease
+visual disabilities	Disease
+cognitive impairment, gait or limb ataxia	Disease
+myoclonus	Disease
+Definite	Chemical
+sCJD	Disease
+neuronal damage	Disease
+PrPC	Gene
+NFL	Gene
+neurological disorders	Disease
+prion diseases	Disease
+NFL	Gene
+patient	Species
+sCJD	Disease
+sCJD	Disease
+NFL	Gene
+sCJD	Disease
+NFL	Gene
+NFL	Gene
+sCJD	Disease
+glutaminyl	Chemical
+PQ912	Chemical
+Alzheimer's disease	Disease
+PQ912	Chemical
+glutaminyl	Chemical
+A-beta	Gene
+PQ912	Chemical
+Alzheimer's disease	Disease
+AD	Disease
+patient	Species
+AD	Disease
+PQ912	Chemical
+cognitive impairment	Disease
+dementia	Disease
+AD	Disease
+AD	Disease
+patients	Species
+Patients	Species
+PQ912	Chemical
+patients	Species
+patients	Species
+PQ912	Chemical
+PQ912	Chemical
+gastrointestinal and skin/subcutaneous tissue disorders	Disease
+PQ912	Chemical
+glutaminyl	Chemical
+neurogranin	Gene
+toxicity	Disease
+YKL-40	Gene
+inflammation	Disease
+PQ912	Chemical
+schizophrenia	Disease
+schizophrenia	Disease
+schizophrenia	Disease
+schizophrenia	Disease
+real-world settings	Disease
+schizophrenia	Disease
+patients	Species
+schizophrenia	Disease
+patients	Species
+patients	Species
+patients	Species
+patients	Species
+person	Species
+person	Species
+patients	Species
+patients	Species
+schizophrenia	Disease
+Recessive Hereditary Methaemoglobinaemia Type II	Disease
+Cytochrome b5 reductase 3	Gene
+CYB5R3	Gene
+NADH	Chemical
+Recessive hereditary methaemoglobinaemia	Disease
+RHM	Disease
+CYB5R3 deficiency	Disease
+encephalopathy	Disease
+mental retardation	Disease
+microcephaly	Disease
+dystonia	Disease
+movement disorders	Disease
+RHM	Disease
+encephalopathy	Disease
+CYB5R3	Gene
+fatty acids	Chemical
+cholesterol	Chemical
+neurological disorders of type II RHM	Disease
+patients	Species
+CYB5R3 deficiency	Disease
+nitric oxide	Chemical
+NAD	Chemical
+NADH	Chemical
+CYB5R3	Gene
+RHM	Disease
+metabolism disorder	Disease
+neurological symptoms of the disease	Disease
+Children	Species
+Children	Species
+autism spectrum disorder	Disease
+ASD	Disease
+children	Species
+ASD	Disease
+melatonin	Chemical
+attention-deficit/hyperactivity disorder	Disease
+ADHD	Disease
+children	Species
+ADHD	Disease
+melatonin	Chemical
+Methylphenidate	Chemical
+sertraline	Chemical
+risperidone	Chemical
+children	Species
+psychiatric	Disease
+children	Species
+children	Species
+ASD	Disease
+ADHD	Disease
+melatonin	Chemical
+children	Species
+ASD	Disease
+Neck Cancer	Disease
+post-head and neck cancer	Disease
+HNC	Disease
+HNC	Disease
+major depressive disorder	Disease
+MDD	Disease
+anxiety disorder	Disease
+AD	Disease
+HNC	Disease
+morphine	Chemical
+patients	Species
+HNC	Disease
+HNC	Disease
+AD	Disease
+HNC	Disease
+HNC	Disease
+anxiety	Disease
+pain	Disease
+AD	Disease
+HNC	Disease
+death anxiety	Disease
+anxiety	Disease
+numerous mental disorders	Disease
+death anxiety	Disease
+death	Disease
+death anxiety	Disease
+death anxiety	Disease
+death	Disease
+death anxiety	Disease
+death anxiety	Disease
+death anxiety	Disease
+anorexia	Disease
+Disordered Eating	Disease
+anorexia	Disease
+eating disorders	Disease
+anorexia	Disease
+eating disorders	Disease
+mental illness	Disease
+eating disorders	Disease
+eating disorders	Disease
+eating disorders	Disease
+psychiatric disorders	Disease
+psychiatric	Disease
+patients	Species
+personality disorders	Disease
+psychiatric	Disease
+patients	Species
+haloperidol	Chemical
+levodopa	Chemical
+humans	Species
+Cognitive deficits	Disease
+impaired working memory	Disease
+schizophrenia	Disease
+Dopamine	Chemical
+humans	Species
+dopamine	Chemical
+L-dopa	Chemical
+haloperidol	Chemical
+carbidopa	Chemical
+L-dopa	Chemical
+haloperidol	Chemical
+N-back working memory	Disease
+L-dopa	Chemical
+haloperidol	Chemical
+cognitive impairments	Disease
+mental illness	Disease
+Parkinson's disease	Disease
+PD	Disease
+PD	Disease
+PD	Disease
+participants	Species
+dementia	Disease
+dementia	Disease
+Mattis Dementia	Disease
+l-dopa	Chemical
+dementia	Disease
+PD	Disease
+participants	Species
+cognitive impairment	Disease
+PD	Disease
+BD1047	Chemical
+HIV	Species
+Cocaine	Chemical
+HIV-associated neurocognitive disorders	Disease
+HAND	Disease
+neurotoxic	Disease
+CATB	Gene
+cysteine	Chemical
+neuronal apoptosis	Disease
+HIV-1	Species
+patients	Species
+AIDS	Disease
+Cocaine	Chemical
+CATB	Gene
+neurotoxicity	Disease
+Sig1R	Gene
+cocaine	Chemical
+Sig1R	Gene
+CATB	Gene
+HIV-1	Species
+cocaine	Chemical
+Sig1R	Gene
+CATB	Gene
+HIV-1	Species
+monocyte derived-macrophages	Disease
+MDM	Disease
+HIV-1	Species
+donors	Species
+HIV-1	Species
+Sig1R	Gene
+BD1047	Chemical
+Sig1R	Gene
+PRE-084	Chemical
+cocaine	Chemical
+HIV encephalitis mouse model	Disease
+HIVE	Disease
+BD1047	Chemical
+cocaine	Chemical
+cocaine	Chemical
+BD1047	Chemical
+CATB	Gene
+PRE-084	Chemical
+mouse	Species
+BD1047	Chemical
+cocaine	Chemical
+CATB	Gene
+p24	Gene
+astrocytosis	Disease
+MAP-2	Gene
+synaptophysin	Gene
+Sig1R	Gene
+CATB	Gene
+HIV-1	Species
+MDM	Disease
+cocaine	Chemical
+people	Species
+psychiatric	Disease
+patients	Species
+severe mental illness	Disease
+SMI	Disease
+patient	Species
+patients	Species
+patients	Species
+SMI	Disease
+respiratory tract disorders	Disease
+metabolic syndrome	Disease
+cardiovascular complications	Disease
+osteoporosis	Disease
+fractures	Disease
+patients	Species
+SMI	Disease
+patient	Species
+psychiatric	Disease
+patients	Species
+SMI	Disease
+psychiatric	Disease
+patients	Species
+movement disorders	Disease
+patients	Species
+movement disorders	Disease
+patients	Species
+movement disorders	Disease
+neurologic symptom disorder	Disease
+abnormal involuntary movements	Disease
+participants	Species
+Depression	Disease
+Trauma	Disease
+depression	Disease
+anxiety	Disease
+Patients	Species
+movement disorders	Disease
+patient	Species
+patients	Species
+movement disorders	Disease
+matter abnormalities	Disease
+patients	Species
+Atrial fibrillation	Disease
+cognitive aging	Disease
+atrial fibrillation	Disease
+AF	Disease
+cognitive decline	Disease
+dementia	Disease
+patients	Species
+AF	Disease
+dementia	Disease
+participants	Species
+AF	Disease
+patient	Species
+dementia	Disease
+Neurological Disorders	Disease
+Stroke	Disease
+vascular dementia	Disease
+Neurological and Communicative Disorders	Disease
+Stroke	Disease
+Alzheimer's Disease	Disease
+Related Disorders	Disease
+Alzheimer disease	Disease
+participants	Species
+AF	Disease
+participants	Species
+AF	Disease
+dementia	Disease
+AF	Disease
+dementia	Disease
+dementia	Disease
+Alzheimer disease	Disease
+people	Species
+AF	Disease
+dementia	Disease
+AF	Disease
+faster global cognitive decline	Disease
+dementia	Disease
+people	Species
+dementia	Disease
+patients	Species
+AF	Disease
+people	Species
+personality disorder	Disease
+people	Species
+personality disorder	Disease
+people	Species
+personality disorder	Disease
+people	Species
+personality disorder	Disease
+people	Species
+personality disorder	Disease
+people	Species
+psychotic mental disorders	Disease
+dementia	Disease
+bipolar affective disorder	Disease
+delusional disorder	Disease
+schizophrenia	Disease
+schizoaffective disorder	Disease
+schizotypal disorder	Disease
+cognitive or language difficulties	Disease
+personality disorder	Disease
+Participants	Species
+participant	Species
+participant	Species
+patient	Species
+participants	Species
+attrition	Disease
+people	Species
+personality disorder	Disease
+people	Species
+people	Species
+personality disorder	Disease
+people	Species
+personality disorder	Disease
+ISRCTN14994755	Chemical
+Psychotic Symptoms	Disease
+Psychosis	Disease
+psychosis	Disease
+subthreshold psychotic symptoms	Disease
+STPS	Disease
+psychosis	Disease
+patients	Species
+psychosis	Disease
+STPS	Disease
+patients	Species
+STPS	Disease
+Participants	Species
+patients	Species
+Patients	Species
+STPS	Disease
+STPS	Disease
+STPS	Disease
+Depression	Disease
+Schizophrenia	Disease
+Hamilton Anxiety	Disease
+male	Species
+participants	Species
+male	Species
+participants	Species
+psychosis	Disease
+patients	Species
+patients	Species
+STPS	Disease
+psychotic symptoms	Disease
+patients	Species
+STPS	Disease
+psychotic illness	Disease
+Schizophrenia	Disease
+Bipolar Disorder	Disease
+Schizophrenia	Disease
+bipolar disorder	Disease
+complex brain disorders	Disease
+patient	Species
+patients	Species
+schizophrenia	Disease
+bipolar disorder	Disease
+patients	Species
+Participants	Species
+participants	Species
+Patients	Species
+patients	Species
+schizophrenia	Disease
+bipolar disorder	Disease
+patients	Species
+schizophrenia	Disease
+male	Species
+schizophrenia	Disease
+male	Species
+bipolar disorder	Disease
+male	Species
+male	Species
+patients	Species
+Patients	Species
+schizophrenia	Disease
+patients	Species
+bipolar disorder	Disease
+patients	Species
+patient	Species
+patient	Species
+Dextran Sulphate	Chemical
+Sodium	Chemical
+colitis	Disease
+hyperalgesia	Disease
+sulphate	Chemical
+sodium	Chemical
+colitis	Disease
+mice	Species
+Swiss mice	Species
+male	Species
+C57 BL6	Species
+mice	Species
+colitis	Disease
+hyperalgesia	Disease
+carbonyl	Chemical
+colitis	Disease
+impairment of the central nervous system functioning	Disease
+inflammation	Disease
+colitis	Disease
+mental disorders	Disease
+patients	Species
+DSM-5	Species
+Alcohol	Chemical
+alcohol use disorder	Disease
+AUD	Disease
+alcohol	Chemical
+deaths	Disease
+AUD	Disease
+Mental Disorders	Disease
+DSM-5	Species
+AUD	Disease
+alcohol	Chemical
+Participants	Species
+Mental Disorders	Disease
+SCID	Disease
+DSM-5	Species
+AUD	Disease
+CFA	Species
+AUD	Disease
+AUD	Disease
+CFA	Species
+withdrawal," "social/interpersonal problems	Disease
+AUD	Disease
+DSM-5	Species
+AUD	Disease
+DSM-5	Species
+AUD	Disease
+Methylenedioxymethamphetamine	Chemical
+MDMA	Chemical
+mental health disorders	Disease
+posttraumatic stress disorders	Disease
+PTSD	Disease
+methylenedioxymethamphetamine	Chemical
+MDMA	Chemical
+patients	Species
+MDMA	Chemical
+patients	Species
+psychopathology of the disorder	Disease
+MDMA	Chemical
+neurotoxicity	Disease
+MDMA	Chemical
+PTSD	Disease
+MDMA	Chemical
+MDMA	Chemical
+PTSD	Disease
+MDMA	Chemical
+Methylenedioxymethamphetamine	Chemical
+oxytocin	Chemical
+MDMA	Chemical
+MDMA	Chemical
+PTSD	Disease
+MDMA	Chemical
+PTSD	Disease
+MDMA	Chemical
+MDMA	Chemical
+MDMA	Chemical
+MDMA	Chemical
+people	Species
+Depression	Disease
+people	Species
+people	Species
+people	Species
+patients	Species
+Mental Disorders	Disease
+Depressive Disorder	Disease
+patients	Species
+patients	Species
+Patients	Species
+Depression	Disease
+Depression	Disease
+Depression	Disease
+people	Species
+depression	Disease
+depression	Disease
+anxiety disorders	Disease
+psychopathological condition	Disease
+obstetric and neonatal complications	Disease
+child	Species
+depression	Disease
+depressive disorders	Disease
+women	Species
+affective disorders	Disease
+depression	Disease
+people	Species
+depression	Disease
+people	Species
+Depressive Disorder	Disease
+depression	Disease
+people	Species
+depression	Disease
+people	Species
+people	Species
+psychological health	Disease
+severe mental illness	Disease
+Chronic schizophrenia	Disease
+depression	Disease
+bipolar disorders	Disease
+psychiatric disorders	Disease
+severe mental illness	Disease
+SMI	Disease
+SMI	Disease
+psychiatric	Disease
+persons	Species
+SMI	Disease
+psychiatric	Disease
+persons	Species
+SMI	Disease
+neuropsychiatric	Disease
+patients	Species
+SMI	Disease
+persons	Species
+SMI	Disease
+psychiatric	Disease
+patient	Species
+mental disorders	Disease
+mental disorders	Disease
+schizophrenia	Disease
+depression	Disease
+anxiety disorders	Disease
+posttraumatic stress disorder	Disease
+mental disorders	Disease
+schizophrenia	Disease
+GM	Disease
+schizophrenia	Disease
+schizophrenia	Disease
+schizophrenia	Disease
+patients	Species
+GM	Disease
+schizophrenia	Disease
+Schizophrenia	Disease
+patients	Species
+GM	Disease
+GM	Disease
+GM	Disease
+GM	Disease
+schizophrenia	Disease
+GM	Disease
+Patients	Species
+Schizophrenia	Disease
+Bipolar Disorder	Disease
+patients	Species
+schizophrenia	Disease
+bipolar disorder	Disease
+patient	Species
+mental illness	Disease
+patients	Species
+patients	Species
+patients	Species
+schizophrenia	Disease
+bipolar disorder	Disease
+patients	Species
+humans	Species
+humans	Species
+male	Species
+participants	Species
+cortisol	Chemical
+cortisol	Chemical
+attention-deficit/hyperactivity disorder	Disease
+ADHD	Disease
+attention-deficit/hyperactivity disorder	Disease
+ADHD	Disease
+Mental Disorders	Disease
+ADHD	Disease
+ADHD	Disease
+ADHD	Disease
+complex dysfunction	Disease
+ADHD	Disease
+children	Species
+ADHD	Disease
+ADHD-related impairments	Disease
+memory deficits	Disease
+cognitive training	Disease
+Sexual Dysfunction	Disease
+sexual dysfunction	Disease
+sexual dysfunction	Disease
+sexual dysfunction	Disease
+sexual dysfunction	Disease
+anxiety	Disease
+depression	Disease
+sexual dysfunction	Disease
+erectile dysfunction	Disease
+ED	Disease
+sexual dysfunction-ED	Disease
+hypoactive sexual desire disorder	Disease
+HSDD	Disease
+sexual performance anxiety	Disease
+XCT	Gene
+sexual dysfunction	Disease
+mental disorders	Disease
+sexual dysfunction	Disease
+sexual dysfunction	Disease
+men	Species
+ED	Disease
+women	Species
+HSDD	Disease
+men	Species
+women	Species
+sexual performance anxiety	Disease
+Sexual Dysfunction	Disease
+mental illness	Disease
+Schizophrenia	Disease
+Schizophrenia	Disease
+mental illness	Disease
+hallucinations	Disease
+schizophrenia	Disease
+patients	Species
+schizophrenia	Disease
+patient	Species
+schizophrenia	Disease
+Women	Species
+compulsive buying or gambling disorder	Disease
+women	Species
+gambling disorder	Disease
+women	Species
+women	Species
+depressive disorders	Disease
+tobacco	Species
+CBB	Chemical
+women	Species
+randomized controlled trials	Disease
+depression	Disease
+anxiety disorder	Disease
+obsessive-compulsive disorder	Disease
+OCD	Disease
+post-traumatic stress disorder	Disease
+PTSD	Disease
+randomized controlled trials	Disease
+RCTs	Disease
+depression	Disease
+anxiety disorder	Disease
+OCD	Disease
+PTSD	Disease
+RCTs	Disease
+depression	Disease
+anxiety disorder	Disease
+OCD	Disease
+PTSD	Disease
+depression	Disease
+generalized anxiety disorder	Disease
+GAD	Disease
+GAD	Disease
+depression	Disease
+GAD	Disease
+nonepileptic seizures	Disease
+Epilepsy	Disease
+nonepileptic seizures	Disease
+child	Species
+patients	Species
+psychiatric	Disease
+children	Species
+Seizures	Disease
+mood disturbances	Disease
+personality disorders	Disease
+psychic trauma	Disease
+persons	Species
+anxiety	Disease
+depression	Disease
+Child	Species
+sexual abuse	Disease
+Child	Species
+Sexual Abuse	Disease
+human	Species
+Child	Species
+Sexual Abuse	Disease
+boys	Species
+girls	Species
+men	Species
+men	Species
+women	Species
+psychiatric disorders	Disease
+sexual abuse	Disease
+child	Species
+sexual abuse	Disease
+Patient	Species
+patients	Species
+coaching	Disease
+patient	Species
+patients	Species
+patient	Species
+patient	Species
+Alcohol	Chemical
+alcohol	Chemical
+patients	Species
+Alcohol	Chemical
+Alcohol	Chemical
+patients	Species
+participants	Species
+people	Species
+neuropsychiatric disorders	Disease
+people	Species
+neurosychiatric disorders	Disease
+psychiatric	Disease
+patient	Species
+patients	Species
+patients	Species
+HIV	Disease
+Women	Species
+intimate partner violence	Disease
+IPV	Disease
+HIV	Disease
+IPV	Disease
+HIV	Disease
+women	Species
+IPV	Disease
+HIV	Disease
+IPV	Disease
+HIV	Disease
+HIV	Disease
+HIV	Disease
+women	Species
+IPV	Disease
+HIV	Disease
+HIV	Disease
+Veterans Health Administration	Disease
+Veterans Health Administration	Disease
+VA	Disease
+VA	Disease
+VA	Disease
+VA	Disease
+VA	Disease
+serious mental illness	Disease
+SMI	Disease
+substance use disorder	Disease
+SUD	Disease
+posttraumatic stress disorder	Disease
+PTSD	Disease
+depression	Disease
+VA	Disease
+VA	Disease
+VA	Disease
+VA	Disease
+SMI	Disease
+IRR	Gene
+PTSD	Disease
+IRR	Gene
+depression	Disease
+IRR	Gene
+VA	Disease
+VA	Disease
+patients	Species
+musculoskeletal and rheumatologic disorders	Disease
+cardiovascular diseases	Disease
+neurological disorders	Disease
+mental illnesses	Disease
+cancers	Disease
+diabetes	Disease
+respiratory diseases	Disease
+musculoskeletal and rheumatologic disorders	Disease
+cardiovascular diseases	Disease
+musculoskeletal and rheumatologic disorders	Disease
+cardiovascular diseases	Disease
+neurological disorders	Disease
+mental illnesses	Disease
+cancers	Disease
+respiratory diseases	Disease
+diabetes	Disease
+obesity	Disease
+DSM-5	Species
+ADHD	Disease
+Mental Disorders	Disease
+ADHD	Disease
+executive function deficits	Disease
+EFDs	Disease
+ADHD	Disease
+executive dysfunction	Disease
+ED	Disease
+ADHD	Disease
+ADHD	Disease
+ED	Disease
+ADHD	Disease
+ADHD	Disease
+EFDs	Disease
+ED	Disease
+ADHD	Disease
+EFDs	Disease
+ADHD	Disease
+EFDs	Disease
+ADHD	Disease
+DSM-5	Species
+ADHD	Disease
+Dopamine	Chemical
+food addiction	Disease
+obesity	Disease
+food addiction	Disease
+obesity	Disease
+Food addiction	Disease
+dopamine	Chemical
+food addiction	Disease
+dopamine	Chemical
+dopamine	Chemical
+food addiction	Disease
+food addiction	Disease
+food addiction	Disease
+food addiction	Disease
+Children	Species
+Untreated mental disorders	Disease
+mental illness	Disease
+children	Species
+mental illness	Disease
+mental illness	Disease
+Macrophage migration inhibitory factor	Gene
+metabolic dysfunction	Disease
+macrophage migration inhibitory factor	Gene
+MIF	Gene
+insulin	Gene
+olanzapine	Chemical
+Olanzapine	Chemical
+insulin	Gene
+triglyceride	Chemical
+MIF	Gene
+schizophrenic	Disease
+patients	Species
+MIF	Gene
+MIF	Gene
+Olanzapine	Chemical
+mice	Species
+MIF	Gene
+AMP	Chemical
+Olanzapine	Chemical
+MIF	Gene
+insulin	Gene
+MIF	Gene
+mice	Species
+olanzapine	Chemical
+insulin	Gene
+MIF	Gene
+MIF	Gene
+metabolic dysfunction	Disease
+MIF	Gene
+MIF	Gene
+behavioral disorders	Disease
+diabetes	Disease
+diabetes	Disease
+people	Species
+diabetes	Disease
+Buprenorphine	Chemical
+Opioid Use Disorder	Disease
+opioid use disorder	Disease
+buprenorphine	Chemical
+buprenorphine	Chemical
+buprenorphine	Chemical
+buprenorphine	Chemical
+buprenorphine	Chemical
+buprenorphine	Chemical
+buprenorphine	Chemical
+buprenorphine	Chemical
+opioid epidemic	Disease
+Anxiety-related disorders	Disease
+Anxiety-related disorders	Disease
+child	Species
+academic	Disease
+child	Species
+anxiety-related disorders	Disease
+child	Species
+serotonin	Chemical
+anxiety-related disorders	Disease
+aggressive	Disease
+child	Species
+children	Species
+child	Species
+Aggressive	Disease
+children	Species
+mental illness	Disease
+tobacco	Species
+alcohol	Chemical
+aggressive	Disease
+child	Species
+aggressive	Disease
+child	Species
+N-acetylcysteine	Chemical
+PGE2	Chemical
+hemorrhagic stroke	Disease
+mice	Species
+N-acetylcysteine	Chemical
+NAC	Chemical
+thiol	Chemical
+neurological and psychiatric disorders	Disease
+NAC	Chemical
+rodent	Species
+hemorrhagic stroke	Disease
+hemorrhagic stroke	Disease
+intracerebral hemorrhage	Disease
+ICH	Disease
+mice	Species
+rats	Species
+5-lipoxygenase	Gene
+ALOX5	Gene
+mice	Species
+NAC	Chemical
+NAC	Chemical
+hemin	Chemical
+arachidonate	Chemical
+ALOX5	Gene
+NAC	Chemical
+glutathione	Chemical
+glutathione	Chemical
+glutathione	Chemical
+S	Chemical
+NAC	Chemical
+injury reduced neuronal death	Disease
+ICH	Disease
+mice	Species
+prostaglandin E2	Chemical
+PGE2	Chemical
+NAC	Chemical
+ICH	Disease
+arachidonic acid	Chemical
+ALOX5	Gene
+PGE2	Chemical
+NAC	Chemical
+NAC	Chemical
+neurological disorders	Disease
+ICH	Disease
+Depression	Disease
+patients	Species
+depressive disorders	Disease
+patients	Species
+human	Species
+patients	Species
+depressive disorder	Disease
+seizure	Disease
+depression	Disease
+anxiety	Disease
+patients	Species
+patient	Species
+patient	Species
+patient	Species
+Anxiety disorders	Disease
+depressive disorders	Disease
+generalised anxiety disorder	Disease
+generalised anxiety disorder	Disease
+GAD	Disease
+patients	Species
+patients	Species
+GAD	Disease
+patients	Species
+GAD	Disease

@@ -1,0 +1,6 @@
+psychiatric disorders	Disease
+psychiatric	Disease
+patients	Species
+personality disorders	Disease
+psychiatric	Disease
+patients	Species

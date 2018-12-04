@@ -1,0 +1,45 @@
+patients	Species
+major depressive disorder	Disease
+duloxetine	Chemical
+escitalopram	Chemical
+fluoxetine	Chemical
+paroxetine	Chemical
+sertraline	Chemical
+patients	Species
+major depressive disorder	Disease
+duloxetine	Chemical
+escitalopram	Chemical
+fluoxetine	Chemical
+paroxetine	Chemical
+sertraline	Chemical
+Patients	Species
+major depressive disorder	Disease
+patients	Species
+sexual dysfunction	Disease
+Depression	Disease
+patients	Species
+duloxetine	Chemical
+escitalopram	Chemical
+fluoxetine	Chemical
+paroxetine	Chemical
+sertraline	Chemical
+duloxetine	Chemical
+patients	Species
+escitalopram	Chemical
+fluoxetine	Chemical
+paroxetine	Chemical
+sertraline	Chemical
+patients	Species
+escitalopram	Chemical
+fluoxetine	Chemical
+paroxetine	Chemical
+sertraline	Chemical
+duloxetine	Chemical
+duloxetine	Chemical
+paroxetine	Chemical
+sertraline	Chemical
+Duloxetine	Chemical
+patients	Species
+depression	Disease
+serotonin	Chemical
+patients	Species

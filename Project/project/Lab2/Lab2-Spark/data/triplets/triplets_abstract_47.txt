@@ -1,0 +1,2 @@
+assist outpatient treatment	be	outpatient court-ordered treatment for people in part to treatment non-adherence
+goal	provide	update on recent research

@@ -1,0 +1,6 @@
+humans	Species
+humans	Species
+male	Species
+participants	Species
+cortisol	Chemical
+cortisol	Chemical

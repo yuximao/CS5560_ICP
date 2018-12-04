@@ -1,0 +1,16 @@
+psychiatric	Disease
+psychotic disorders	Disease
+personality disorders	Disease
+neurodevelopmental disorders	Disease
+substance abuse	Disease
+patients	Species
+patient	Species
+psychiatric	Disease
+psychiatric	Disease
+psychiatric	Disease
+patients	Species
+psychiatric	Disease
+psychiatric	Disease
+women	Species
+intellectual disabilities	Disease
+psychiatric	Disease

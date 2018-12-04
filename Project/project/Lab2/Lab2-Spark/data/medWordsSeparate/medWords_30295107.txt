@@ -1,0 +1,12 @@
+Buprenorphine	Chemical
+Opioid Use Disorder	Disease
+opioid use disorder	Disease
+buprenorphine	Chemical
+buprenorphine	Chemical
+buprenorphine	Chemical
+buprenorphine	Chemical
+buprenorphine	Chemical
+buprenorphine	Chemical
+buprenorphine	Chemical
+buprenorphine	Chemical
+opioid epidemic	Disease

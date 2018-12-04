@@ -1,0 +1,21 @@
+Dextran Sulphate	Chemical
+Sodium	Chemical
+colitis	Disease
+hyperalgesia	Disease
+sulphate	Chemical
+sodium	Chemical
+colitis	Disease
+mice	Species
+Swiss mice	Species
+male	Species
+C57 BL6	Species
+mice	Species
+colitis	Disease
+hyperalgesia	Disease
+carbonyl	Chemical
+colitis	Disease
+impairment of the central nervous system functioning	Disease
+inflammation	Disease
+colitis	Disease
+mental disorders	Disease
+patients	Species

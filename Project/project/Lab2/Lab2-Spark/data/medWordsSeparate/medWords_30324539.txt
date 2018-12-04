@@ -1,0 +1,24 @@
+Chronic Disease	Disease
+patients	Species
+patients	Species
+hypertension	Disease
+diabetes	Disease
+respiratory disease	Disease
+hyperlipidemia	Disease
+psychiatric disorder	Disease
+Tobacco	Species
+patients	Species
+alcohol	Chemical
+anemia	Disease
+anxiety	Disease
+chronic obstructive pulmonary disease	Disease
+psychiatric disorders	Disease
+Hypertension	Disease
+diabetes	Disease
+respiratory diseases	Disease
+mental health disorders	Disease
+women	Species
+men	Species
+tobacco	Species
+alcohol	Chemical
+women	Species

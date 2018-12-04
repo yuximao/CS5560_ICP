@@ -1,0 +1,213 @@
+patient	have	severely worse medical outcome
+available publish study	be in	field
+aim	determine	effect of comorbidity in asthmatic patient base on hospitalization
+posttraumatic stress symptom	be in	patient with psychological trauma lead to poor health-related quality of life
+development	understand of	relationship among PTSS
+depression	mediate	relationship between ptss
+Internet gaming disorder	be include as	condition in fifth edition of diagnostic manual of mental disorder
+study	be	follow-up
+background post-traumatic stress disorder	be prevalent in	child
+comorbidity	be with	other disorder
+broad range	have	have develop for treatment of ptsd
+we	compare	efficacy of CBT
+we	systematically search cochrane register for	article publish
+emdr	reduce	post-traumatic symptom
+emdr	reduce	anxiety sdm =
+depression sdm	=	-0.44 0.02
+emdr	reduce	post-traumatic symptom
+large population	randomize trial with	longer follow-up
+we	search for	article publish since 1999
+21	meet inclusion criterion out of	1177 article identify
+thematic synthesis	reveal	work
+review	have identify	low rate seek of professional help in culturally sensitive care
+accompanying condition	treat migration as	cause of mental distress
+future scholarly work	should examine	notion of cultural scripts-namely
+practice model	develop	strategy for culturally sensitive care
+role	should	give stigma of mental illness should expand
+further study	investigate	mental health issue beyond depression
+anti-n-methyl-d-aspartate receptor encephalitis	be	autoimmune disorder characterize by autoantibody
+Aim	investigate	pediatric anti-nmdar encephalitis as model of impairment
+negative symptom	may persist after	initial treatment with antipsychotic
+negative symptom	dedicated form of	cognitive behaviour therapy for social activation
+it	independently influence	time to symptomatic remission in first-episode psychosis
+dup characteristic	be associate with	time to remission in fep.this prospective study
+subject	be followed-up monthly over	18 month
+remission	be define as	as remission in Schizophrenia Working Group
+subject	be define	they remit in negative symptom
+follow explanatory variable	be measure at	baseline
+Univariate	generate	results.out
+social support	enhance	better response to antipsychotic medication among separated/divorced/widowed patient with long dup
+important risk factor	deteriorate	family history of psychiatric disorder
+complex regional pain syndrome	be multifactorial disorder with	complex aetiology
+patient	be	at outpatient pain clinic of Magdeburg University Hospital without exception subject to permanent psychiatric care deliver by consultation-liaison psychiatrist
+psychological stabilization	be	equally important
+mental/psychiatric defect	impair pain processing at	time of investigation
+we	correlate of	psychiatric problem in wife of man with substance-related disorder
+emergence	may stem from	aberrant functional reorganization of brain during adolescence
+we	perform connectome analysis at	risk for psychosis from Shanghai at risk for psychosis
+program	be	longitudinal study of adolescent at clinical high risk conduct at Shanghai Mental Health Center in collaboration with neuroimage laboratory at Harvard
+we study	involve	education-matched healthy control
+23 chr	develop psychosis during	1-year follow-up
+abnormal modular connectome organization	be	in chr associate with threefold conversion rate
+brain region	be most abnormal in	term of modular assignment
+functional change	drive psychosis development in	at-risk youth
+Sport	have become	increasingly aware of challenge associate with mental disorder
+study	explore	subjective experience
+we	explore	they perception of prevalence
+datum	be collect from	four elite athlete
+participant	describe sport in	regard to they depression
+they	also acknowledge	stigma associate with mhi in high-level sport environment
+study	have	important practical implication
+individual	be with	autism spectrum disorder
+neuron-restrictive silencer factor	bind to	neuron-restrictive silencing element in neuronal gene
+we	here examine	effect of ms-11 on behavioral abnormality
+chronic treatment	improve	prenatal vpa-induced deficit in social interaction
+nrsf mrna expression	be	greater in somatosensory cortex of vpa-exposed mouse than of control
+lower dendritic spine density	be in	somatosensory cortex
+dysphagia	occur to	lesser extent in early stage
+diagnosis	be in	particularly early idiopathic Parkinson 's disease
+we	investigate	its correlate within specific diagnosis across whole sample
+we	focus largely on	older U.S. military veteran in two primary area
+genetic correlate	be	poorly understand
+we	perform	genome-wide rare copy number variant analysis
+inclusion criterion	include	icd 10 diagnosis of Dissocial Personality Disorder
+participant	provide	blood sample for genetic analysis
+cnv	use	Illumina HumanOmni2 .5 snp array platform
+we	identify	828 rare cnv
+cnv	impact	754 gene
+adult behaviour learn	specifically express in	brain
+we	specifically identify	31 cnv of clinical relevance
+extreme impulsive violence	be	genetically heterogeneous
+disorder	be with	neural circuitry at center of unit of analysis range from gene to behavior
+rdoc	ultimate goal of be	precision medicine for psychiatry with assumption
+this	could	how could accomplish
+focus	have	moreover have criticize for its reductionism of more recent rdoc emphasis on integration
+nimh director	advocate of	central role
+vascular dementia	be second lead cause of	dementia
+diagnostic criterion	have evolve from	concept of multiple infarction
+we aim	analyze	evolution in coding of different subtype of vad in french nationwide exhaustive hospital discharge database
+Iron deficiency	may alter	dopaminergic transmission
+iron metabolism	be associate with	negative symptom in patient with first-episode psychosis
+121 patient	be with	first-episode schizophrenia spectrum disorder
+negative symptom	use	clinician-rated dimension of Psychosis Symptom Severity of Diagnostic
+prominent negative symptom	be define as	moderate on dimensional scale of dsm-5
+Iron deficiency	be define as	serum ferritin ≤ 20 ng/ml
+patient	have	prominent negative symptom
+Scurvy	be multisystem condition	arise from vitamin c deficiency
+deficiency	result in	defective collagen formation
+death	most often result from	infection
+scurvy	may mimic injury in	forensic context
+cardiac failure	be	associate with vitamin c deficiency
+syncope	may occur in	addition
+scurvy	be	present
+Scurvy	should	should therefore diagnosis consider in medicolegal case of apparent trauma
+prevent depression	be important because of	scarcity of treatment resource
+functional magnetic resonance imaging neurofeedback	can train	subject
+FMRI neurofeedback	have	have apply to psychiatric disorder include schizophrenia
+patient	be with	psychiatric disorder
+researcher	pay attention to	they study 's design
+fmri neurofeedback	treat	heterogeneous patient with psychiatric disorder
+increase interest	be in	putative role of glucagon-like peptide 1 receptor as novel therapeutic agent for mental disorder
+its relationship	be in	post-mortem brain tissue of patient with mood
+brain sample	be localized to	dorsolateral prefrontal cortex
+glp-1r expression	be	in hippocampus significantly associate with md
+we	observe	moderate effect of md diagnosis on association between BMI in dlpfc
+abnormal gene expression	be in	postmortem brain of individual with md
+they	do receive	full benefit from current intervention offer by improving access to psychological therapy
+result	may	may poorer clinical outcome
+new talking therapy	could potentially benefit	group
+study	inform by	principle of coproduction
+Gluten elimination	may represent	effective treatment strategy for mood disorder in individual with gluten-related disorder
+directionality	however remain	unclear
+we	perform	systematic review of prospective study for effect of gluten on mood symptom in patient with gluten-related disorder
+meta-analysis	be with	random-effect
+gluten-free diet	significantly improve	pooled depressive symptom score
+individual	exhibit	aggressive behavior than other
+adequate emotional control	be essential for	mental health
+deficiency	be evident in	many psychiatric disorder include depression
+neural emotion regulation	be in	cognitive regulation region such lateral
+promising regulation strategy	modify	non-self-serving attributional style
+spontaneous causal attribution	be	generally process in medial brain structure particularly precuneus
+causal attribution	affect	emotional experience of depressed individual
+26 patient	be with	lifetime major depression
+person	be sad/happy because of	they
+depressive symptom	potential influential factor on	emotion regulation ability
+patient	show	non-self-serving trait attributional style
+up-regulating happiness	recruit	parahippocampal gyrus
+down-regulation	engage	superior frontal gyrus
+disturbed processing	be in	depression
+increase precuneus resting-state connectivity	interestingly be link to	healthier attribution
+adequate neural communication	facilitate	adaptive trait attributional style
+emotion	explicitly apply	causal attribution
+future research	should examine efficacy for	instance during psychotherapy
+better understanding	improve	functional recovery of survivor of major trauma
+we	assess	association between major trauma
+community-acquired pneumonia	be often treat with	qtc prolong antibiotic
+psychiatric diagnosis	contribute to	treatment failure in cap
+bivariate analysis	compare	baseline characteristic
+χ-test	be use for	analysis of categorical variable
+49 %	have	psychiatric diagnosis
+p	=	0.38
+psychiatric diagnosis	increase	likelihood of concomitant qtc
+outpatient	can	can treat for cap without fear of increase risk of treatment failure
+patient	be with	outpatient infection
+inconsistent result	assess	race/ethnicity relationship with attention-deficit/hyperactivity disorder
+study	use	broader ADHD diagnostic determination include case-definition
+Diet	be	be increasingly recognise as important contributor to mental health
+diet high	can have	negative consequence for disease symptom in schizophrenia patient
+particular diet	have	beneficial therapeutic-like property for human brain disorder
+dietary choice	affect	cognitive domain of offspring
+we	here investigate	effect of maternal high diet
+female c57bl/6 j mouse	be feed chow from	6 week prior to mating
+male offspring	be	wean onto chow on pnd24
+offspring	be significantly heavier compare to	those of control mother wean
+altered behavioural response	be in	test for cognition
+attention bias modification therapy	modify attention pattern via	computerized task
+we	assess	therapy-related contingency extraction process in healthy participant in patient with social anxiety disorder
+vmmn amplitude	predict	ABM treatment outcome
+army	be	where recruit as volunteer
+little	be know about	foot among young man in conscript army
+socioeconomic divide	be in	Sweden
+disability pension	have long represent	major reason behind early exit
+relation	be with	low function autism spectrum disorder
+venous thromboembolism	be collective term for	two condition
+proportion	be with	vte
+unprovoked vte	can	can often first clinical manifestation of underlie malignancy
+people	should	should investigate for underlie cancer
+treatment	be different in	cancer
+appropriate cancer diagnosis	furthermore could avoid	risk of cancer progression
+considerable variation	be in	epidemiology of psychotic disorder across social context
+little datum	be	to date available from low
+most people	be with	psychosis
+it	identify individual in	collaboration with traditional health practitioner
+aim	investigate	factor associate with behavior in large multicenter sample of homeless Schizophrenia
+we	facilitate	future outcome study
+prevalence	be increase throughout	world
+inequity	be in	health
+main	be analyze	difference in frecuency of hospital admission
+dissociative experience	have	have associate with increase disease severity
+better understanding	identify	novel pharmacological treatment approach
+we other trauma-related disorder	provide	evidence for two related overarching neurobiological model of dissociation
+neuroimaging study	highlight alteration in	functional connectivity of key brain region associate with model include connectivity between prefrontal cortex
+work	implicate system in	trauma-related dissociative experience
+pharmacological modulation	may serve as	promising transdiagnostic treatment modality for individual
+dissociative symptom	be in	dissociative subtype of posttraumatic stress disorder
+Charles Bonnet syndrome	refer to	experience of visual hallucination in context of visual impairment
+decrease sensory input	result in	overactivity
+definitive diagnostic criterion	vary by	discipline
+follow feature	however be generally agree upon	visual hallucination
+psychiatric symptom	be	often exclude
+certain non-classic case	have inspire	designation
+well-described phenomenon	have	similar pathogenesis
+deterioration	be in	sensory domain
+phenomenon	tend in addition to	ongoing diagnostic dilemma pose by multimodal hallucination
+some	suffer distress from	they hallucination
+complex auditory visual hallucination	surround	episode of severe anxiety
+she anxiety	act as	precipitant to she hallucinatory experience
+case	reinforce cbs as	possible etiology of visual hallucination in elderly population
+cognitive impairment	be associate with	impaired life expectancy
+review	summarize	current knowledge about mental health disorder in patient with cvd
+we	systematically review	evidence on adverse mental health outcome in breast cancer survivor
+relationship	be with	mental health service access
+post-traumatic stress disorder	can result from	similar injury
+emerge evidence	emphasize breadth in	clinical presentation between PST

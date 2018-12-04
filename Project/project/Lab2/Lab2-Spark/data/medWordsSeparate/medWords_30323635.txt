@@ -1,0 +1,19 @@
+patient	Species
+patients	Species
+serious mental illness	Disease
+patients	Species
+patient	Species
+patients	Species
+serious mental illness	Disease
+SMI	Disease
+patients	Species
+patient	Species
+patient	Species
+patients	Species
+patients	Species
+SMI	Disease
+patients	Species
+patients	Species
+SMI	Disease
+patients	Species
+patients	Species

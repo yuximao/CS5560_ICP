@@ -1,0 +1,32 @@
+minocycline	Chemical
+schizophrenia	Disease
+patients	Species
+psychosis	Disease
+minocycline	Chemical
+neuropathic	Disease
+schizophrenia	Disease
+minocycline	Chemical
+people	Species
+schizophrenia-spectrum disorder	Disease
+Participants	Species
+minocycline	Chemical
+interleukin 6	Gene
+people	Species
+minocycline	Chemical
+minocycline	Chemical
+minocycline	Chemical
+minocycline	Chemical
+psychiatric	Disease
+minocycline	Chemical
+minocycline	Chemical
+psychiatric	Disease
+minocycline	Chemical
+minocycline	Chemical
+minocycline	Chemical
+Minocycline	Chemical
+schizophrenia	Disease
+psychosis	Disease
+neuropathic	Disease
+minocycline	Chemical
+psychosis	Disease
+minocycline	Chemical

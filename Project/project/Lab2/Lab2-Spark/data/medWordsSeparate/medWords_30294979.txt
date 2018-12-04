@@ -1,0 +1,13 @@
+aggressive	Disease
+child	Species
+children	Species
+child	Species
+Aggressive	Disease
+children	Species
+mental illness	Disease
+tobacco	Species
+alcohol	Chemical
+aggressive	Disease
+child	Species
+aggressive	Disease
+child	Species

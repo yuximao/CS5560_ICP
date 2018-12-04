@@ -1,0 +1,7 @@
+mental disorders	Disease
+mental disorders	Disease
+schizophrenia	Disease
+depression	Disease
+anxiety disorders	Disease
+posttraumatic stress disorder	Disease
+mental disorders	Disease

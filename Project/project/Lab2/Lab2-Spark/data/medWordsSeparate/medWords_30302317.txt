@@ -1,0 +1,16 @@
+schizophrenia	Disease
+GM	Disease
+schizophrenia	Disease
+schizophrenia	Disease
+schizophrenia	Disease
+patients	Species
+GM	Disease
+schizophrenia	Disease
+Schizophrenia	Disease
+patients	Species
+GM	Disease
+GM	Disease
+GM	Disease
+GM	Disease
+schizophrenia	Disease
+GM	Disease

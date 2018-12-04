@@ -1,0 +1,21 @@
+severe mental illness	Disease
+Chronic schizophrenia	Disease
+depression	Disease
+bipolar disorders	Disease
+psychiatric disorders	Disease
+severe mental illness	Disease
+SMI	Disease
+SMI	Disease
+psychiatric	Disease
+persons	Species
+SMI	Disease
+psychiatric	Disease
+persons	Species
+SMI	Disease
+neuropsychiatric	Disease
+patients	Species
+SMI	Disease
+persons	Species
+SMI	Disease
+psychiatric	Disease
+patient	Species

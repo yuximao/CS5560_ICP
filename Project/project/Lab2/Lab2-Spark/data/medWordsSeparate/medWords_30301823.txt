@@ -1,0 +1,15 @@
+attention-deficit/hyperactivity disorder	Disease
+ADHD	Disease
+attention-deficit/hyperactivity disorder	Disease
+ADHD	Disease
+Mental Disorders	Disease
+ADHD	Disease
+ADHD	Disease
+ADHD	Disease
+complex dysfunction	Disease
+ADHD	Disease
+children	Species
+ADHD	Disease
+ADHD-related impairments	Disease
+memory deficits	Disease
+cognitive training	Disease

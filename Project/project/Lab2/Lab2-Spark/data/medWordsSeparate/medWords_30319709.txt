@@ -1,0 +1,29 @@
+Autism	Disease
+Anxiety	Disease
+Depression	Disease
+anxiety	Disease
+depression	Disease
+autism spectrum disorder	Disease
+ASD	Disease
+ASD	Disease
+anxiety	Disease
+depression	Disease
+ASD	Disease
+depression	Disease
+anxiety	Disease
+depression	Disease
+anxiety disorder	Disease
+ASD	Disease
+psychiatric	Disease
+people	Species
+benzodiazepine	Chemical
+ASD	Disease
+ASD	Disease
+ASD	Disease
+anxiety	Disease
+depression	Disease
+ASD	Disease
+ASD	Disease
+anxiety	Disease
+depression	Disease
+ASD	Disease

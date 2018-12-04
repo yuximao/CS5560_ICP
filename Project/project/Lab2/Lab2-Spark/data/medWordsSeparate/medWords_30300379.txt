@@ -1,0 +1,16 @@
+Child	Species
+sexual abuse	Disease
+Child	Species
+Sexual Abuse	Disease
+human	Species
+Child	Species
+Sexual Abuse	Disease
+boys	Species
+girls	Species
+men	Species
+men	Species
+women	Species
+psychiatric disorders	Disease
+sexual abuse	Disease
+child	Species
+sexual abuse	Disease

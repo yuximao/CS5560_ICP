@@ -1,0 +1,32 @@
+Schizophrenia	Disease
+Bipolar Disorder	Disease
+Schizophrenia	Disease
+bipolar disorder	Disease
+complex brain disorders	Disease
+patient	Species
+patients	Species
+schizophrenia	Disease
+bipolar disorder	Disease
+patients	Species
+Participants	Species
+participants	Species
+Patients	Species
+patients	Species
+schizophrenia	Disease
+bipolar disorder	Disease
+patients	Species
+schizophrenia	Disease
+male	Species
+schizophrenia	Disease
+male	Species
+bipolar disorder	Disease
+male	Species
+male	Species
+patients	Species
+Patients	Species
+schizophrenia	Disease
+patients	Species
+bipolar disorder	Disease
+patients	Species
+patient	Species
+patient	Species

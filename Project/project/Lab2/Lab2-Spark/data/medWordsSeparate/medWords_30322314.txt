@@ -1,0 +1,12 @@
+people	Species
+anxiety	Disease
+depressive disorders	Disease
+mental disorders	Disease
+people	Species
+participants	Species
+adjustment disorders	Disease
+anxiety disorders	Disease
+depressive disorder	Disease
+participants	Species
+patients	Species
+mental disorders	Disease

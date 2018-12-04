@@ -1,0 +1,27 @@
+Recessive Hereditary Methaemoglobinaemia Type II	Disease
+Cytochrome b5 reductase 3	Gene
+CYB5R3	Gene
+NADH	Chemical
+Recessive hereditary methaemoglobinaemia	Disease
+RHM	Disease
+CYB5R3 deficiency	Disease
+encephalopathy	Disease
+mental retardation	Disease
+microcephaly	Disease
+dystonia	Disease
+movement disorders	Disease
+RHM	Disease
+encephalopathy	Disease
+CYB5R3	Gene
+fatty acids	Chemical
+cholesterol	Chemical
+neurological disorders of type II RHM	Disease
+patients	Species
+CYB5R3 deficiency	Disease
+nitric oxide	Chemical
+NAD	Chemical
+NADH	Chemical
+CYB5R3	Gene
+RHM	Disease
+metabolism disorder	Disease
+neurological symptoms of the disease	Disease

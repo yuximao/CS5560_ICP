@@ -1,0 +1,23 @@
+DSM-5	Species
+ADHD	Disease
+Mental Disorders	Disease
+ADHD	Disease
+executive function deficits	Disease
+EFDs	Disease
+ADHD	Disease
+executive dysfunction	Disease
+ED	Disease
+ADHD	Disease
+ADHD	Disease
+ED	Disease
+ADHD	Disease
+ADHD	Disease
+EFDs	Disease
+ED	Disease
+ADHD	Disease
+EFDs	Disease
+ADHD	Disease
+EFDs	Disease
+ADHD	Disease
+DSM-5	Species
+ADHD	Disease

@@ -1,0 +1,16 @@
+Apomorphine	Chemical
+Apomorphine	Chemical
+dopamine	Chemical
+diseases and mental disorders	Disease
+Parkinson's disease	Disease
+PD	Disease
+apomorphine	Chemical
+apomorphine	Chemical
+PD	Disease
+cognitive behaviors	Disease
+cognitive behaviors	Disease
+apomorphine	Chemical
+cognitive impairment	Disease
+PD	Disease
+apomorphine	Chemical
+apomorphine	Chemical

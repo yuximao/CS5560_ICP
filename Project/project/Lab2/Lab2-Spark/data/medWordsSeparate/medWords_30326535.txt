@@ -1,0 +1,5 @@
+patients	Species
+mental health disorders	Disease
+patient	Species
+psychosomatic disorder	Disease
+patients	Species

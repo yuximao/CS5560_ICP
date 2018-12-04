@@ -1,0 +1,23 @@
+women	Species
+panic disorder	Disease
+newborns	Species
+women	Species
+panic disorder	Disease
+women	Species
+patients	Species
+panic disorder	Disease
+patients	Species
+panic disorder	Disease
+Panic disorder	Disease
+Mental Disorders	Disease
+preterm birth	Disease
+infants	Species
+patients	Species
+infants	Species
+infants	Species
+patients	Species
+newborns	Species
+patients	Species
+panic disorder	Disease
+panic disorder	Disease
+infants	Species

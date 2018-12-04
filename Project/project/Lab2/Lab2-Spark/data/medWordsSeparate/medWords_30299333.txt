@@ -1,0 +1,7 @@
+Alcohol	Chemical
+alcohol	Chemical
+patients	Species
+Alcohol	Chemical
+Alcohol	Chemical
+patients	Species
+participants	Species

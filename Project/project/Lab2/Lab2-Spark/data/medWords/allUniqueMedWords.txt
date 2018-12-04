@@ -1,0 +1,541 @@
+psychosomatic disorder	Disease
+autism spectrum disorder	Disease
+ziprasidone	Chemical
+Cognitive deficits	Disease
+aggressive	Disease
+Alzheimer's disease	Disease
+N-acetylcysteine	Chemical
+neurogranin	Gene
+autism spectrum disorders	Disease
+Participants	Species
+neurotoxic	Disease
+mood disturbances	Disease
+cardiovascular complications	Disease
+behavioral addictions	Disease
+colitis	Disease
+Rats	Species
+opioid epidemic	Disease
+cardiorespiratory fitness	Disease
+astrocytosis	Disease
+cognitive aging	Disease
+haloperidol	Chemical
+obstetric and neonatal complications	Disease
+rumination disorder	Disease
+systemic lupus erythematosus	Disease
+PQ912	Chemical
+Neuroimaging in Psychiatric Disorders	Disease
+PD to addiction	Disease
+neurologic symptom disorder	Disease
+sertraline	Chemical
+neurological disorders of type II RHM	Disease
+MHP	Disease
+Veterans Health Administration	Disease
+MDM	Disease
+Chronic schizophrenia	Disease
+deficiencies in dendritic arborization	Disease
+HIVE	Disease
+cardiovascular diseases	Disease
+psychopathologies of eating disorders	Disease
+testosterone	Chemical
+mental retardation	Disease
+alcohol use disorder	Disease
+GM	Disease
+people	Species
+schizophrenia-spectrum disorder	Disease
+urinary incontinence 47	Disease
+participants	Species
+RHM	Disease
+spongiform degeneration	Disease
+Depression	Disease
+Autism spectrum disorders	Disease
+monocyte derived-macrophages	Disease
+neuropathic	Disease
+depressive disorder	Disease
+wild-type	Disease
+Panic disorder	Disease
+Neuropathological disease	Disease
+posttraumatic stress disorder	Disease
+Buprenorphine	Chemical
+neurodevelopmental disorders	Disease
+musculoskeletal and rheumatologic disorders	Disease
+Mental disorders	Disease
+Trauma	Disease
+AUD	Disease
+Depressive Disorder	Disease
+Recessive Hereditary Methaemoglobinaemia Type II	Disease
+psychiatric disorders	Disease
+psychotic mental disorders	Disease
+psychopathology of the disorder	Disease
+cognitive or language difficulties	Disease
+AN	Disease
+psychiatric and the somatic disorder	Disease
+BEL206350	Chemical
+Bipolar disorder	Disease
+CYB5R3 deficiency	Disease
+macrophage migration inhibitory factor	Gene
+physical disorders	Disease
+panic disorder	Disease
+MDD	Disease
+sexual abuse	Disease
+Assisted outpatient treatment	Disease
+Neurological and Communicative Disorders	Disease
+A-beta	Gene
+memory deficits	Disease
+RCTs	Disease
+dementia	Disease
+SMI	Disease
+metabolic syndrome	Disease
+addictive behavior	Disease
+Dextran Sulphate	Chemical
+anorexia	Disease
+C1q	Gene
+Minocycline	Chemical
+metabolic disorders	Disease
+olanzapine	Chemical
+anxiety-related disorders	Disease
+intellectual disabilities	Disease
+boys	Species
+erythropoietin	Chemical
+Macrophage migration inhibitory factor	Gene
+transgenic mice	Species
+eating-disorder	Disease
+aripiprazole	Chemical
+paliperidone	Chemical
+fatigue	Disease
+MD -1	Chemical
+patients	Species
+cortisol	Chemical
+dopamine	Chemical
+intimate partner violence	Disease
+psychological health	Disease
+HIV-1	Species
+visual disabilities	Disease
+sodium	Chemical
+personality disorder	Disease
+psychiatric disorder	Disease
+chronic illnesses	Disease
+p24	Gene
+OCD	Disease
+persons	Species
+opioid use disorder	Disease
+cognitive impairment, gait or limb ataxia	Disease
+cognitive behaviors	Disease
+anxiety and/or depression	Disease
+AIDS	Disease
+minocycline	Chemical
+Sporadic Creutzfeldt-Jakob disease	Disease
+psychotic illness	Disease
+episodic mood disorders	Disease
+coaching	Disease
+pain	Disease
+Physical Component Summary	Disease
+abnormal involuntary movements	Disease
+Schizophrenia	Disease
+lithium chloride	Chemical
+Epilepsy	Disease
+toxicity	Disease
+neuropsychiatric	Disease
+glycogen synthase kinase 3-beta	Gene
+posttraumatic stress disorders	Disease
+Apomorphine	Chemical
+respiratory tract disorders	Disease
+metabolic dysfunction	Disease
+cognitive impairment	Disease
+delusional disorder	Disease
+mental/cognitive disabilities	Disease
+early death	Disease
+athletes	Disease
+women	Species
+asenapine	Chemical
+SCID	Disease
+JAMA	Gene
+YKL-40	Gene
+lurasidone	Chemical
+malnutrition	Disease
+hallucinations	Disease
+melatonin	Chemical
+RD	Disease
+EFDs	Disease
+anemia	Disease
+hypothalamus-pituitary-adrenal (HPA) axis	Disease
+IPV	Disease
+oxytocin	Chemical
+AF	Disease
+HIV-associated neurocognitive disorder	Disease
+fractures	Disease
+subthreshold psychotic symptoms	Disease
+ICH	Disease
+rat	Species
+Mood disorders	Disease
+zinc	Chemical
+rats	Species
+dystonia	Disease
+cancers	Disease
+cognitive impairments	Disease
+depression-related symptoms	Disease
+Sprague-Dawley rats	Species
+dissociative and somatoform disorders	Disease
+neuronal apoptosis	Disease
+bipolar affective disorder	Disease
+cognition	Disease
+PD	Disease
+MEN	Disease
+ADHD	Disease
+PrPC	Gene
+Person	Species
+cysteine	Chemical
+Sexual Abuse	Disease
+neurogenic deficits	Disease
+inflammation	Disease
+neurosychiatric disorders	Disease
+carbidopa	Chemical
+Untreated mental disorders	Disease
+anxiety	Disease
+Methylenedioxymethamphetamine	Chemical
+seizure	Disease
+injury reduced neuronal death	Disease
+mental health disorders	Disease
+hyperlipidemia	Disease
+generalised anxiety disorder	Disease
+ALOX5	Gene
+neuronal loss	Disease
+Hypertension	Disease
+somatic disorders	Disease
+Child	Species
+ARFID	Disease
+randomized controlled trials	Disease
+mouse	Species
+schizophrenic	Disease
+sarcopenia	Disease
+Mattis Dementia	Disease
+generalized anxiety disorder	Disease
+death anxiety	Disease
+preterm birth	Disease
+AOT	Disease
+anhedonia	Disease
+dendritic length	Disease
+bipolar disorders	Disease
+quetiapine	Chemical
+Olanzapine	Chemical
+Mental Health Disorders	Disease
+impulse control disorders	Disease
+HIV	Species
+mood disorder	Disease
+PGE2	Chemical
+functional impairment	Disease
+HAND	Disease
+personality disorders	Disease
+hearing-impairments	Disease
+CYB5R3	Gene
+17b-estradiol	Chemical
+AD	Disease
+ASD	Disease
+ulcer	Disease
+aggression	Disease
+participant	Species
+hearing-impairment	Disease
+estrogen	Chemical
+neuronal damage	Disease
+Anxiety	Disease
+C1qa	Gene
+Anorexia nervosa	Disease
+autism	Disease
+ED	Disease
+hypertension	Disease
+Cortisol	Chemical
+progesterone	Chemical
+hearing-impaired	Disease
+respiratory disorder	Disease
+hemin	Chemical
+psychosocial and occupational disability	Disease
+death	Disease
+HFA	Disease
+person	Species
+psychic trauma	Disease
+Hepatitis C	Disease
+Chronic Disease	Disease
+movement disorders	Disease
+cholesterol	Chemical
+WT	Disease
+thiol	Chemical
+MCS	Disease
+Asperger's syndrome	Disease
+deaths	Disease
+humans	Species
+Idiopathic Parkinson's Disease	Disease
+executive function deficits	Disease
+obesity	Disease
+major depressive disorder	Disease
+mice	Species
+carbonyl	Chemical
+behavioral disorders	Disease
+sexual dysfunction-ED	Disease
+buprenorphine	Chemical
+neurological symptoms of the disease	Disease
+sulphate	Chemical
+S	Chemical
+mental illnesses	Disease
+risperidone	Chemical
+numerous mental disorders	Disease
+Tourette's disorder	Disease
+eating disorders	Disease
+neurological disorders	Disease
+Patient	Species
+impaired working memory	Disease
+Cytochrome b5 reductase 3	Gene
+metabolism disorder	Disease
+Alcohol	Chemical
+sexual dysfunction	Disease
+arachidonate	Chemical
+Recessive hereditary methaemoglobinaemia	Disease
+pervasive developmental disorders	Disease
+Opioid Use Disorder	Disease
+psychosis	Disease
+PARTICIPANTS	Species
+neurological and psychiatric disorders	Disease
+Aggressive	Disease
+psychiatric illness	Disease
+insulin	Gene
+respiratory diseases	Disease
+AMP	Chemical
+STPS	Disease
+NOS	Gene
+myoclonus	Disease
+respiratory disease	Disease
+substance use disorder	Disease
+Tobacco	Species
+adjustment disorders	Disease
+Seizures	Disease
+mental illness	Disease
+post-head and neck cancer	Disease
+neurotoxicity	Disease
+cognitive deficits	Disease
+Baclofen	Chemical
+anxiety disorders	Disease
+Sexual Dysfunction	Disease
+mental disorder	Disease
+drug dependence	Disease
+compulsive buying or gambling disorder	Disease
+disruptive behavior disorders	Disease
+Duloxetine	Chemical
+HIV1	Species
+chronic obstructive pulmonary disease	Disease
+BD	Disease
+Neurological Disorders	Disease
+interleukin 6	Gene
+post-traumatic stress disorder	Disease
+neuropsychiatric disorders	Disease
+MDMA	Chemical
+childhood cancer	Disease
+Methylphenidate	Chemical
+severe mental illness	Disease
+glutaminyl	Chemical
+psychopathological condition	Disease
+gambling disorder	Disease
+ISRCTN14994755	Chemical
+5-lipoxygenase	Gene
+estrogens	Chemical
+osteoporosis	Disease
+Sig1R	Gene
+Chronic Illness	Disease
+IRR	Gene
+complex dysfunction	Disease
+Neck Cancer	Disease
+psychiatric	Disease
+mental health disorder	Disease
+Depressive disorders	Disease
+DSM-5	Species
+CBB	Chemical
+anorexia nervosa	Disease
+substance abuse	Disease
+children	Species
+methylenedioxymethamphetamine	Chemical
+Turkey	Species
+men	Species
+GAD	Disease
+cognitive dysfunctions	Disease
+Mental Disorders	Disease
+diabetes	Disease
+isolated disease	Disease
+cognitive decline	Disease
+baclofen	Chemical
+depressive disorders	Disease
+anxiety disorders and/or depression	Disease
+Children	Species
+HPA axis	Disease
+benzodiazepine	Chemical
+XCT	Gene
+Psychotic Symptoms	Disease
+cognitive training	Disease
+triglyceride	Chemical
+newborn	Species
+SI	Disease
+LMIC	Disease
+executive dysfunction	Disease
+males	Species
+bipolar disorder	Disease
+weight loss	Disease
+Stroke	Disease
+faster global cognitive decline	Disease
+dendritic complexity	Disease
+complex brain disorders	Disease
+PTSD	Disease
+psychotic spectrum disorders	Disease
+saccharin	Chemical
+CATB	Gene
+girls	Species
+hyperalgesia	Disease
+BEL112233	Chemical
+HIV encephalitis mouse model	Disease
+gastrointestinal and skin/subcutaneous tissue disorders	Disease
+schizotypal disorder	Disease
+escitalopram	Chemical
+NADH	Chemical
+NAC	Chemical
+mood disorders	Disease
+N-back working memory	Disease
+CFA	Species
+Alzheimer's Disease	Disease
+diseases and mental disorders	Disease
+HFA spectrum disorder	Disease
+Dopamine	Chemical
+sCJD	Disease
+Atrial fibrillation	Disease
+HNC	Disease
+atrial fibrillation	Disease
+GSK3b	Gene
+psychotic disorders	Disease
+rodent	Species
+Mental Component Summary	Disease
+arachidonic acid	Chemical
+ZNF429	Gene
+prion disease	Disease
+anxiety disorder	Disease
+NFL	Gene
+schizoaffective disorder	Disease
+microcephaly	Disease
+L-dopa	Chemical
+prostaglandin E2	Chemical
+Bipolar Disorder	Disease
+Disordered Eating	Disease
+cannabis	Chemical
+nitric oxide	Chemical
+cardiovascular disease	Disease
+human	Species
+urinary incontinence	Disease
+retroviral	Species
+levodopa	Chemical
+type of cognitive impairment	Disease
+attrition	Disease
+l-dopa	Chemical
+alcoholic abuse	Disease
+real-world settings	Disease
+low-income and middle-income country districts	Disease
+sporadic Creutzfeldt-Jakob disease	Disease
+Anorexia Nervosa	Disease
+patient	Species
+stroke	Disease
+intracerebral hemorrhage	Disease
+cancer	Disease
+approaches for anorexia nervosa	Disease
+EDs	Disease
+Psychosis	Disease
+morphine	Chemical
+PRE-084	Chemical
+eating disorder	Disease
+EPO	Chemical
+HIV	Disease
+psychopathology of eating disorders	Disease
+hypoactive sexual desire disorder	Disease
+Patients	Species
+child	Species
+HIV-1-associated neurocognitive disorders	Disease
+Anxiety disorders	Disease
+nonepileptic seizures	Disease
+Parkinson's disease	Disease
+fatty acids	Chemical
+prion diseases	Disease
+lithium	Chemical
+male	Species
+MIF	Gene
+NCT00724867	Chemical
+p17	Gene
+erectile dysfunction	Disease
+C57 BL6	Species
+SDS	Chemical
+encephalopathy	Disease
+hepatitis C	Disease
+Anxiety-related disorders	Disease
+impairment of the central nervous system functioning	Disease
+MAP-2	Gene
+Food addiction	Disease
+tobacco	Species
+serious mental illness	Disease
+Lithium	Chemical
+Addictive Behavior	Disease
+cocaine	Chemical
+sexual performance anxiety	Disease
+matter abnormalities	Disease
+Avoidant/restrictive food intake disorder	Disease
+academic	Disease
+obsessive-compulsive disorder	Disease
+NAD	Chemical
+Cocaine	Chemical
+alcohol	Chemical
+cariprazine	Chemical
+food addiction	Disease
+littermates	Species
+schizophrenia	Disease
+Sodium	Chemical
+attention-deficit/hyperactivity disorder	Disease
+synaptophysin	Gene
+Sheehan Disability	Disease
+SLE	Disease
+HSDD	Disease
+gp120	Gene
+HIV-1-infected	Disease
+depression	Disease
+HIV-associated neurocognitive disorders	Disease
+depressive symptoms	Disease
+suicidal ideation	Disease
+mental disorders	Disease
+Alzheimer disease	Disease
+neurogenesis deficits	Disease
+Women	Species
+env	Gene
+donors	Species
+infants	Species
+Related Disorders	Disease
+apomorphine	Chemical
+newborns	Species
+glutathione	Chemical
+Autism	Disease
+Maladaptive aggression	Disease
+gliosis	Disease
+low-income and middle-income country	Disease
+Definite	Chemical
+HFA spectrum disorders	Disease
+psychotic symptoms	Disease
+vascular dementia	Disease
+duloxetine	Chemical
+ZNF493	Gene
+iloperidone	Chemical
+mental health problems	Disease
+serotonin	Chemical
+Hamilton Anxiety	Disease
+paroxetine	Chemical
+clozapine	Chemical
+VA	Disease
+BD1047	Chemical
+Swiss mice	Species
+high-functioning autism	Disease
+cognitive and neurobehavioral complications	Disease
+fluoxetine	Chemical
+SUD	Disease
+PCS	Disease
+erythropoietin	Gene
+ADHD-related impairments	Disease
+hemorrhagic stroke	Disease
+Alcohol Use Disorder	Disease
+withdrawal," "social/interpersonal problems	Disease
+affective disorders	Disease

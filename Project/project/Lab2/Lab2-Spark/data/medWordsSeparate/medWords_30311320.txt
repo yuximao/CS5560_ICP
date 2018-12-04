@@ -1,0 +1,11 @@
+Neuroimaging in Psychiatric Disorders	Disease
+psychiatric disorders	Disease
+psychiatric disorders	Disease
+Depressive disorders	Disease
+schizophrenia	Disease
+psychotic disorders	Disease
+autism spectrum disorder	Disease
+post-traumatic stress disorder	Disease
+psychiatric disorders	Disease
+JAMA	Gene
+psychiatric disorders	Disease

@@ -1,0 +1,8 @@
+suicide rate	have increase over	past several decade
+study	identify	risk factor for first-onset si among high-risk group
+datum	be draw from	National Treatment Improvement evaluation study
+patient	be with	lifetime history of suicide attempt
+severity indicator	be	evaluate as prospective predictor of first-onset SI in linear regression model
+related symptom	individual with	current mental health
+difficulty	highlight	importance of treatment accessibility
+mental health treatment	be in	substance abuse program

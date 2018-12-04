@@ -1,0 +1,44 @@
+N-acetylcysteine	Chemical
+PGE2	Chemical
+hemorrhagic stroke	Disease
+mice	Species
+N-acetylcysteine	Chemical
+NAC	Chemical
+thiol	Chemical
+neurological and psychiatric disorders	Disease
+NAC	Chemical
+rodent	Species
+hemorrhagic stroke	Disease
+hemorrhagic stroke	Disease
+intracerebral hemorrhage	Disease
+ICH	Disease
+mice	Species
+rats	Species
+5-lipoxygenase	Gene
+ALOX5	Gene
+mice	Species
+NAC	Chemical
+NAC	Chemical
+hemin	Chemical
+arachidonate	Chemical
+ALOX5	Gene
+NAC	Chemical
+glutathione	Chemical
+glutathione	Chemical
+glutathione	Chemical
+S	Chemical
+NAC	Chemical
+injury reduced neuronal death	Disease
+ICH	Disease
+mice	Species
+prostaglandin E2	Chemical
+PGE2	Chemical
+NAC	Chemical
+ICH	Disease
+arachidonic acid	Chemical
+ALOX5	Gene
+PGE2	Chemical
+NAC	Chemical
+NAC	Chemical
+neurological disorders	Disease
+ICH	Disease

@@ -1,0 +1,5 @@
+behavioral disorders	Disease
+diabetes	Disease
+diabetes	Disease
+people	Species
+diabetes	Disease

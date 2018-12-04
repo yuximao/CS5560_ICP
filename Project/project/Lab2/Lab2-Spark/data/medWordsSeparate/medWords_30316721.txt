@@ -1,0 +1,8 @@
+Cortisol	Chemical
+hypothalamus-pituitary-adrenal (HPA) axis	Disease
+mental disorders	Disease
+HPA axis	Disease
+mental disorders	Disease
+patient	Species
+cortisol	Chemical
+cortisol	Chemical

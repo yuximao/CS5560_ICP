@@ -1,0 +1,9 @@
+Anxiety-related disorders	Disease
+Anxiety-related disorders	Disease
+child	Species
+academic	Disease
+child	Species
+anxiety-related disorders	Disease
+child	Species
+serotonin	Chemical
+anxiety-related disorders	Disease

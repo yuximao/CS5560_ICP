@@ -1,0 +1,30 @@
+Macrophage migration inhibitory factor	Gene
+metabolic dysfunction	Disease
+macrophage migration inhibitory factor	Gene
+MIF	Gene
+insulin	Gene
+olanzapine	Chemical
+Olanzapine	Chemical
+insulin	Gene
+triglyceride	Chemical
+MIF	Gene
+schizophrenic	Disease
+patients	Species
+MIF	Gene
+MIF	Gene
+Olanzapine	Chemical
+mice	Species
+MIF	Gene
+AMP	Chemical
+Olanzapine	Chemical
+MIF	Gene
+insulin	Gene
+MIF	Gene
+mice	Species
+olanzapine	Chemical
+insulin	Gene
+MIF	Gene
+MIF	Gene
+metabolic dysfunction	Disease
+MIF	Gene
+MIF	Gene

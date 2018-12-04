@@ -1,0 +1,11 @@
+Patients	Species
+mental disorders	Disease
+patients	Species
+patients	Species
+patients	Species
+patients	Species
+patients	Species
+psychiatric	Disease
+psychiatric	Disease
+somatic disorders	Disease
+psychiatric and the somatic disorder	Disease

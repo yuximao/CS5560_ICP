@@ -1,0 +1,20 @@
+Neck Cancer	Disease
+post-head and neck cancer	Disease
+HNC	Disease
+HNC	Disease
+major depressive disorder	Disease
+MDD	Disease
+anxiety disorder	Disease
+AD	Disease
+HNC	Disease
+morphine	Chemical
+patients	Species
+HNC	Disease
+HNC	Disease
+AD	Disease
+HNC	Disease
+HNC	Disease
+anxiety	Disease
+pain	Disease
+AD	Disease
+HNC	Disease

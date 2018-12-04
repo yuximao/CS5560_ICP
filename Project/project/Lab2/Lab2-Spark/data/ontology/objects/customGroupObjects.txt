@@ -1,0 +1,1370 @@
+gp	Other
+psychosomatic specialist consultation in gp 's office	Other
+high level of acceptance among patient	design
+high level of acceptance among patient	stimulation
+provider	components
+real world	Other
+treatment of choice for generalised anxiety disorder	first-onset
+treatment of choice for generalised anxiety disorder	hippocampal
+treatment of choice for generalised anxiety disorder	stimulation
+treatment of choice for generalised anxiety disorder	psychotropics
+treatment of choice for generalised anxiety disorder	reported
+treatment of choice for generalised anxiety disorder	death
+treatment of choice for generalised anxiety disorder	mood
+treatment of choice for generalised anxiety disorder	lithium
+especially recovery	Other
+older adult	lithium
+mortality	Other
+non-specific	ECT
+Parkinson 's disease	lithium
+related	first-onset
+related	hippocampal
+literature	lithium
+cognitive behavior like learning	complement
+cognitive behavior like learning	hippocampal
+cognitive behavior like learning	stimulation
+cognitive behavior like learning	ECT
+cognitive behavior like learning	reported
+cognitive behavior like learning	mood
+could compromise by effect of apomorphine	apomorphine
+latest information about its effect on hippocampus	framework
+latest information about its effect on hippocampus	components
+recent-onset schizophrenia	design
+recent-onset schizophrenia	EDT
+recent-onset schizophrenia	ECT
+recent-onset schizophrenia	lithium
+mechanism involve	CYB5R3
+mechanism involve	complement
+mechanism involve	stimulation
+numerous way	Other
+they difficult experience	Other
+physical health across mental disorder	biomarker
+physical health across mental disorder	hippocampal
+physical health across mental disorder	reported
+physical health across mental disorder	death
+physical health across mental disorder	mood
+physical health across mental disorder	lithium
+people with mental illness	framework
+people with mental illness	fasting
+people with mental illness	psychotropics
+lower incidence of relapse	health-based
+lower incidence of relapse	design
+primary health care	electronic
+primary health care	apomorphine
+primary health care	death
+primary health care	mood
+primary health care	lithium
+somatic complaint	Other
+deal with patient	design
+should evaluate	Other
+patient with systemic lupus erythematosus receive	design
+characterise	Other
+severe developmental complication	biomarker
+severe developmental complication	complement
+treatment	first-onset
+treatment	hippocampal
+treatment	stimulation
+treatment	psychotropics
+treatment	reported
+treatment	death
+treatment	mood
+basis of dominant family system theory	Other
+neonatal outcome include gestational age	hippocampal
+neonatal outcome include gestational age	stimulation
+neonatal outcome include gestational age	psychotropics
+neonatal outcome include gestational age	reported
+neonatal outcome include gestational age	death
+anxiety in adult with autism spectrum disorder	hippocampal
+anxiety in adult with autism spectrum disorder	psychotropics
+anxiety in adult with autism spectrum disorder	reported
+anxiety in adult with autism spectrum disorder	death
+anxiety in adult with autism spectrum disorder	lithium
+adult	lithium
+effective	hippocampal
+effective	Demoralization
+effective	EDT
+effective	stimulation
+effective	reported
+effective	mood
+effect of ECT on functional connectivity of brain hub in depression patient	CYB5R3
+effect of ECT on functional connectivity of brain hub in depression patient	complement
+effect of ECT on functional connectivity of brain hub in depression patient	apomorphine
+effect of ECT on functional connectivity of brain hub in depression patient	components
+effect of ECT on functional connectivity of brain hub in depression patient	design
+effect of ECT on functional connectivity of brain hub in depression patient	ECT
+in current study assess at three time point	electronic
+in current study assess at three time point	apomorphine
+in current study assess at three time point	design
+clinical symptom	complement
+clinical symptom	hippocampal
+clinical symptom	stimulation
+clinical symptom	psychotropics
+clinical symptom	reported
+clinical symptom	death
+clinical symptom	mood
+brain hub	CYB5R3
+brain hub	components
+ECT	CYB5R3
+ECT	apomorphine
+ECT	ECT
+1 month after completion of ECT	CYB5R3
+1 month after completion of ECT	apomorphine
+1 month after completion of ECT	ECT
+1 month after completion of ECT	lithium
+functional connectivity of left angular gyrus	Other
+most frequently diagnose mental health problem among american college student	first-onset
+most frequently diagnose mental health problem among american college student	EDT
+most frequently diagnose mental health problem among american college student	death
+most frequently diagnose mental health problem among american college student	mood
+most frequently diagnose mental health problem among american college student	lithium
+mental/cognitive disability arise	complement
+mental/cognitive disability arise	hippocampal
+mental/cognitive disability arise	ECT
+mental/cognitive disability arise	reported
+type of EDT student	electronic
+type of EDT student	apomorphine
+type of EDT student	components
+type of EDT student	EDT
+research indicate	biomarker
+research indicate	CYB5R3
+they anxiety	psychotropics
+they anxiety	reported
+they anxiety	lithium
+continue	Other
+peer run technology group teach by interested student	Other
+would topic for group discussion	Demoralization
+part of they life	Other
+they	Other
+mainstay treatment in bipolar disorder for its effectiveness in acute phase of illness in prevention of recurrence	CYB5R3
+mainstay treatment in bipolar disorder for its effectiveness in acute phase of illness in prevention of recurrence	electronic
+mainstay treatment in bipolar disorder for its effectiveness in acute phase of illness in prevention of recurrence	first-onset
+mainstay treatment in bipolar disorder for its effectiveness in acute phase of illness in prevention of recurrence	hippocampal
+mainstay treatment in bipolar disorder for its effectiveness in acute phase of illness in prevention of recurrence	Demoralization
+mainstay treatment in bipolar disorder for its effectiveness in acute phase of illness in prevention of recurrence	EDT
+mainstay treatment in bipolar disorder for its effectiveness in acute phase of illness in prevention of recurrence	stimulation
+mainstay treatment in bipolar disorder for its effectiveness in acute phase of illness in prevention of recurrence	psychotropics
+mainstay treatment in bipolar disorder for its effectiveness in acute phase of illness in prevention of recurrence	reported
+mainstay treatment in bipolar disorder for its effectiveness in acute phase of illness in prevention of recurrence	death
+mainstay treatment in bipolar disorder for its effectiveness in acute phase of illness in prevention of recurrence	mood
+mechanism of action	CYB5R3
+mechanism of action	complement
+mechanism of action	hippocampal
+mechanism of action	stimulation
+mechanism of action	death
+mechanism of action	mood
+integrate analytical approach	Other
+effect of treatment with lithium chloride 1 mm on transcriptome of lymphoblast	biomarker
+effect of treatment with lithium chloride 1 mm on transcriptome of lymphoblast	first-onset
+effect of treatment with lithium chloride 1 mm on transcriptome of lymphoblast	hippocampal
+effect of treatment with lithium chloride 1 mm on transcriptome of lymphoblast	stimulation
+effect of treatment with lithium chloride 1 mm on transcriptome of lymphoblast	psychotropics
+effect of treatment with lithium chloride 1 mm on transcriptome of lymphoblast	reported
+effect of treatment with lithium chloride 1 mm on transcriptome of lymphoblast	death
+effect of treatment with lithium chloride 1 mm on transcriptome of lymphoblast	mood
+effect of treatment with lithium chloride 1 mm on transcriptome of lymphoblast	lithium
+gene-based analysis on genome-wide genotyping datum from extended sample of 205 bd patient characterize for lithium response	biomarker
+gene-based analysis on genome-wide genotyping datum from extended sample of 205 bd patient characterize for lithium response	addiction
+gene-based analysis on genome-wide genotyping datum from extended sample of 205 bd patient characterize for lithium response	CYB5R3
+gene-based analysis on genome-wide genotyping datum from extended sample of 205 bd patient characterize for lithium response	fear
+gene-based analysis on genome-wide genotyping datum from extended sample of 205 bd patient characterize for lithium response	framework
+gene-based analysis on genome-wide genotyping datum from extended sample of 205 bd patient characterize for lithium response	fasting
+gene-based analysis on genome-wide genotyping datum from extended sample of 205 bd patient characterize for lithium response	design
+gene-based analysis on genome-wide genotyping datum from extended sample of 205 bd patient characterize for lithium response	ECT
+gene-based analysis on genome-wide genotyping datum from extended sample of 205 bd patient characterize for lithium response	lithium
+LR	Other
+quantitative real-time polymerase chain reaction	hippocampal
+quantitative real-time polymerase chain reaction	design
+quantitative real-time polymerase chain reaction	death
+quantitative real-time polymerase chain reaction	mood
+convergent analysis of genome-wide expression	ECT
+convergent analysis of genome-wide expression	lithium
+involvement of zinc finger protein in lithium response	biomarker
+involvement of zinc finger protein in lithium response	lithium
+child 's mental health	CYB5R3
+child 's mental health	death
+child 's mental health	mood
+child 's mental health	lithium
+still its infancy	components
+serious mental illness such schizophrenia	design
+serious mental illness such schizophrenia	psychotropics
+serious mental illness such schizophrenia	ECT
+life	Other
+effectiveness of group lifestyle intervention enhance with mobile health technology	CYB5R3
+effectiveness of group lifestyle intervention enhance with mobile health technology	electronic
+effectiveness of group lifestyle intervention enhance with mobile health technology	hippocampal
+effectiveness of group lifestyle intervention enhance with mobile health technology	Demoralization
+effectiveness of group lifestyle intervention enhance with mobile health technology	EDT
+effectiveness of group lifestyle intervention enhance with mobile health technology	stimulation
+effectiveness of group lifestyle intervention enhance with mobile health technology	reported
+effectiveness of group lifestyle intervention enhance with mobile health technology	death
+effectiveness of group lifestyle intervention enhance with mobile health technology	mood
+effectiveness of group lifestyle intervention enhance with mobile health technology	lithium
+have associate with development of various mental disorder	biomarker
+have associate with development of various mental disorder	complement
+have associate with development of various mental disorder	hippocampal
+have associate with development of various mental disorder	health-based
+have associate with development of various mental disorder	reported
+have associate with development of various mental disorder	death
+course of psychotherapy	Other
+comprehensive review of psychotherapeutic intervention effect on hpa axis in adult sample with mental disorder	addiction
+comprehensive review of psychotherapeutic intervention effect on hpa axis in adult sample with mental disorder	fear
+comprehensive review of psychotherapeutic intervention effect on hpa axis in adult sample with mental disorder	framework
+comprehensive review of psychotherapeutic intervention effect on hpa axis in adult sample with mental disorder	hippocampal
+comprehensive review of psychotherapeutic intervention effect on hpa axis in adult sample with mental disorder	fasting
+comprehensive review of psychotherapeutic intervention effect on hpa axis in adult sample with mental disorder	design
+comprehensive review of psychotherapeutic intervention effect on hpa axis in adult sample with mental disorder	ECT
+comprehensive review of psychotherapeutic intervention effect on hpa axis in adult sample with mental disorder	reported
+comprehensive review of psychotherapeutic intervention effect on hpa axis in adult sample with mental disorder	death
+comprehensive review of psychotherapeutic intervention effect on hpa axis in adult sample with mental disorder	lithium
+four database for psychotherapeutic intervention study with mentally ill patient sample	addiction
+four database for psychotherapeutic intervention study with mentally ill patient sample	electronic
+four database for psychotherapeutic intervention study with mentally ill patient sample	fear
+four database for psychotherapeutic intervention study with mentally ill patient sample	framework
+four database for psychotherapeutic intervention study with mentally ill patient sample	fasting
+four database for psychotherapeutic intervention study with mentally ill patient sample	design
+four database for psychotherapeutic intervention study with mentally ill patient sample	ECT
+examine	electronic
+include	Other
+study	electronic
+unfeasible	Other
+comprehensively review	Other
+strong	Other
+comparability of psychotherapeutic treatment effect	first-onset
+comparability of psychotherapeutic treatment effect	hippocampal
+comparability of psychotherapeutic treatment effect	stimulation
+comparability of psychotherapeutic treatment effect	psychotropics
+comparability of psychotherapeutic treatment effect	ECT
+comparability of psychotherapeutic treatment effect	reported
+comparability of psychotherapeutic treatment effect	death
+comparability of psychotherapeutic treatment effect	mood
+adult with high-functioning autism	stimulation
+adult with high-functioning autism	lithium
+disorder	hippocampal
+disorder	reported
+disorder	death
+information in different format aim	components
+intervention	Other
+user ' naturalistic environment	first-onset
+user ' naturalistic environment	hippocampal
+user ' naturalistic environment	EDT
+user ' naturalistic environment	psychotropics
+user ' naturalistic environment	reported
+user ' naturalistic environment	death
+user ' naturalistic environment	mood
+outpatient court-ordered treatment for people in part to treatment non-adherence	first-onset
+outpatient court-ordered treatment for people in part to treatment non-adherence	framework
+outpatient court-ordered treatment for people in part to treatment non-adherence	hippocampal
+outpatient court-ordered treatment for people in part to treatment non-adherence	fasting
+outpatient court-ordered treatment for people in part to treatment non-adherence	design
+outpatient court-ordered treatment for people in part to treatment non-adherence	stimulation
+outpatient court-ordered treatment for people in part to treatment non-adherence	psychotropics
+outpatient court-ordered treatment for people in part to treatment non-adherence	reported
+outpatient court-ordered treatment for people in part to treatment non-adherence	death
+outpatient court-ordered treatment for people in part to treatment non-adherence	mood
+update on recent research	EDT
+motor symptom	Other
+we knowledge of mechanism involve in development of behavioral addiction	biomarker
+we knowledge of mechanism involve in development of behavioral addiction	addiction
+we knowledge of mechanism involve in development of behavioral addiction	CYB5R3
+we knowledge of mechanism involve in development of behavioral addiction	electronic
+we knowledge of mechanism involve in development of behavioral addiction	complement
+we knowledge of mechanism involve in development of behavioral addiction	fear
+we knowledge of mechanism involve in development of behavioral addiction	framework
+we knowledge of mechanism involve in development of behavioral addiction	fasting
+we knowledge of mechanism involve in development of behavioral addiction	design
+we knowledge of mechanism involve in development of behavioral addiction	stimulation
+we knowledge of mechanism involve in development of behavioral addiction	mood
+association with development of addictive behavior in pd include role of dopaminergic medication	biomarker
+association with development of addictive behavior in pd include role of dopaminergic medication	complement
+association with development of addictive behavior in pd include role of dopaminergic medication	Demoralization
+association with development of addictive behavior in pd include role of dopaminergic medication	stimulation
+association with development of addictive behavior in pd include role of dopaminergic medication	mood
+neurobiology of addictive behavior	stimulation
+neurobiology of addictive behavior	mood
+milder form of hiv-1-associated neurocognitive disorder	first-onset
+milder form of hiv-1-associated neurocognitive disorder	complement
+milder form of hiv-1-associated neurocognitive disorder	hippocampal
+milder form of hiv-1-associated neurocognitive disorder	ECT
+milder form of hiv-1-associated neurocognitive disorder	reported
+milder form of hiv-1-associated neurocognitive disorder	death
+past several decade	CYB5R3
+past several decade	ECT
+risk factor for first-onset si among high-risk group	biomarker
+risk factor for first-onset si among high-risk group	addiction
+risk factor for first-onset si among high-risk group	first-onset
+risk factor for first-onset si among high-risk group	fear
+risk factor for first-onset si among high-risk group	framework
+risk factor for first-onset si among high-risk group	fasting
+risk factor for first-onset si among high-risk group	design
+risk factor for first-onset si among high-risk group	stimulation
+risk factor for first-onset si among high-risk group	lithium
+National Treatment Improvement evaluation study	electronic
+lifetime history of suicide attempt	Demoralization
+lifetime history of suicide attempt	design
+lifetime history of suicide attempt	psychotropics
+lifetime history of suicide attempt	reported
+lifetime history of suicide attempt	lithium
+evaluate as prospective predictor of first-onset SI in linear regression model	biomarker
+evaluate as prospective predictor of first-onset SI in linear regression model	addiction
+evaluate as prospective predictor of first-onset SI in linear regression model	CYB5R3
+evaluate as prospective predictor of first-onset SI in linear regression model	electronic
+evaluate as prospective predictor of first-onset SI in linear regression model	first-onset
+evaluate as prospective predictor of first-onset SI in linear regression model	fear
+evaluate as prospective predictor of first-onset SI in linear regression model	apomorphine
+evaluate as prospective predictor of first-onset SI in linear regression model	framework
+evaluate as prospective predictor of first-onset SI in linear regression model	fasting
+evaluate as prospective predictor of first-onset SI in linear regression model	design
+evaluate as prospective predictor of first-onset SI in linear regression model	lithium
+current mental health	apomorphine
+current mental health	death
+current mental health	mood
+current mental health	lithium
+importance of treatment accessibility	first-onset
+importance of treatment accessibility	hippocampal
+importance of treatment accessibility	stimulation
+importance of treatment accessibility	psychotropics
+importance of treatment accessibility	reported
+importance of treatment accessibility	death
+importance of treatment accessibility	mood
+substance abuse program	biomarker
+substance abuse program	first-onset
+substance abuse program	hippocampal
+substance abuse program	EDT
+substance abuse program	psychotropics
+substance abuse program	reported
+substance abuse program	death
+substance abuse program	mood
+non-athlete	lithium
+train at higher intensity for longer period of time	design
+train at higher intensity for longer period of time	stimulation
+train at higher intensity for longer period of time	ECT
+unhealthy physical-activity pattern	biomarker
+unhealthy physical-activity pattern	hippocampal
+unhealthy physical-activity pattern	death
+unhealthy physical-activity pattern	mood
+unhealthy physical-activity pattern	lithium
+non-athlete sample	addiction
+non-athlete sample	fear
+non-athlete sample	framework
+non-athlete sample	fasting
+non-athlete sample	design
+non-athlete sample	lithium
+clinically useful self-report measure of unhealthy training behavior	first-onset
+clinically useful self-report measure of unhealthy training behavior	complement
+clinically useful self-report measure of unhealthy training behavior	hippocampal
+clinically useful self-report measure of unhealthy training behavior	EDT
+clinically useful self-report measure of unhealthy training behavior	stimulation
+clinically useful self-report measure of unhealthy training behavior	psychotropics
+clinically useful self-report measure of unhealthy training behavior	reported
+clinically useful self-report measure of unhealthy training behavior	death
+clinically useful self-report measure of unhealthy training behavior	mood
+clinically useful self-report measure of unhealthy training behavior	lithium
+add to revise dsm-5 Feeding in 2013	Other
+clinical setting	complement
+clinical setting	hippocampal
+clinical setting	stimulation
+clinical setting	psychotropics
+clinical setting	reported
+clinical setting	death
+clinical setting	mood
+clinical setting	lithium
+preliminary report on feasibility in relation to ARFID	components
+more prevalent	Other
+clinically relevant update of recent select key publication regard use of atypical antipsychotic in population	addiction
+clinically relevant update of recent select key publication regard use of atypical antipsychotic in population	CYB5R3
+clinically relevant update of recent select key publication regard use of atypical antipsychotic in population	first-onset
+clinically relevant update of recent select key publication regard use of atypical antipsychotic in population	complement
+clinically relevant update of recent select key publication regard use of atypical antipsychotic in population	fear
+clinically relevant update of recent select key publication regard use of atypical antipsychotic in population	framework
+clinically relevant update of recent select key publication regard use of atypical antipsychotic in population	hippocampal
+clinically relevant update of recent select key publication regard use of atypical antipsychotic in population	health-based
+clinically relevant update of recent select key publication regard use of atypical antipsychotic in population	fasting
+clinically relevant update of recent select key publication regard use of atypical antipsychotic in population	design
+clinically relevant update of recent select key publication regard use of atypical antipsychotic in population	EDT
+clinically relevant update of recent select key publication regard use of atypical antipsychotic in population	stimulation
+clinically relevant update of recent select key publication regard use of atypical antipsychotic in population	psychotropics
+clinically relevant update of recent select key publication regard use of atypical antipsychotic in population	reported
+clinically relevant update of recent select key publication regard use of atypical antipsychotic in population	death
+clinically relevant update of recent select key publication regard use of atypical antipsychotic in population	mood
+clinically relevant update of recent select key publication regard use of atypical antipsychotic in population	lithium
+patient 's risk of social drift	design
+short-term economic cost of fep program include direct cost	Other
+neuroimaging biomarker for psychiatric disorder	biomarker
+neuroimaging biomarker for psychiatric disorder	hippocampal
+neuroimaging biomarker for psychiatric disorder	stimulation
+neuroimaging biomarker for psychiatric disorder	reported
+neuroimaging biomarker for psychiatric disorder	death
+primary psychiatric disorder	electronic
+primary psychiatric disorder	apomorphine
+primary psychiatric disorder	hippocampal
+primary psychiatric disorder	stimulation
+primary psychiatric disorder	reported
+primary psychiatric disorder	death
+key pathological feature associate with hiv-associated neurocognitive disorder	first-onset
+key pathological feature associate with hiv-associated neurocognitive disorder	complement
+key pathological feature associate with hiv-associated neurocognitive disorder	hippocampal
+key pathological feature associate with hiv-associated neurocognitive disorder	EDT
+key pathological feature associate with hiv-associated neurocognitive disorder	ECT
+key pathological feature associate with hiv-associated neurocognitive disorder	reported
+key pathological feature associate with hiv-associated neurocognitive disorder	death
+inhibit by cart	Other
+loss	Other
+same level of tat-induced synapse loss as wild-type mouse	electronic
+same level of tat-induced synapse loss as wild-type mouse	first-onset
+same level of tat-induced synapse loss as wild-type mouse	apomorphine
+same level of tat-induced synapse loss as wild-type mouse	components
+same level of tat-induced synapse loss as wild-type mouse	hippocampal
+same level of tat-induced synapse loss as wild-type mouse	EDT
+same level of tat-induced synapse loss as wild-type mouse	psychotropics
+same level of tat-induced synapse loss as wild-type mouse	reported
+same level of tat-induced synapse loss as wild-type mouse	death
+same level of tat-induced synapse loss as wild-type mouse	mood
+emerge experimental therapy for treatment-resistant depression	first-onset
+emerge experimental therapy for treatment-resistant depression	complement
+emerge experimental therapy for treatment-resistant depression	hippocampal
+emerge experimental therapy for treatment-resistant depression	stimulation
+emerge experimental therapy for treatment-resistant depression	psychotropics
+emerge experimental therapy for treatment-resistant depression	reported
+emerge experimental therapy for treatment-resistant depression	death
+emerge experimental therapy for treatment-resistant depression	mood
+specific axonal pathway	ECT
+most detailed patient-specific foundation for DBS modeling currently available	CYB5R3
+most detailed patient-specific foundation for DBS modeling currently available	electronic
+most detailed patient-specific foundation for DBS modeling currently available	apomorphine
+most detailed patient-specific foundation for DBS modeling currently available	design
+most detailed patient-specific foundation for DBS modeling currently available	ECT
+most detailed patient-specific foundation for DBS modeling currently available	lithium
+scc region	Other
+linear model predict	CYB5R3
+linear model predict	electronic
+linear model predict	apomorphine
+most likely therapeutic target for scc db	ECT
+most likely therapeutic target for scc db	lithium
+critical percentage	hippocampal
+critical percentage	Demoralization
+critical percentage	stimulation
+critical percentage	psychotropics
+critical percentage	reported
+critical percentage	death
+pathophysiology of psychiatric disorder	hippocampal
+pathophysiology of psychiatric disorder	stimulation
+pathophysiology of psychiatric disorder	reported
+pathophysiology of psychiatric disorder	death
+likely various methodological factor	health-based
+likely various methodological factor	lithium
+adult female sprague-dawley rat	lithium
+assess	apomorphine
+body weight	components
+ovariectomised rat	Other
+copyright	Other
+morbidity of mental disorder among prisoner	hippocampal
+morbidity of mental disorder among prisoner	reported
+morbidity of mental disorder among prisoner	death
+prevalence of mental disorder in taiwanese prisoner	hippocampal
+prevalence of mental disorder in taiwanese prisoner	reported
+prevalence of mental disorder in taiwanese prisoner	death
+patient with major depressive disorder treat with duloxetine for 6 month	hippocampal
+patient with major depressive disorder treat with duloxetine for 6 month	design
+patient with major depressive disorder treat with duloxetine for 6 month	reported
+patient with major depressive disorder treat with duloxetine for 6 month	death
+patient with major depressive disorder treat with duloxetine for 6 month	lithium
+significant psychosocial	complement
+second lead cause of disability worldwide by 2020	first-onset
+second lead cause of disability worldwide by 2020	hippocampal
+second lead cause of disability worldwide by 2020	EDT
+second lead cause of disability worldwide by 2020	psychotropics
+second lead cause of disability worldwide by 2020	reported
+second lead cause of disability worldwide by 2020	death
+second lead cause of disability worldwide by 2020	mood
+mood disorder	components
+mood disorder	hippocampal
+mood disorder	reported
+mood disorder	death
+mood disorder	mood
+erythropoietin	lithium
+increase in hippocampal volume	apomorphine
+increase in hippocampal volume	hippocampal
+have propose include activation of anti-apoptotic signalling pathway	apomorphine
+potential importance of glycogen synthase kinase 3-beta	stimulation
+potential importance of glycogen synthase kinase 3-beta	death
+potential importance of glycogen synthase kinase 3-beta	lithium
+publish association between EPO administration	lithium
+patient with mood disorder	components
+patient with mood disorder	hippocampal
+patient with mood disorder	design
+patient with mood disorder	reported
+patient with mood disorder	death
+patient with mood disorder	mood
+pharmacogenetic study of epo treatment in patient with mood disorder	electronic
+pharmacogenetic study of epo treatment in patient with mood disorder	first-onset
+pharmacogenetic study of epo treatment in patient with mood disorder	components
+pharmacogenetic study of epo treatment in patient with mood disorder	hippocampal
+pharmacogenetic study of epo treatment in patient with mood disorder	design
+pharmacogenetic study of epo treatment in patient with mood disorder	stimulation
+pharmacogenetic study of epo treatment in patient with mood disorder	psychotropics
+pharmacogenetic study of epo treatment in patient with mood disorder	reported
+pharmacogenetic study of epo treatment in patient with mood disorder	death
+pharmacogenetic study of epo treatment in patient with mood disorder	mood
+pharmacogenetic study of epo treatment in patient with mood disorder	lithium
+low-income country	Other
+human prion disease	framework
+human prion disease	lithium
+invariably fatal	Other
+beta-sheet rich conformer of physiological prp	lithium
+inhibitor	Other
+first clinical study with pq912 in subject with biomarker-proven alzheimer 's disease	biomarker
+first clinical study with pq912 in subject with biomarker-proven alzheimer 's disease	addiction
+first clinical study with pq912 in subject with biomarker-proven alzheimer 's disease	electronic
+first clinical study with pq912 in subject with biomarker-proven alzheimer 's disease	complement
+first clinical study with pq912 in subject with biomarker-proven alzheimer 's disease	fear
+first clinical study with pq912 in subject with biomarker-proven alzheimer 's disease	framework
+first clinical study with pq912 in subject with biomarker-proven alzheimer 's disease	hippocampal
+first clinical study with pq912 in subject with biomarker-proven alzheimer 's disease	fasting
+first clinical study with pq912 in subject with biomarker-proven alzheimer 's disease	design
+first clinical study with pq912 in subject with biomarker-proven alzheimer 's disease	stimulation
+first clinical study with pq912 in subject with biomarker-proven alzheimer 's disease	psychotropics
+first clinical study with pq912 in subject with biomarker-proven alzheimer 's disease	reported
+first clinical study with pq912 in subject with biomarker-proven alzheimer 's disease	death
+first clinical study with pq912 in subject with biomarker-proven alzheimer 's disease	mood
+first clinical study with pq912 in subject with biomarker-proven alzheimer 's disease	lithium
+treatment-related pharmacodynamic effect	first-onset
+treatment-related pharmacodynamic effect	hippocampal
+treatment-related pharmacodynamic effect	stimulation
+treatment-related pharmacodynamic effect	psychotropics
+treatment-related pharmacodynamic effect	reported
+treatment-related pharmacodynamic effect	death
+treatment-related pharmacodynamic effect	mood
+tailor to patient population with early ad	electronic
+tailor to patient population with early ad	design
+tailor to patient population with early ad	lithium
+capture by various measure	health-based
+main treatment for schizophrenia	first-onset
+main treatment for schizophrenia	hippocampal
+main treatment for schizophrenia	design
+main treatment for schizophrenia	stimulation
+main treatment for schizophrenia	psychotropics
+main treatment for schizophrenia	ECT
+main treatment for schizophrenia	reported
+main treatment for schizophrenia	death
+main treatment for schizophrenia	mood
+schizophrenia treatment	first-onset
+schizophrenia treatment	hippocampal
+schizophrenia treatment	design
+schizophrenia treatment	stimulation
+schizophrenia treatment	psychotropics
+schizophrenia treatment	ECT
+schizophrenia treatment	reported
+schizophrenia treatment	death
+schizophrenia treatment	mood
+mitochondrial outer membrane	Other
+severe encephalopathy mental retardation	lithium
+neurological disorder of type ii rhm	electronic
+neurological disorder of type ii rhm	apomorphine
+neurological disorder of type ii rhm	components
+neurological disorder of type ii rhm	hippocampal
+neurological disorder of type ii rhm	reported
+neurological disorder of type ii rhm	death
+pleiotropic tissue effect	Other
+role in modulation of nitric oxide diffusion	Other
+aerobic metabolism	lithium
+lipid metabolism disorder	CYB5R3
+lipid metabolism disorder	hippocampal
+lipid metabolism disorder	reported
+lipid metabolism disorder	death
+lipid metabolism disorder	lithium
+cause by disorder in synapse in disturbance of lipid metabolism	CYB5R3
+cause by disorder in synapse in disturbance of lipid metabolism	first-onset
+cause by disorder in synapse in disturbance of lipid metabolism	hippocampal
+cause by disorder in synapse in disturbance of lipid metabolism	EDT
+cause by disorder in synapse in disturbance of lipid metabolism	psychotropics
+cause by disorder in synapse in disturbance of lipid metabolism	reported
+cause by disorder in synapse in disturbance of lipid metabolism	death
+cause by disorder in synapse in disturbance of lipid metabolism	mood
+cause by disorder in synapse in disturbance of lipid metabolism	lithium
+increase societal issue associate with high rate of substance abuse	biomarker
+increase societal issue associate with high rate of substance abuse	first-onset
+increase societal issue associate with high rate of substance abuse	hippocampal
+increase societal issue associate with high rate of substance abuse	EDT
+increase societal issue associate with high rate of substance abuse	stimulation
+increase societal issue associate with high rate of substance abuse	psychotropics
+increase societal issue associate with high rate of substance abuse	reported
+increase societal issue associate with high rate of substance abuse	death
+increase societal issue associate with high rate of substance abuse	mood
+increase societal issue associate with high rate of substance abuse	lithium
+considerable use of psychotropic	first-onset
+considerable use of psychotropic	hippocampal
+considerable use of psychotropic	EDT
+considerable use of psychotropic	psychotropics
+considerable use of psychotropic	reported
+considerable use of psychotropic	death
+considerable use of psychotropic	mood
+use of psychotropic among child with asd in Denmark	CYB5R3
+use of psychotropic among child with asd in Denmark	first-onset
+use of psychotropic among child with asd in Denmark	hippocampal
+use of psychotropic among child with asd in Denmark	EDT
+use of psychotropic among child with asd in Denmark	psychotropics
+use of psychotropic among child with asd in Denmark	reported
+use of psychotropic among child with asd in Denmark	death
+use of psychotropic among child with asd in Denmark	mood
+be change in use of antidepressant	addiction
+be change in use of antidepressant	first-onset
+be change in use of antidepressant	fear
+be change in use of antidepressant	framework
+be change in use of antidepressant	hippocampal
+be change in use of antidepressant	fasting
+be change in use of antidepressant	design
+be change in use of antidepressant	EDT
+be change in use of antidepressant	psychotropics
+be change in use of antidepressant	reported
+be change in use of antidepressant	death
+be change in use of antidepressant	mood
+most often prescribe	Other
+two year	Demoralization
+psychiatric comorbidity	stimulation
+limited use in youngest child	CYB5R3
+limited use in youngest child	first-onset
+limited use in youngest child	hippocampal
+limited use in youngest child	EDT
+limited use in youngest child	psychotropics
+limited use in youngest child	reported
+limited use in youngest child	death
+limited use in youngest child	mood
+mainly due to increase in use of adhd medication	first-onset
+mainly due to increase in use of adhd medication	hippocampal
+mainly due to increase in use of adhd medication	EDT
+mainly due to increase in use of adhd medication	psychotropics
+mainly due to increase in use of adhd medication	ECT
+mainly due to increase in use of adhd medication	reported
+mainly due to increase in use of adhd medication	death
+mainly due to increase in use of adhd medication	mood
+previous study	electronic
+child with asd	CYB5R3
+contribution of past to extent of opioid prescription	CYB5R3
+contribution of past to extent of opioid prescription	ECT
+have propose as transdiagnostic construct	complement
+have propose as transdiagnostic construct	hippocampal
+have propose as transdiagnostic construct	Demoralization
+have propose as transdiagnostic construct	EDT
+have propose as transdiagnostic construct	stimulation
+have propose as transdiagnostic construct	reported
+have propose as transdiagnostic construct	mood
+impact of intervention on death fear	addiction
+impact of intervention on death fear	fear
+impact of intervention on death fear	framework
+impact of intervention on death fear	components
+impact of intervention on death fear	health-based
+impact of intervention on death fear	fasting
+impact of intervention on death fear	design
+impact of intervention on death fear	death
+significant reduction in death anxiety	complement
+significant reduction in death anxiety	components
+significant reduction in death anxiety	psychotropics
+significant reduction in death anxiety	reported
+significant reduction in death anxiety	death
+significant reduction in death anxiety	lithium
+treatment efficacy	first-onset
+treatment efficacy	complement
+treatment efficacy	hippocampal
+treatment efficacy	stimulation
+treatment efficacy	psychotropics
+treatment efficacy	reported
+treatment efficacy	death
+treatment efficacy	mood
+give small number of included study need	electronic
+give small number of included study need	lithium
+use of internet media	first-onset
+use of internet media	hippocampal
+use of internet media	EDT
+use of internet media	psychotropics
+use of internet media	reported
+use of internet media	death
+use of internet media	mood
+use of internet media	lithium
+site	Other
+clinician with complex treatment challenge	first-onset
+clinician with complex treatment challenge	hippocampal
+clinician with complex treatment challenge	stimulation
+clinician with complex treatment challenge	psychotropics
+clinician with complex treatment challenge	reported
+clinician with complex treatment challenge	death
+clinician with complex treatment challenge	mood
+pro-ana website use	biomarker
+pro-ana website use	first-onset
+pro-ana website use	hippocampal
+pro-ana website use	EDT
+pro-ana website use	psychotropics
+pro-ana website use	reported
+pro-ana website use	death
+pro-ana website use	mood
+pervasive generalize negative emotional construct present in psychiatric disorder	complement
+pervasive generalize negative emotional construct present in psychiatric disorder	hippocampal
+pervasive generalize negative emotional construct present in psychiatric disorder	Demoralization
+pervasive generalize negative emotional construct present in psychiatric disorder	stimulation
+pervasive generalize negative emotional construct present in psychiatric disorder	psychotropics
+pervasive generalize negative emotional construct present in psychiatric disorder	reported
+pervasive generalize negative emotional construct present in psychiatric disorder	death
+pervasive generalize negative emotional construct present in psychiatric disorder	mood
+ubiquitous affective-laden factor	Other
+revise NEO Personality Inventory	mood
+english-speaking sample of patient	addiction
+english-speaking sample of patient	fear
+english-speaking sample of patient	framework
+english-speaking sample of patient	fasting
+english-speaking sample of patient	design
+its capacity account for demoralization-related variance in neo pi-r	first-onset
+its capacity account for demoralization-related variance in neo pi-r	hippocampal
+neo pi-r item pool	Other
+hallmark feature of schizophrenia	design
+hallmark feature of schizophrenia	ECT
+prefrontal cortex function	Other
+human	framework
+cognition	Other
+cognition from that attribute to motor symptom	Other
+direct observation of activity of daily living skill	biomarker
+direct observation of activity of daily living skill	hippocampal
+infiltration of perivascular macrophage into brain with secretion of viral protein	CYB5R3
+infiltration of perivascular macrophage into brain with secretion of viral protein	components
+infiltration of perivascular macrophage into brain with secretion of viral protein	hippocampal
+infiltration of perivascular macrophage into brain with secretion of viral protein	stimulation
+infiltration of perivascular macrophage into brain with secretion of viral protein	psychotropics
+infiltration of perivascular macrophage into brain with secretion of viral protein	reported
+infiltration of perivascular macrophage into brain with secretion of viral protein	death
+infiltration of perivascular macrophage into brain with secretion of viral protein	lithium
+catb neurotoxicity	Other
+oxidative species	Other
+macrophage expose to cocaine	hippocampal
+macrophage expose to cocaine	stimulation
+macrophage expose to cocaine	psychotropics
+macrophage expose to cocaine	reported
+macrophage expose to cocaine	death
+catb secretion from hiv-1 infected macrophage	hippocampal
+catb secretion from hiv-1 infected macrophage	stimulation
+catb secretion from hiv-1 infected macrophage	psychotropics
+catb secretion from hiv-1 infected macrophage	reported
+catb secretion from hiv-1 infected macrophage	death
+catb secretion from hiv-1 infected macrophage	lithium
+mdm	Other
+high risk for functional impairment	stimulation
+later life	Other
+consequence for medical care of elderly group of patient	first-onset
+consequence for medical care of elderly group of patient	design
+consequence for medical care of elderly group of patient	EDT
+consequence for medical care of elderly group of patient	mood
+patient with functional movement disorder	hippocampal
+patient with functional movement disorder	design
+patient with functional movement disorder	reported
+patient with functional movement disorder	death
+vulnerability factor for mental disorder	hippocampal
+vulnerability factor for mental disorder	reported
+vulnerability factor for mental disorder	death
+cognitive benefit of antithrombotic treatment	biomarker
+cognitive benefit of antithrombotic treatment	first-onset
+cognitive benefit of antithrombotic treatment	complement
+cognitive benefit of antithrombotic treatment	hippocampal
+cognitive benefit of antithrombotic treatment	stimulation
+cognitive benefit of antithrombotic treatment	psychotropics
+cognitive benefit of antithrombotic treatment	ECT
+cognitive benefit of antithrombotic treatment	reported
+cognitive benefit of antithrombotic treatment	death
+cognitive benefit of antithrombotic treatment	mood
+clinical effectiveness of long-term psychological treatment for people with type of personality disorder	CYB5R3
+clinical effectiveness of long-term psychological treatment for people with type of personality disorder	electronic
+clinical effectiveness of long-term psychological treatment for people with type of personality disorder	first-onset
+clinical effectiveness of long-term psychological treatment for people with type of personality disorder	complement
+clinical effectiveness of long-term psychological treatment for people with type of personality disorder	apomorphine
+clinical effectiveness of long-term psychological treatment for people with type of personality disorder	framework
+clinical effectiveness of long-term psychological treatment for people with type of personality disorder	components
+clinical effectiveness of long-term psychological treatment for people with type of personality disorder	hippocampal
+clinical effectiveness of long-term psychological treatment for people with type of personality disorder	Demoralization
+clinical effectiveness of long-term psychological treatment for people with type of personality disorder	fasting
+clinical effectiveness of long-term psychological treatment for people with type of personality disorder	EDT
+clinical effectiveness of long-term psychological treatment for people with type of personality disorder	stimulation
+clinical effectiveness of long-term psychological treatment for people with type of personality disorder	psychotropics
+clinical effectiveness of long-term psychological treatment for people with type of personality disorder	reported
+clinical effectiveness of long-term psychological treatment for people with type of personality disorder	death
+clinical effectiveness of long-term psychological treatment for people with type of personality disorder	mood
+they availability	Other
+low intensity intervention for people with personality disorder	framework
+low intensity intervention for people with personality disorder	hippocampal
+low intensity intervention for people with personality disorder	fasting
+low intensity intervention for people with personality disorder	reported
+low intensity intervention for people with personality disorder	death
+subthreshold symptom	Other
+first episode of psychosis	addiction
+first episode of psychosis	fear
+first episode of psychosis	framework
+first episode of psychosis	fasting
+first episode of psychosis	design
+as other early characteristic of illness onset	electronic
+as other early characteristic of illness onset	psychotropics
+as other early characteristic of illness onset	lithium
+severe characterize by substantial clinical heterogeneity	complement
+severe characterize by substantial clinical heterogeneity	hippocampal
+severe characterize by substantial clinical heterogeneity	stimulation
+severe characterize by substantial clinical heterogeneity	psychotropics
+severe characterize by substantial clinical heterogeneity	reported
+severe characterize by substantial clinical heterogeneity	death
+severe characterize by substantial clinical heterogeneity	mood
+severe characterize by substantial clinical heterogeneity	lithium
+such heterogeneity	lithium
+antihyperalgesic effect	Other
+possible oxidative damage in different region of brain induce by its inflammatory reaction	CYB5R3
+possible oxidative damage in different region of brain induce by its inflammatory reaction	components
+possible oxidative damage in different region of brain induce by its inflammatory reaction	hippocampal
+possible oxidative damage in different region of brain induce by its inflammatory reaction	stimulation
+possible oxidative damage in different region of brain induce by its inflammatory reaction	psychotropics
+possible oxidative damage in different region of brain induce by its inflammatory reaction	reported
+possible oxidative damage in different region of brain induce by its inflammatory reaction	death
+possible oxidative damage in different region of brain induce by its inflammatory reaction	mood
+behavioral response in swiss mouse	first-onset
+behavioral response in swiss mouse	hippocampal
+behavioral response in swiss mouse	EDT
+behavioral response in swiss mouse	stimulation
+behavioral response in swiss mouse	psychotropics
+behavioral response in swiss mouse	reported
+behavioral response in swiss mouse	death
+behavioral response in swiss mouse	mood
+extract	Other
+augment in colitis-induced animal in relation to disease group	components
+augment in colitis-induced animal in relation to disease group	lithium
+potential impairment of central nervous system function cause	first-onset
+potential impairment of central nervous system function cause	hippocampal
+potential impairment of central nervous system function cause	EDT
+potential impairment of central nervous system function cause	stimulation
+potential impairment of central nervous system function cause	psychotropics
+potential impairment of central nervous system function cause	reported
+potential impairment of central nervous system function cause	death
+potential impairment of central nervous system function cause	mood
+treatment-seeking group of native Americans	first-onset
+treatment-seeking group of native Americans	hippocampal
+treatment-seeking group of native Americans	stimulation
+treatment-seeking group of native Americans	psychotropics
+treatment-seeking group of native Americans	reported
+treatment-seeking group of native Americans	death
+treatment-seeking group of native Americans	mood
+potential of methylenedioxymethamphetamine	stimulation
+potential of methylenedioxymethamphetamine	death
+potential of methylenedioxymethamphetamine	lithium
+potential problem of neurotoxicity	stimulation
+potential problem of neurotoxicity	death
+young people	framework
+young people	fasting
+efficacy of repetitive transcranial magnetic stimulation in sample of young people aged	addiction
+efficacy of repetitive transcranial magnetic stimulation in sample of young people aged	complement
+efficacy of repetitive transcranial magnetic stimulation in sample of young people aged	fear
+efficacy of repetitive transcranial magnetic stimulation in sample of young people aged	framework
+efficacy of repetitive transcranial magnetic stimulation in sample of young people aged	hippocampal
+efficacy of repetitive transcranial magnetic stimulation in sample of young people aged	health-based
+efficacy of repetitive transcranial magnetic stimulation in sample of young people aged	fasting
+efficacy of repetitive transcranial magnetic stimulation in sample of young people aged	design
+efficacy of repetitive transcranial magnetic stimulation in sample of young people aged	stimulation
+efficacy of repetitive transcranial magnetic stimulation in sample of young people aged	psychotropics
+efficacy of repetitive transcranial magnetic stimulation in sample of young people aged	reported
+efficacy of repetitive transcranial magnetic stimulation in sample of young people aged	death
+efficacy of repetitive transcranial magnetic stimulation in sample of young people aged	lithium
+severe psychopathological condition	Other
+selection of latest international literature include recent study	electronic
+selection of latest international literature include recent study	framework
+selection of latest international literature include recent study	EDT
+selection of latest international literature include recent study	lithium
+management of disorder for those	hippocampal
+management of disorder for those	EDT
+management of disorder for those	stimulation
+management of disorder for those	psychotropics
+management of disorder for those	reported
+management of disorder for those	death
+universal prevention for depression in young people	complement
+universal prevention for depression in young people	framework
+universal prevention for depression in young people	fasting
+public health intervention to unique need of population	addiction
+public health intervention to unique need of population	fear
+public health intervention to unique need of population	framework
+public health intervention to unique need of population	health-based
+public health intervention to unique need of population	fasting
+public health intervention to unique need of population	design
+public health intervention to unique need of population	death
+public health intervention to unique need of population	mood
+public health intervention to unique need of population	lithium
+Florida	Other
+other risk factor among homeless individual in Tampa	CYB5R3
+retrospective chart review on adult homeless patient see at two free clinic site operate by Tampa Bay Street Medicine	CYB5R3
+retrospective chart review on adult homeless patient see at two free clinic site operate by Tampa Bay Street Medicine	Demoralization
+retrospective chart review on adult homeless patient see at two free clinic site operate by Tampa Bay Street Medicine	design
+retrospective chart review on adult homeless patient see at two free clinic site operate by Tampa Bay Street Medicine	lithium
+mortality risk	Other
+study	electronic
+alcohol use	electronic
+alcohol use	first-onset
+alcohol use	hippocampal
+alcohol use	EDT
+alcohol use	stimulation
+alcohol use	psychotropics
+alcohol use	reported
+alcohol use	death
+alcohol use	mood
+age	hippocampal
+age	stimulation
+age	psychotropics
+age	reported
+age	death
+higher rate of anemia	stimulation
+higher rate of anemia	ECT
+more prevalent in homeless population than in general population	CYB5R3
+more prevalent in homeless population than in general population	lithium
+higher morbidity than homeless man	CYB5R3
+higher morbidity than homeless man	stimulation
+higher morbidity than homeless man	ECT
+lower in study population than general population	electronic
+lower in study population than general population	health-based
+lower in study population than general population	design
+lower in study population than general population	lithium
+critical need for mental health initiative	Demoralization
+critical need for mental health initiative	death
+critical need for mental health initiative	mood
+critical need for mental health initiative	lithium
+onset at youth	lithium
+various psychosocial problem with potential impact on psychiatric pharmacotherapy	health-based
+various psychosocial problem with potential impact on psychiatric pharmacotherapy	stimulation
+various psychosocial problem with potential impact on psychiatric pharmacotherapy	death
+dna	Other
+gene function	Other
+schizophrenia	design
+schizophrenia	ECT
+course of pharmacotherapeutic intervention	ECT
+crossroads between gene	lithium
+precision medicine approach epigenetic profile	lithium
+steeper slope of decline	Other
+schizophrenia	design
+schizophrenia	ECT
+effect of age on brain measure	CYB5R3
+effect of age on brain measure	components
+effect of age on brain measure	hippocampal
+effect of age on brain measure	stimulation
+effect of age on brain measure	psychotropics
+effect of age on brain measure	reported
+effect of age on brain measure	death
+moderator of relationship between age	components
+moderator of relationship between age	hippocampal
+moderator of relationship between age	stimulation
+moderator of relationship between age	psychotropics
+moderator of relationship between age	reported
+moderator of relationship between age	death
+moderator of relationship between age	lithium
+age effect on GM indicate	biomarker
+age effect on GM indicate	CYB5R3
+age effect on GM indicate	hippocampal
+age effect on GM indicate	stimulation
+age effect on GM indicate	psychotropics
+age effect on GM indicate	reported
+age effect on GM indicate	death
+effect of schizophrenia on GM early in illness	electronic
+effect of schizophrenia on GM early in illness	design
+effect of schizophrenia on GM early in illness	psychotropics
+effect of schizophrenia on GM early in illness	ECT
+increase rate of relapse among patient with schizophrenia	design
+increase rate of relapse among patient with schizophrenia	ECT
+response to medication treatment include therapeutic	first-onset
+response to medication treatment include therapeutic	hippocampal
+response to medication treatment include therapeutic	stimulation
+response to medication treatment include therapeutic	psychotropics
+response to medication treatment include therapeutic	ECT
+response to medication treatment include therapeutic	reported
+response to medication treatment include therapeutic	death
+response to medication treatment include therapeutic	mood
+prone	Other
+return of fear	addiction
+return of fear	fear
+return of fear	framework
+return of fear	health-based
+return of fear	fasting
+return of fear	design
+return of fear	lithium
+effect fast on fear acquisition	addiction
+effect fast on fear acquisition	fear
+effect fast on fear acquisition	framework
+effect fast on fear acquisition	health-based
+effect fast on fear acquisition	fasting
+effect fast on fear acquisition	design
+pavlovian fear conditioning paradigm	addiction
+pavlovian fear conditioning paradigm	fear
+pavlovian fear conditioning paradigm	framework
+pavlovian fear conditioning paradigm	health-based
+pavlovian fear conditioning paradigm	fasting
+pavlovian fear conditioning paradigm	design
+enzyme-linked immunosorbent assay	Other
+fear extinction retention	addiction
+fear extinction retention	fear
+fear extinction retention	framework
+fear extinction retention	health-based
+fear extinction retention	fasting
+fear extinction retention	design
+fear extinction retention	lithium
+remote fear memory	addiction
+remote fear memory	electronic
+remote fear memory	fear
+remote fear memory	framework
+remote fear memory	health-based
+remote fear memory	fasting
+remote fear memory	design
+negative relationship with fear response in spontaneous recovery test	addiction
+negative relationship with fear response in spontaneous recovery test	fear
+negative relationship with fear response in spontaneous recovery test	framework
+negative relationship with fear response in spontaneous recovery test	components
+negative relationship with fear response in spontaneous recovery test	health-based
+negative relationship with fear response in spontaneous recovery test	fasting
+negative relationship with fear response in spontaneous recovery test	design
+fear memory formation	addiction
+fear memory formation	electronic
+fear memory formation	fear
+fear memory formation	framework
+fear memory formation	health-based
+fear memory formation	fasting
+fear memory formation	design
+extinction-based therapy for fear-related disorder	addiction
+extinction-based therapy for fear-related disorder	CYB5R3
+extinction-based therapy for fear-related disorder	first-onset
+extinction-based therapy for fear-related disorder	fear
+extinction-based therapy for fear-related disorder	framework
+extinction-based therapy for fear-related disorder	hippocampal
+extinction-based therapy for fear-related disorder	health-based
+extinction-based therapy for fear-related disorder	fasting
+extinction-based therapy for fear-related disorder	design
+extinction-based therapy for fear-related disorder	reported
+extinction-based therapy for fear-related disorder	death
+different profile of efficacy in children/adolescents	CYB5R3
+different profile of efficacy in children/adolescents	complement
+different profile of efficacy in children/adolescents	psychotropics
+key priority for future research in each of area of investigation	apomorphine
+key priority for future research in each of area of investigation	EDT
+have answer	Other
+spirit of Open Science	Other
+embarrassment	Other
+statistical method	lithium
+Department of Veterans Affairs hospital	lithium
+result in marginalization for sufferer	Other
+disability	Other
+employment	Other
+end-of-life care for individual with schizophrenia	design
+end-of-life care for individual with schizophrenia	ECT
+end-of-life care for individual with schizophrenia	mood
+understanding of hospice for patient with schizophrenia	CYB5R3
+understanding of hospice for patient with schizophrenia	Demoralization
+understanding of hospice for patient with schizophrenia	design
+understanding of hospice for patient with schizophrenia	ECT
+consent patient end-of-life care decision	design
+consent patient end-of-life care decision	mood
+importance of mandatory interdisciplinary training practice	EDT
+importance of mandatory interdisciplinary training practice	lithium
+provision of quality end-of-life care for individual with schizophrenia	design
+provision of quality end-of-life care for individual with schizophrenia	ECT
+provision of quality end-of-life care for individual with schizophrenia	death
+provision of quality end-of-life care for individual with schizophrenia	mood
+difference in characteristic of 104 woman diagnose with compulsive buying behaviour treat at three public hospital unit specialize in addiction from January 2004 to December 2015	addiction
+difference in characteristic of 104 woman diagnose with compulsive buying behaviour treat at three public hospital unit specialize in addiction from January 2004 to December 2015	complement
+difference in characteristic of 104 woman diagnose with compulsive buying behaviour treat at three public hospital unit specialize in addiction from January 2004 to December 2015	fear
+difference in characteristic of 104 woman diagnose with compulsive buying behaviour treat at three public hospital unit specialize in addiction from January 2004 to December 2015	framework
+difference in characteristic of 104 woman diagnose with compulsive buying behaviour treat at three public hospital unit specialize in addiction from January 2004 to December 2015	Demoralization
+difference in characteristic of 104 woman diagnose with compulsive buying behaviour treat at three public hospital unit specialize in addiction from January 2004 to December 2015	health-based
+difference in characteristic of 104 woman diagnose with compulsive buying behaviour treat at three public hospital unit specialize in addiction from January 2004 to December 2015	fasting
+difference in characteristic of 104 woman diagnose with compulsive buying behaviour treat at three public hospital unit specialize in addiction from January 2004 to December 2015	design
+observe for cohabitation status with percentage	hippocampal
+observe for cohabitation status with percentage	stimulation
+observe for cohabitation status with percentage	psychotropics
+observe for cohabitation status with percentage	reported
+observe for cohabitation status with percentage	death
+method assess from they own perspective	apomorphine
+method assess from they own perspective	lithium
+productive development	biomarker
+productive development	complement
+overview of current state of discipline	fear
+overview of current state of discipline	apomorphine
+overview of current state of discipline	fasting
+overview of current state of discipline	design
+live time	design
+dialectical modification of proportion of certain domain of life-world of live experience	Other
+explore	Other
+two contemporary model for clinical practice	CYB5R3
+two contemporary model for clinical practice	electronic
+two contemporary model for clinical practice	complement
+two contemporary model for clinical practice	apomorphine
+two contemporary model for clinical practice	hippocampal
+two contemporary model for clinical practice	Demoralization
+two contemporary model for clinical practice	EDT
+two contemporary model for clinical practice	stimulation
+two contemporary model for clinical practice	psychotropics
+two contemporary model for clinical practice	reported
+two contemporary model for clinical practice	death
+two contemporary model for clinical practice	mood
+they bring to challenge of psychiatric care in twentieth-first century	addiction
+they bring to challenge of psychiatric care in twentieth-first century	fear
+they bring to challenge of psychiatric care in twentieth-first century	framework
+they bring to challenge of psychiatric care in twentieth-first century	fasting
+they bring to challenge of psychiatric care in twentieth-first century	design
+they bring to challenge of psychiatric care in twentieth-first century	stimulation
+they bring to challenge of psychiatric care in twentieth-first century	mood
+they bring to challenge of psychiatric care in twentieth-first century	lithium
+high comorbidity	stimulation
+when they developmental peak	biomarker
+when they developmental peak	complement
+effect of intervention for cmhp in college student	first-onset
+effect of intervention for cmhp in college student	EDT
+effect of intervention for cmhp in college student	mood
+randomize controlled trial	Other
+PRISMA guideline	Other
+moderate effect size for depression	complement
+highest es for depression among university student	complement
+highest es for depression among university student	stimulation
+diagnostic scheme for psychogenic nonepileptic seizure	hippocampal
+diagnostic scheme for psychogenic nonepileptic seizure	EDT
+diagnostic scheme for psychogenic nonepileptic seizure	stimulation
+diagnostic scheme for psychogenic nonepileptic seizure	reported
+age group	hippocampal
+age group	stimulation
+age group	psychotropics
+age group	reported
+age group	death
+press human right issue	framework
+systematic review of quantitative study publish in past decade on CSA in India	CYB5R3
+systematic review of quantitative study publish in past decade on CSA in India	electronic
+systematic review of quantitative study publish in past decade on CSA in India	ECT
+systematic review of quantitative study publish in past decade on CSA in India	mood
+systematic review of quantitative study publish in past decade on CSA in India	lithium
+clinical nurse specialist ' view of potential influence of mental health portal on nursing practice	complement
+clinical nurse specialist ' view of potential influence of mental health portal on nursing practice	hippocampal
+clinical nurse specialist ' view of potential influence of mental health portal on nursing practice	EDT
+clinical nurse specialist ' view of potential influence of mental health portal on nursing practice	stimulation
+clinical nurse specialist ' view of potential influence of mental health portal on nursing practice	psychotropics
+clinical nurse specialist ' view of potential influence of mental health portal on nursing practice	reported
+clinical nurse specialist ' view of potential influence of mental health portal on nursing practice	death
+clinical nurse specialist ' view of potential influence of mental health portal on nursing practice	mood
+clinical nurse specialist ' view of potential influence of mental health portal on nursing practice	lithium
+acute care patient	design
+acute care patient	mood
+nurse usability	Other
+people with neurosychiatric disorder	framework
+people with neurosychiatric disorder	hippocampal
+people with neurosychiatric disorder	fasting
+people with neurosychiatric disorder	reported
+people with neurosychiatric disorder	death
+observational	Other
+time of increase risk for intimate partner violence	design
+12 hiv-positive pregnant woman recruit from clinical setting in South Africa	complement
+12 hiv-positive pregnant woman recruit from clinical setting in South Africa	hippocampal
+12 hiv-positive pregnant woman recruit from clinical setting in South Africa	stimulation
+12 hiv-positive pregnant woman recruit from clinical setting in South Africa	psychotropics
+12 hiv-positive pregnant woman recruit from clinical setting in South Africa	reported
+12 hiv-positive pregnant woman recruit from clinical setting in South Africa	death
+12 hiv-positive pregnant woman recruit from clinical setting in South Africa	mood
+12 hiv-positive pregnant woman recruit from clinical setting in South Africa	lithium
+hiv shame	Other
+context of abusive relationship	components
+complexity of bhc	Other
+evidence on cost-effectiveness of intervention in treatment of chronic condition decade after publication of Roine et al. in 2009	biomarker
+evidence on cost-effectiveness of intervention in treatment of chronic condition decade after publication of Roine et al. in 2009	addiction
+evidence on cost-effectiveness of intervention in treatment of chronic condition decade after publication of Roine et al. in 2009	CYB5R3
+evidence on cost-effectiveness of intervention in treatment of chronic condition decade after publication of Roine et al. in 2009	electronic
+evidence on cost-effectiveness of intervention in treatment of chronic condition decade after publication of Roine et al. in 2009	first-onset
+evidence on cost-effectiveness of intervention in treatment of chronic condition decade after publication of Roine et al. in 2009	fear
+evidence on cost-effectiveness of intervention in treatment of chronic condition decade after publication of Roine et al. in 2009	framework
+evidence on cost-effectiveness of intervention in treatment of chronic condition decade after publication of Roine et al. in 2009	hippocampal
+evidence on cost-effectiveness of intervention in treatment of chronic condition decade after publication of Roine et al. in 2009	Demoralization
+evidence on cost-effectiveness of intervention in treatment of chronic condition decade after publication of Roine et al. in 2009	health-based
+evidence on cost-effectiveness of intervention in treatment of chronic condition decade after publication of Roine et al. in 2009	fasting
+evidence on cost-effectiveness of intervention in treatment of chronic condition decade after publication of Roine et al. in 2009	design
+evidence on cost-effectiveness of intervention in treatment of chronic condition decade after publication of Roine et al. in 2009	EDT
+evidence on cost-effectiveness of intervention in treatment of chronic condition decade after publication of Roine et al. in 2009	stimulation
+evidence on cost-effectiveness of intervention in treatment of chronic condition decade after publication of Roine et al. in 2009	psychotropics
+evidence on cost-effectiveness of intervention in treatment of chronic condition decade after publication of Roine et al. in 2009	reported
+evidence on cost-effectiveness of intervention in treatment of chronic condition decade after publication of Roine et al. in 2009	death
+evidence on cost-effectiveness of intervention in treatment of chronic condition decade after publication of Roine et al. in 2009	mood
+evidence on cost-effectiveness of intervention in treatment of chronic condition decade after publication of Roine et al. in 2009	lithium
+Alcohol Use disorder	hippocampal
+Alcohol Use disorder	reported
+Alcohol Use disorder	death
+furthermore relatively modest	Other
+clinical practice	complement
+clinical practice	hippocampal
+clinical practice	EDT
+clinical practice	stimulation
+clinical practice	psychotropics
+clinical practice	reported
+clinical practice	death
+clinical practice	mood
+in recent year have conduct	EDT
+U.S.	Other
+individual 's propensity for compulsive eating	EDT
+individual 's propensity for compulsive eating	stimulation
+individual 's propensity for compulsive eating	mood
+115 non-hispanic caucasian young adult university student	lithium
+predict	Other
+in addition relate to BMI	Other
+indirectly related to food addiction in part through ventral striatum activity	biomarker
+indirectly related to food addiction in part through ventral striatum activity	addiction
+indirectly related to food addiction in part through ventral striatum activity	first-onset
+indirectly related to food addiction in part through ventral striatum activity	complement
+indirectly related to food addiction in part through ventral striatum activity	fear
+indirectly related to food addiction in part through ventral striatum activity	framework
+indirectly related to food addiction in part through ventral striatum activity	hippocampal
+indirectly related to food addiction in part through ventral striatum activity	fasting
+indirectly related to food addiction in part through ventral striatum activity	design
+indirectly related to food addiction in part through ventral striatum activity	stimulation
+utility of food addiction in weight gain prevention research	addiction
+utility of food addiction in weight gain prevention research	fear
+utility of food addiction in weight gain prevention research	framework
+utility of food addiction in weight gain prevention research	components
+utility of food addiction in weight gain prevention research	fasting
+utility of food addiction in weight gain prevention research	design
+utility of food addiction in weight gain prevention research	stimulation
+outcome	Other
+age 14 of lifetime case present by age 24	hippocampal
+age 14 of lifetime case present by age 24	Demoralization
+age 14 of lifetime case present by age 24	design
+age 14 of lifetime case present by age 24	stimulation
+age 14 of lifetime case present by age 24	psychotropics
+age 14 of lifetime case present by age 24	reported
+age 14 of lifetime case present by age 24	death
+age 14 of lifetime case present by age 24	lithium
+financial burden associate with mental illness	psychotropics
+highly effective	hippocampal
+highly effective	Demoralization
+highly effective	EDT
+highly effective	stimulation
+highly effective	reported
+highly effective	mood
+most commonly prescribe atypical antipsychotic olanzapine	CYB5R3
+most commonly prescribe atypical antipsychotic olanzapine	complement
+drug-naive schizophrenic patient with normal mif expression	CYB5R3
+drug-naive schizophrenic patient with normal mif expression	apomorphine
+drug-naive schizophrenic patient with normal mif expression	design
+activation of appetite-related amp-activated protein kinase	first-onset
+activation of appetite-related amp-activated protein kinase	apomorphine
+activation of appetite-related amp-activated protein kinase	hippocampal
+activation of appetite-related amp-activated protein kinase	lithium
+mif expression	Other
+associate	Other
+role of increase hypothalamic mif expression in metabolic dysfunction	design
+role of increase hypothalamic mif expression in metabolic dysfunction	lithium
+potential pharmacogenomic value of MIF genotype determination	electronic
+potential pharmacogenomic value of MIF genotype determination	first-onset
+potential pharmacogenomic value of MIF genotype determination	apomorphine
+potential pharmacogenomic value of MIF genotype determination	components
+potential pharmacogenomic value of MIF genotype determination	hippocampal
+potential pharmacogenomic value of MIF genotype determination	stimulation
+potential pharmacogenomic value of MIF genotype determination	psychotropics
+potential pharmacogenomic value of MIF genotype determination	reported
+potential pharmacogenomic value of MIF genotype determination	death
+potential pharmacogenomic value of MIF genotype determination	mood
+potential pharmacogenomic value of MIF genotype determination	lithium
+innovative tool deal with mental disorder	hippocampal
+innovative tool deal with mental disorder	reported
+innovative tool deal with mental disorder	death
+health care	death
+health care	mood
+health care	lithium
+design for health-based electronic game model	addiction
+design for health-based electronic game model	CYB5R3
+design for health-based electronic game model	electronic
+design for health-based electronic game model	fear
+design for health-based electronic game model	apomorphine
+design for health-based electronic game model	framework
+design for health-based electronic game model	components
+design for health-based electronic game model	health-based
+design for health-based electronic game model	fasting
+design for health-based electronic game model	design
+design for health-based electronic game model	death
+design for health-based electronic game model	mood
+design for health-based electronic game model	lithium
+design	components
+design	health-based
+design	design
+model of behavior change	addiction
+model of behavior change	CYB5R3
+model of behavior change	electronic
+model of behavior change	fear
+model of behavior change	apomorphine
+model of behavior change	framework
+model of behavior change	fasting
+model of behavior change	design
+model of behavior change	stimulation
+model of behavior change	mood
+present	psychotropics
+in second phase develop in field of diabetes	complement
+in second phase develop in field of diabetes	lithium
+people	framework
+people	fasting
+highest rating from perspective of subject	stimulation
+change behavior	addiction
+change behavior	fear
+change behavior	framework
+change behavior	fasting
+change behavior	design
+change behavior	stimulation
+change behavior	mood
+diabetes with educational content	lithium
+could apply	Other
+child	CYB5R3
+general paediatric	Other
+common	Other
+context of psychologically base therapy	Other
+major public health issue	addiction
+major public health issue	fear
+major public health issue	framework
+major public health issue	health-based
+major public health issue	fasting
+major public health issue	design
+major public health issue	death
+major public health issue	mood
+major public health issue	lithium
+antenatal period	Other
+common transdiagnostic symptom associate with wide range of developmental health problem	biomarker
+common transdiagnostic symptom associate with wide range of developmental health problem	complement
+common transdiagnostic symptom associate with wide range of developmental health problem	hippocampal
+common transdiagnostic symptom associate with wide range of developmental health problem	EDT
+common transdiagnostic symptom associate with wide range of developmental health problem	stimulation
+common transdiagnostic symptom associate with wide range of developmental health problem	reported
+common transdiagnostic symptom associate with wide range of developmental health problem	death
+common transdiagnostic symptom associate with wide range of developmental health problem	mood
+common transdiagnostic symptom associate with wide range of developmental health problem	lithium
+severity	CYB5R3
+adult	lithium
+utero exposure to tobacco	Other
+reason for aggressive behaviour	complement
+reason for aggressive behaviour	Demoralization
+underlying developmental health problem	biomarker
+underlying developmental health problem	complement
+underlying developmental health problem	EDT
+underlying developmental health problem	ECT
+underlying developmental health problem	death
+underlying developmental health problem	mood
+underlying developmental health problem	lithium
+trial for many neurological disorder	hippocampal
+trial for many neurological disorder	reported
+trial for many neurological disorder	death
+barrier to its use in neurological practice	first-onset
+barrier to its use in neurological practice	hippocampal
+barrier to its use in neurological practice	EDT
+barrier to its use in neurological practice	psychotropics
+barrier to its use in neurological practice	reported
+barrier to its use in neurological practice	death
+barrier to its use in neurological practice	mood
+efficacy of action of nac in rodent model of hemorrhagic stroke	CYB5R3
+efficacy of action of nac in rodent model of hemorrhagic stroke	electronic
+efficacy of action of nac in rodent model of hemorrhagic stroke	complement
+efficacy of action of nac in rodent model of hemorrhagic stroke	apomorphine
+efficacy of action of nac in rodent model of hemorrhagic stroke	hippocampal
+efficacy of action of nac in rodent model of hemorrhagic stroke	death
+efficacy of action of nac in rodent model of hemorrhagic stroke	mood
+world	Other
+depressive disorder	hippocampal
+depressive disorder	reported
+depressive disorder	death
+interface with alter activity within human brain for therapeutic purpose	biomarker
+interface with alter activity within human brain for therapeutic purpose	CYB5R3
+interface with alter activity within human brain for therapeutic purpose	framework
+interface with alter activity within human brain for therapeutic purpose	components
+interface with alter activity within human brain for therapeutic purpose	hippocampal
+interface with alter activity within human brain for therapeutic purpose	ECT
+essential for modern psychiatrist	Other
+United States Food	Other
+promise	Other
+quarter of population	lithium

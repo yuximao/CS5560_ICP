@@ -1,0 +1,9 @@
+psychiatric disorders	Disease
+stroke	Disease
+patients	Species
+neuropsychiatric disorders	Disease
+neuropsychiatric disorders	Disease
+depressive disorder	Disease
+schizophrenia	Disease
+anxiety	Disease
+autism	Disease

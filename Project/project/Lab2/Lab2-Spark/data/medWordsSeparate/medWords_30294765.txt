@@ -1,0 +1,8 @@
+Depression	Disease
+patients	Species
+depressive disorders	Disease
+patients	Species
+human	Species
+patients	Species
+depressive disorder	Disease
+seizure	Disease

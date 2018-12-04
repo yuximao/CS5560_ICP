@@ -1,0 +1,24 @@
+Children	Species
+Children	Species
+autism spectrum disorder	Disease
+ASD	Disease
+children	Species
+ASD	Disease
+melatonin	Chemical
+attention-deficit/hyperactivity disorder	Disease
+ADHD	Disease
+children	Species
+ADHD	Disease
+melatonin	Chemical
+Methylphenidate	Chemical
+sertraline	Chemical
+risperidone	Chemical
+children	Species
+psychiatric	Disease
+children	Species
+children	Species
+ASD	Disease
+ADHD	Disease
+melatonin	Chemical
+children	Species
+ASD	Disease

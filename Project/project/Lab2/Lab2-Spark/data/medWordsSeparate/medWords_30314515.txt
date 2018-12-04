@@ -1,0 +1,36 @@
+neurogenic deficits	Disease
+HIV-1	Species
+transgenic mice	Species
+HIV-1-infected	Disease
+patients	Species
+HIV-1-associated neurocognitive disorders	Disease
+HAND	Disease
+gp120	Gene
+HIV-1	Species
+mouse	Species
+HIV-1-infected	Disease
+patients	Species
+HIV-1	Species
+transgenic mice	Species
+littermates	Species
+retroviral	Species
+dendritic complexity	Disease
+p17	Gene
+env	Gene
+gp120	Gene
+mice	Species
+mouse	Species
+mouse	Species
+mouse	Species
+mice	Species
+newborn	Species
+mice	Species
+deficiencies in dendritic arborization	Disease
+dendritic length	Disease
+HIV-1	Species
+mice	Species
+neurogenesis deficits	Disease
+HAND	Disease
+HAND	Disease
+HIV-1-infected	Disease
+patients	Species

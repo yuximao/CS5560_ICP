@@ -1,0 +1,9 @@
+depression	Disease
+anxiety disorders	Disease
+psychopathological condition	Disease
+obstetric and neonatal complications	Disease
+child	Species
+depression	Disease
+depressive disorders	Disease
+women	Species
+affective disorders	Disease

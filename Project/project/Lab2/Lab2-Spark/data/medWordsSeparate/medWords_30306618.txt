@@ -1,0 +1,14 @@
+Parkinson's disease	Disease
+PD	Disease
+PD	Disease
+PD	Disease
+participants	Species
+dementia	Disease
+dementia	Disease
+Mattis Dementia	Disease
+l-dopa	Chemical
+dementia	Disease
+PD	Disease
+participants	Species
+cognitive impairment	Disease
+PD	Disease

@@ -1,0 +1,26 @@
+DSM-5	Species
+Alcohol	Chemical
+alcohol use disorder	Disease
+AUD	Disease
+alcohol	Chemical
+deaths	Disease
+AUD	Disease
+Mental Disorders	Disease
+DSM-5	Species
+AUD	Disease
+alcohol	Chemical
+Participants	Species
+Mental Disorders	Disease
+SCID	Disease
+DSM-5	Species
+AUD	Disease
+CFA	Species
+AUD	Disease
+AUD	Disease
+CFA	Species
+withdrawal," "social/interpersonal problems	Disease
+AUD	Disease
+DSM-5	Species
+AUD	Disease
+DSM-5	Species
+AUD	Disease

@@ -1,0 +1,18 @@
+HIV	Disease
+Women	Species
+intimate partner violence	Disease
+IPV	Disease
+HIV	Disease
+IPV	Disease
+HIV	Disease
+women	Species
+IPV	Disease
+HIV	Disease
+IPV	Disease
+HIV	Disease
+HIV	Disease
+HIV	Disease
+women	Species
+IPV	Disease
+HIV	Disease
+HIV	Disease

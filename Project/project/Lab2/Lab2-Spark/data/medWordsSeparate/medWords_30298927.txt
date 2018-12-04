@@ -1,0 +1,8 @@
+people	Species
+neuropsychiatric disorders	Disease
+people	Species
+neurosychiatric disorders	Disease
+psychiatric	Disease
+patient	Species
+patients	Species
+patients	Species

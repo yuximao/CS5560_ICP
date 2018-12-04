@@ -1,0 +1,10 @@
+psychosis	Disease
+psychiatric	Disease
+patients	Species
+psychosis	Disease
+patient	Species
+psychosis	Disease
+patients	Species
+patient	Species
+males	Species
+cannabis	Chemical

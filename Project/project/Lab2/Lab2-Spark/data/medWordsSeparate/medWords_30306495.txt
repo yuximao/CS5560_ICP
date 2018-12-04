@@ -1,0 +1,55 @@
+BD1047	Chemical
+HIV	Species
+Cocaine	Chemical
+HIV-associated neurocognitive disorders	Disease
+HAND	Disease
+neurotoxic	Disease
+CATB	Gene
+cysteine	Chemical
+neuronal apoptosis	Disease
+HIV-1	Species
+patients	Species
+AIDS	Disease
+Cocaine	Chemical
+CATB	Gene
+neurotoxicity	Disease
+Sig1R	Gene
+cocaine	Chemical
+Sig1R	Gene
+CATB	Gene
+HIV-1	Species
+cocaine	Chemical
+Sig1R	Gene
+CATB	Gene
+HIV-1	Species
+monocyte derived-macrophages	Disease
+MDM	Disease
+HIV-1	Species
+donors	Species
+HIV-1	Species
+Sig1R	Gene
+BD1047	Chemical
+Sig1R	Gene
+PRE-084	Chemical
+cocaine	Chemical
+HIV encephalitis mouse model	Disease
+HIVE	Disease
+BD1047	Chemical
+cocaine	Chemical
+cocaine	Chemical
+BD1047	Chemical
+CATB	Gene
+PRE-084	Chemical
+mouse	Species
+BD1047	Chemical
+cocaine	Chemical
+CATB	Gene
+p24	Gene
+astrocytosis	Disease
+MAP-2	Gene
+synaptophysin	Gene
+Sig1R	Gene
+CATB	Gene
+HIV-1	Species
+MDM	Disease
+cocaine	Chemical

@@ -1,0 +1,26 @@
+Veterans Health Administration	Disease
+Veterans Health Administration	Disease
+VA	Disease
+VA	Disease
+VA	Disease
+VA	Disease
+VA	Disease
+serious mental illness	Disease
+SMI	Disease
+substance use disorder	Disease
+SUD	Disease
+posttraumatic stress disorder	Disease
+PTSD	Disease
+depression	Disease
+VA	Disease
+VA	Disease
+VA	Disease
+VA	Disease
+SMI	Disease
+IRR	Gene
+PTSD	Disease
+IRR	Gene
+depression	Disease
+IRR	Gene
+VA	Disease
+VA	Disease

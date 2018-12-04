@@ -1,0 +1,7 @@
+Patient	Species
+patients	Species
+coaching	Disease
+patient	Species
+patients	Species
+patient	Species
+patient	Species

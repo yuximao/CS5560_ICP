@@ -1,0 +1,56 @@
+patients	Species
+patients	Species
+anxiety	Disease
+depression	Disease
+post-traumatic stress disorder	Disease
+PTSD	Disease
+patients	Species
+patients	Species
+participants	Species
+participants	Species
+patients	Species
+patients	Species
+patient	Species
+participants	Species
+participants	Species
+patients	Species
+patients	Species
+participants	Species
+patient	Species
+anxiety	Disease
+participants	Species
+anxiety	Disease
+MD -1	Chemical
+patient	Species
+depression	Disease
+patient	Species
+participants	Species
+depression	Disease
+MD -1	Chemical
+patient	Species
+anxiety	Disease
+depression	Disease
+MD -1	Chemical
+patient	Species
+participants	Species
+PTSD	Disease
+patient	Species
+participants	Species
+patient	Species
+anxiety	Disease
+patient	Species
+depression	Disease
+MD -1	Chemical
+MD -1	Chemical
+patient	Species
+anxiety	Disease
+depression	Disease
+participants	Species
+participants	Species
+participants	Species
+participant	Species
+anxiety	Disease
+depression	Disease
+participant	Species
+PTSD	Disease
+patients	Species

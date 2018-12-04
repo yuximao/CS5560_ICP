@@ -1,0 +1,806 @@
+general practitioner	Other
+cornerstone	Other
+preliminary result	Other
+New digital technology	Other
+access	first-onset
+cognitive-behavioural therapy	complement
+cognitive-behavioural therapy	hippocampal
+cognitive-behavioural therapy	Demoralization
+cognitive-behavioural therapy	ECT
+cognitive-behavioural therapy	reported
+significant room	complement
+isolate disease	lithium
+syndrome	Other
+apomorphine	apomorphine
+its use	first-onset
+its use	hippocampal
+its use	EDT
+its use	psychotropics
+its use	reported
+its use	death
+its use	mood
+dopaminergic agonist	Demoralization
+apomorphine	apomorphine
+connection	Other
+structure	Other
+we	Other
+progressive neuropathic change	addiction
+progressive neuropathic change	fear
+progressive neuropathic change	framework
+progressive neuropathic change	fasting
+progressive neuropathic change	design
+benefit	biomarker
+experience	Other
+study	electronic
+physical activity	biomarker
+physical activity	hippocampal
+Accredited Exercise Physiologists	Other
+early intervention	electronic
+General practitioner	Other
+patient	design
+psychiatric outpatient clinic	design
+psychiatric outpatient clinic	stimulation
+this	Other
+long-term health-related quality	first-onset
+long-term health-related quality	hippocampal
+long-term health-related quality	death
+long-term health-related quality	mood
+long-term health-related quality	lithium
+anorexia nervosa	Other
+long-term prognosis	Other
+family	Other
+therapy	Other
+objective	Other
+talk therapy	Other
+treatment utilization	first-onset
+treatment utilization	hippocampal
+treatment utilization	stimulation
+treatment utilization	psychotropics
+treatment utilization	reported
+treatment utilization	death
+treatment utilization	mood
+therapy	Other
+we	Other
+depression patient	complement
+depression patient	design
+resting-state functional magnetic resonance imaging	addiction
+resting-state functional magnetic resonance imaging	fear
+resting-state functional magnetic resonance imaging	health-based
+resting-state functional magnetic resonance imaging	fasting
+resting-state functional magnetic resonance imaging	design
+resting-state functional magnetic resonance imaging	lithium
+functional connectivity strength	Other
+fcs	Other
+change fcs	addiction
+change fcs	fear
+change fcs	framework
+change fcs	fasting
+change fcs	design
+ECT	CYB5R3
+ECT	apomorphine
+ECT	ECT
+anxiety disorder	hippocampal
+anxiety disorder	psychotropics
+anxiety disorder	reported
+anxiety disorder	death
+anxiety disorder	lithium
+they	Other
+deveau	Other
+author	Other
+they	Other
+implication	Other
+future research	apomorphine
+positive aspect use	first-onset
+positive aspect use	hippocampal
+positive aspect use	EDT
+positive aspect use	psychotropics
+positive aspect use	reported
+positive aspect use	death
+positive aspect use	mood
+most college student	first-onset
+most college student	EDT
+most college student	mood
+it	Other
+lithium	biomarker
+lithium	lithium
+lithium	biomarker
+lithium	lithium
+we	Other
+we	Other
+finding	Other
+lithium	biomarker
+lithium	lithium
+validation	Other
+we	Other
+first evidence	biomarker
+first evidence	addiction
+first evidence	fear
+first evidence	framework
+first evidence	fasting
+first evidence	design
+brief Services psychotherapy paradigm	Other
+its clinical evaluation	complement
+its clinical evaluation	hippocampal
+its clinical evaluation	stimulation
+its clinical evaluation	psychotropics
+its clinical evaluation	reported
+its clinical evaluation	death
+its clinical evaluation	mood
+individual	Other
+quality	death
+nih-funded randomize clinical trial	complement
+nih-funded randomize clinical trial	hippocampal
+nih-funded randomize clinical trial	stimulation
+nih-funded randomize clinical trial	psychotropics
+nih-funded randomize clinical trial	reported
+nih-funded randomize clinical trial	death
+nih-funded randomize clinical trial	mood
+dysregulation	Other
+alteration	Other
+we	Other
+we	Other
+Study quality	death
+twenty-five study	electronic
+biomarker assessment methodology	biomarker
+biomarker assessment methodology	apomorphine
+biomarker assessment methodology	health-based
+biomarker assessment methodology	lithium
+meta-analytical computation	lithium
+Study characteristic	Other
+biomarker confounder consideration rating	biomarker
+we	Other
+literature	lithium
+improving communication	Other
+communication	Other
+second-level intervention	Other
+disorder	hippocampal
+disorder	reported
+disorder	death
+assist outpatient treatment	first-onset
+assist outpatient treatment	hippocampal
+assist outpatient treatment	design
+assist outpatient treatment	stimulation
+assist outpatient treatment	psychotropics
+assist outpatient treatment	reported
+assist outpatient treatment	death
+assist outpatient treatment	mood
+goal	Other
+Parkinson 's disease	lithium
+molecular imaging	CYB5R3
+molecular imaging	ECT
+chapter	Other
+we	Other
+hiv-1-infected patient	design
+suicide rate	Other
+study	electronic
+datum	Other
+patient	design
+severity indicator	CYB5R3
+related symptom	first-onset
+related symptom	hippocampal
+difficulty	Other
+mental health treatment	first-onset
+mental health treatment	hippocampal
+mental health treatment	stimulation
+mental health treatment	psychotropics
+mental health treatment	reported
+mental health treatment	death
+mental health treatment	mood
+mental health treatment	lithium
+eating-disorder psychopathology	CYB5R3
+eating-disorder psychopathology	hippocampal
+eating-disorder psychopathology	EDT
+eating-disorder psychopathology	stimulation
+eating-disorder psychopathology	reported
+eating-disorder psychopathology	death
+eating-disorder psychopathology	mood
+athlete	lithium
+individual	Other
+most ed assessment	apomorphine
+most ed assessment	health-based
+purpose	Other
+avoidant/restrictive food intake disorder	hippocampal
+avoidant/restrictive food intake disorder	stimulation
+avoidant/restrictive food intake disorder	reported
+avoidant/restrictive food intake disorder	death
+severity	CYB5R3
+we	Other
+use	first-onset
+use	hippocampal
+use	EDT
+use	psychotropics
+use	reported
+use	death
+use	mood
+purpose	Other
+damaging outcome	Other
+we study	electronic
+extensive research	Other
+neuroimaging	Other
+reduction	Other
+hiv protein	Other
+complement	complement
+complement	apomorphine
+c1qa knockout mouse	first-onset
+c1qa knockout mouse	hippocampal
+c1qa knockout mouse	EDT
+c1qa knockout mouse	psychotropics
+c1qa knockout mouse	reported
+c1qa knockout mouse	death
+c1qa knockout mouse	mood
+subcallosal cingulate	Other
+New development	biomarker
+New development	complement
+we	Other
+activation	apomorphine
+regressor	Other
+left cb	Other
+recovery process	Other
+sex difference	Other
+preclinical study	electronic
+preclinical study	complement
+preclinical study	hippocampal
+preclinical study	stimulation
+preclinical study	psychotropics
+preclinical study	reported
+preclinical study	death
+preclinical study	mood
+depression	complement
+rat	Other
+treatment effect	first-onset
+treatment effect	hippocampal
+treatment effect	stimulation
+treatment effect	psychotropics
+treatment effect	reported
+treatment effect	death
+treatment effect	mood
+chronic 17β-estradiol treatment	first-onset
+chronic 17β-estradiol treatment	hippocampal
+chronic 17β-estradiol treatment	stimulation
+chronic 17β-estradiol treatment	psychotropics
+chronic 17β-estradiol treatment	reported
+chronic 17β-estradiol treatment	death
+chronic 17β-estradiol treatment	mood
+article	Other
+few study	electronic
+purpose	Other
+treatment outcome	first-onset
+treatment outcome	hippocampal
+treatment outcome	stimulation
+treatment outcome	psychotropics
+treatment outcome	reported
+treatment outcome	death
+treatment outcome	mood
+mood disorder	components
+mood disorder	hippocampal
+mood disorder	reported
+mood disorder	death
+mood disorder	mood
+major depressive disorder	hippocampal
+major depressive disorder	reported
+major depressive disorder	death
+exist pharmacological treatment	first-onset
+exist pharmacological treatment	hippocampal
+exist pharmacological treatment	stimulation
+exist pharmacological treatment	psychotropics
+exist pharmacological treatment	reported
+exist pharmacological treatment	death
+exist pharmacological treatment	mood
+cognitive function	complement
+cognitive function	hippocampal
+cognitive function	ECT
+cognitive function	reported
+neural basis	psychotropics
+molecular mechanism	CYB5R3
+molecular mechanism	complement
+molecular mechanism	stimulation
+molecular mechanism	ECT
+aim	Other
+we	Other
+cognitive deficit	complement
+cognitive deficit	hippocampal
+cognitive deficit	ECT
+cognitive deficit	reported
+develop area	Other
+proportion	Other
+sporadic creutzfeldt-jakob disease	lithium
+it	Other
+key event	EDT
+pq912	Other
+we	Other
+aim	Other
+exploratory efficacy readout	complement
+therapeutic approach	ECT
+antipsychotic monotherapy	complement
+antipsychotic polypharmacy	complement
+membrane-bound nadh-dependent redox enzyme	Other
+incurable disease	lithium
+cholesterol biosynthesis	Other
+cyb5r3 deficiency	Other
+its role	Other
+its role	Other
+type ii rhm	electronic
+type ii rhm	apomorphine
+type ii rhm	components
+neurological symptom	Other
+homelessness	CYB5R3
+child	CYB5R3
+we	Other
+use	first-onset
+use	hippocampal
+use	EDT
+use	psychotropics
+use	reported
+use	death
+use	mood
+Methylphenidate	lithium
+%	Other
+use	first-onset
+use	hippocampal
+use	EDT
+use	psychotropics
+use	reported
+use	death
+use	mood
+use	first-onset
+use	hippocampal
+use	EDT
+use	psychotropics
+use	reported
+use	death
+use	mood
+psychotropic drug use	first-onset
+psychotropic drug use	hippocampal
+psychotropic drug use	EDT
+psychotropic drug use	psychotropics
+psychotropic drug use	reported
+psychotropic drug use	death
+psychotropic drug use	mood
+use	first-onset
+use	hippocampal
+use	EDT
+use	psychotropics
+use	reported
+use	death
+use	mood
+psychotropic drug use	first-onset
+psychotropic drug use	hippocampal
+psychotropic drug use	EDT
+psychotropic drug use	psychotropics
+psychotropic drug use	reported
+psychotropic drug use	death
+psychotropic drug use	mood
+purpose	Other
+death anxiety	components
+death anxiety	psychotropics
+death anxiety	reported
+death anxiety	death
+death anxiety	lithium
+research	Other
+psychosocial treatment	first-onset
+psychosocial treatment	hippocampal
+psychosocial treatment	stimulation
+psychosocial treatment	psychotropics
+psychosocial treatment	reported
+psychosocial treatment	death
+psychosocial treatment	mood
+therapy type	electronic
+therapy type	apomorphine
+therapy type	components
+clinical sample	addiction
+clinical sample	complement
+clinical sample	fear
+clinical sample	framework
+clinical sample	hippocampal
+clinical sample	fasting
+clinical sample	design
+clinical sample	stimulation
+clinical sample	psychotropics
+clinical sample	reported
+clinical sample	death
+clinical sample	mood
+grow trend	Other
+sub-theme	Other
+online community	Other
+Collaborative	Other
+demoralization	Other
+demoralization	Other
+measure	Other
+we	Other
+we result	Other
+presence	Other
+cognitive deficit	complement
+cognitive deficit	hippocampal
+cognitive deficit	ECT
+cognitive deficit	reported
+important role	Other
+research	Other
+functional ability	Other
+functional disability	Other
+performance-based functional assessment	CYB5R3
+performance-based functional assessment	apomorphine
+performance-based functional assessment	health-based
+pathogenesis	Other
+cocaine	Other
+modulation	Other
+catb secretion	lithium
+pharmacological modulation	Other
+hiv-1 seronegative donor	Other
+aged patient	hippocampal
+aged patient	design
+aged patient	stimulation
+aged patient	psychotropics
+aged patient	reported
+aged patient	death
+systematic study	electronic
+systematic study	lithium
+review	Other
+gray matter volume	Other
+hearing-impairment	Other
+association	Other
+previous research	Other
+high intensity	stimulation
+we	Other
+clinical high-risk state	complement
+clinical high-risk state	fear
+clinical high-risk state	hippocampal
+clinical high-risk state	fasting
+clinical high-risk state	design
+clinical high-risk state	stimulation
+clinical high-risk state	psychotropics
+clinical high-risk state	reported
+clinical high-risk state	death
+clinical high-risk state	mood
+patient	design
+diversity	Other
+bipolar disorder	hippocampal
+bipolar disorder	reported
+bipolar disorder	death
+case-control study	electronic
+Citrus species	Other
+treatment	first-onset
+treatment	hippocampal
+treatment	stimulation
+treatment	psychotropics
+treatment	reported
+treatment	death
+treatment	mood
+antihyperalgesia	Other
+treatment	first-onset
+treatment	hippocampal
+treatment	stimulation
+treatment	psychotropics
+treatment	reported
+treatment	death
+treatment	mood
+level	Other
+result	Other
+purpose	Other
+interest	Other
+use	first-onset
+use	hippocampal
+use	EDT
+use	psychotropics
+use	reported
+use	death
+use	mood
+depression	complement
+study	electronic
+antepartum depression	complement
+aim	Other
+update information	components
+aim	Other
+variation	Other
+homeless population	CYB5R3
+homeless population	lithium
+project	Other
+we	Other
+Charlson Comorbidity Index	mood
+183 homeless patient	CYB5R3
+183 homeless patient	design
+32.2 %	Other
+cci	Other
+female	Other
+mental health disorder	hippocampal
+mental health disorder	reported
+mental health disorder	death
+mental health disorder	mood
+mental health disorder	lithium
+homeless woman	CYB5R3
+rate	Other
+study	electronic
+other chronic psychiatric disorder	hippocampal
+other chronic psychiatric disorder	stimulation
+other chronic psychiatric disorder	reported
+other chronic psychiatric disorder	death
+other chronic psychiatric disorder	mood
+age	hippocampal
+age	stimulation
+age	psychotropics
+age	reported
+age	death
+epigenetic mechanism	CYB5R3
+epigenetic mechanism	complement
+epigenetic mechanism	stimulation
+epigenetic mechanism	lithium
+they	Other
+current state	fear
+current state	apomorphine
+current state	fasting
+current state	design
+epigenetic alteration	lithium
+epigenetic mechanism	CYB5R3
+epigenetic mechanism	complement
+epigenetic mechanism	stimulation
+epigenetic mechanism	lithium
+line	Other
+Age	Other
+relation	components
+antipsychotic-naïve schizophrenia patient	complement
+antipsychotic-naïve schizophrenia patient	design
+antipsychotic-naïve schizophrenia patient	ECT
+we	Other
+we	Other
+study	electronic
+non-adherence	Other
+patient	design
+fear	addiction
+fear	fear
+fear	framework
+fear	health-based
+fear	fasting
+fear	design
+caloric	Other
+present study	electronic
+present study	psychotropics
+twenty-five	Other
+change	addiction
+change	fear
+change	framework
+change	fasting
+change	design
+one-night fasting	addiction
+one-night fasting	fear
+one-night fasting	framework
+one-night fasting	health-based
+one-night fasting	fasting
+procedure	Other
+plasma ghrelin level	Other
+fasting	addiction
+fasting	fear
+fasting	framework
+fasting	health-based
+fasting	fasting
+novel procedure	Other
+evidence	biomarker
+we	Other
+many research question	Other
+large datum set	lithium
+care-seeking	mood
+recent advance	EDT
+innovation	Other
+Schizophrenia	Other
+it	Other
+barrier	Other
+little	Other
+scop review	Other
+issue	Other
+review	Other
+it	Other
+aim	Other
+significant between-group difference	complement
+significant between-group difference	lithium
+scientific knowledge	electronic
+frontier	Other
+we	Other
+live space	Other
+psychopathological symptom	Other
+far-reaching relevance	Other
+article	Other
+main characteristic	Other
+common mental health problem	death
+common mental health problem	mood
+common mental health problem	lithium
+cmhp	Other
+intervention	Other
+meta-analysis	lithium
+meta-analytic procedure	lithium
+we	Other
+other intervention	Other
+Epilepsy	Other
+management	hippocampal
+management	EDT
+management	stimulation
+management	psychotropics
+management	reported
+management	death
+Child Sexual abuse	first-onset
+Child Sexual abuse	hippocampal
+Child Sexual abuse	EDT
+Child Sexual abuse	psychotropics
+Child Sexual abuse	reported
+Child Sexual abuse	death
+Child Sexual abuse	mood
+we	Other
+purpose	Other
+alcohol withdrawal	electronic
+alcohol withdrawal	stimulation
+content validity	Other
+Assessment	Other
+Tool	addiction
+Tool	fear
+Tool	framework
+Tool	fasting
+pregnancy	Other
+n	Other
+Partner dynamics	Other
+result	Other
+va reliance	Other
+aim	Other
+limited number	EDT
+magnitude	Other
+use	first-onset
+use	hippocampal
+use	EDT
+use	psychotropics
+use	reported
+use	death
+use	mood
+animal study	electronic
+prevalence rate	Other
+Food addiction	addiction
+Food addiction	fear
+Food addiction	framework
+Food addiction	fasting
+Food addiction	design
+polygenic score	Other
+polygenic dopamine score	Demoralization
+food addiction	addiction
+food addiction	fear
+food addiction	framework
+food addiction	fasting
+food addiction	design
+food addiction	stimulation
+polygenic score	Other
+evidence	biomarker
+untreated mental disorder	hippocampal
+untreated mental disorder	reported
+untreated mental disorder	death
+half	Other
+early intervention	electronic
+atypical antipsychotic	CYB5R3
+atypical antipsychotic	complement
+treatment	first-onset
+treatment	hippocampal
+treatment	stimulation
+treatment	psychotropics
+treatment	reported
+treatment	death
+treatment	mood
+circulate insulin	Other
+hypothalamic mif expression	Other
+Olanzapine	Other
+increase plasma lipid concentration	CYB5R3
+mouse	first-onset
+mouse	hippocampal
+mouse	EDT
+mouse	psychotropics
+mouse	reported
+mouse	death
+mouse	mood
+finding	Other
+health-based electronic game	addiction
+health-based electronic game	CYB5R3
+health-based electronic game	electronic
+health-based electronic game	fear
+health-based electronic game	framework
+health-based electronic game	components
+health-based electronic game	health-based
+health-based electronic game	fasting
+health-based electronic game	design
+health-based electronic game	death
+health-based electronic game	mood
+health-based electronic game	lithium
+design game	addiction
+design game	fear
+design game	framework
+design game	components
+design game	health-based
+design game	fasting
+design game	design
+aim	Other
+health-based electronic game framework	addiction
+health-based electronic game framework	CYB5R3
+health-based electronic game framework	electronic
+health-based electronic game framework	fear
+health-based electronic game framework	framework
+health-based electronic game framework	components
+health-based electronic game framework	health-based
+health-based electronic game framework	fasting
+health-based electronic game framework	design
+health-based electronic game framework	death
+health-based electronic game framework	mood
+health-based electronic game framework	lithium
+determination	lithium
+game framework design	addiction
+game framework design	fear
+game framework design	framework
+game framework design	components
+game framework design	health-based
+game framework design	fasting
+game framework design	design
+sample	addiction
+sample	fear
+sample	framework
+sample	fasting
+sample	design
+important component	Other
+axis	Other
+application area	Other
+sweet care game	addiction
+sweet care game	fear
+sweet care game	framework
+sweet care game	health-based
+sweet care game	fasting
+sweet care game	design
+sweet care game	mood
+sweet care game	lithium
+health-based electronic game	addiction
+health-based electronic game	CYB5R3
+health-based electronic game	electronic
+health-based electronic game	fear
+health-based electronic game	framework
+health-based electronic game	components
+health-based electronic game	health-based
+health-based electronic game	fasting
+health-based electronic game	design
+health-based electronic game	death
+health-based electronic game	mood
+health-based electronic game	lithium
+anxiety-related disorder	first-onset
+anxiety-related disorder	hippocampal
+anxiety-related disorder	psychotropics
+anxiety-related disorder	reported
+anxiety-related disorder	death
+anxiety-related disorder	lithium
+they	Other
+Comprehensive assessment	apomorphine
+Comprehensive assessment	health-based
+medication	Other
+anxiety-related disorder	first-onset
+anxiety-related disorder	hippocampal
+anxiety-related disorder	psychotropics
+anxiety-related disorder	reported
+anxiety-related disorder	death
+anxiety-related disorder	lithium
+Prevention programme	Other
+Aggression	Other
+without	ECT
+aggressive child	CYB5R3
+education	Other
+aggressive child	CYB5R3
+pharmacotherapy	Other
+approve thiol-containing redox modulatory compound	Other
+its site	Other
+we	Other
+disabling condition	Other
+patient	design
+field	complement
+appropriate clinical application	complement
+appropriate clinical application	hippocampal
+appropriate clinical application	stimulation
+appropriate clinical application	psychotropics
+appropriate clinical application	reported
+appropriate clinical application	death
+appropriate clinical application	mood
+such treatment	first-onset
+such treatment	hippocampal
+such treatment	stimulation
+such treatment	psychotropics
+such treatment	reported
+such treatment	death
+such treatment	mood
+numerous other neurostimulation modality	stimulation
+common mental health problem	death
+common mental health problem	mood
+common mental health problem	lithium

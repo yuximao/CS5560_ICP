@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5bbc7bf7-32e7-458a-ae4e-e5826af6fba1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Lab2-Spark/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2-Spark/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/.idea/modules/OntContructor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/.idea/modules/OntContructor.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/.idea/modules/ontcontructor-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/.idea/modules/ontcontructor-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/config-classes/$0612a9f6e4bae8f7591f$$anonfun$$sbtdef$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/config-classes/$0612a9f6e4bae8f7591f$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/config-classes/$0612a9f6e4bae8f7591f$$anonfun$$sbtdef$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/config-classes/$0612a9f6e4bae8f7591f$$anonfun$$sbtdef$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/config-classes/$0612a9f6e4bae8f7591f$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/config-classes/$0612a9f6e4bae8f7591f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/config-classes/$3bd6f57ac89b0e861a58$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/config-classes/$3bd6f57ac89b0e861a58$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/config-classes/$3bd6f57ac89b0e861a58.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/config-classes/$b8a93a6af74797bd517f$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/config-classes/$b8a93a6af74797bd517f$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/config-classes/$b8a93a6af74797bd517f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/config-classes/$e433be975a54cafea83b$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/config-classes/$e433be975a54cafea83b$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/config-classes/$e433be975a54cafea83b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/config-classes/$e935052cebf5cebcb1be$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/config-classes/$e935052cebf5cebcb1be$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/config-classes/$e935052cebf5cebcb1be.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/resolution-cache/default/ontcontructor-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/project/target/resolution-cache/default/ontcontructor-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/resolution-cache/default/ontcontructor-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/project/target/resolution-cache/default/ontcontructor-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/resolution-cache/reports/default-ontcontructor-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/project/target/resolution-cache/reports/default-ontcontructor-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/resolution-cache/reports/default-ontcontructor-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/project/target/resolution-cache/reports/default-ontcontructor-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/resolution-cache/reports/default-ontcontructor-build-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/project/target/resolution-cache/reports/default-ontcontructor-build-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/resolution-cache/reports/default-ontcontructor-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/project/target/resolution-cache/reports/default-ontcontructor-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/resolution-cache/reports/default-ontcontructor-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/project/target/resolution-cache/reports/default-ontcontructor-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/resolution-cache/reports/default-ontcontructor-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/project/target/resolution-cache/reports/default-ontcontructor-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/resolution-cache/reports/default-ontcontructor-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/project/target/resolution-cache/reports/default-ontcontructor-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/resolution-cache/reports/default-ontcontructor-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/project/target/resolution-cache/reports/default-ontcontructor-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/resolution-cache/reports/default-ontcontructor-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/project/target/resolution-cache/reports/default-ontcontructor-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/resolution-cache/reports/default-ontcontructor-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/project/target/resolution-cache/reports/default-ontcontructor-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/resolution-cache/reports/default-ontcontructor-build-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/project/target/resolution-cache/reports/default-ontcontructor-build-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/resolution-cache/reports/default-ontcontructor-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/project/target/resolution-cache/reports/default-ontcontructor-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/resolution-cache/reports/default-ontcontructor-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/project/target/resolution-cache/reports/default-ontcontructor-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/default/ontcontructor$sources_2.12/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/default/ontcontructor$sources_2.12/1.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/default/ontcontructor$sources_2.12/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/default/ontcontructor$sources_2.12/1.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/default/ontcontructor_2.12/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/default/ontcontructor_2.12/1.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/default/ontcontructor_2.12/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/default/ontcontructor_2.12/1.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor$sources_2.12-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor_2.12-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor_2.12-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor_2.12-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor_2.12-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor_2.12-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor_2.12-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor_2.12-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor_2.12-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor_2.12-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor_2.12-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor_2.12-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor_2.12-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor_2.12-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor_2.12-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor_2.12-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor_2.12-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor_2.12-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor_2.12-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor_2.12-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor_2.12-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor_2.12-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor_2.12-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor_2.12-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor_2.12-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor_2.12-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/target/resolution-cache/reports/default-ontcontructor_2.12-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OntContructor/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../OntContructor/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1935730364">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+          <entry key="scala" value="9" />
+          <entry key="txt" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Scala" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="scala" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Scala" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab2-Spark/src/main/scala/ontology_construction/OntologyConstruction.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-24">
+              <caret line="81" column="6" selection-start-line="81" selection-start-column="6" selection-end-line="81" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab2-Spark/data/ontology/objects/customGroupObjects.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lab2-Spark/src/main/scala/grouping/PartialMatchingTFIDF.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-696">
+              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab2-Spark/src/main/scala/NCBO_BioNLP/SparkBioNLP.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="31" column="60" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab2-Spark/data/Word2Vec/topWordsWord2Vec.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5760" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab2-Spark/data/ontology/categories/customCategories.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab2-Spark/src/main/scala/openie/CoreNLP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="32" column="79" selection-start-line="32" selection-start-column="79" selection-end-line="32" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab2-Spark/src/main/scala/wordnet/WordNetSpark.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab2-Spark/src/main/scala/word2vec/W2V.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab2-Spark/src/main/scala/word2vec/W2V_medWords.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>stop</find>
+      <find>stopwo</find>
+      <find>medWords_</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\dev\CS5560-Project\Lab2</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Lab2-Spark/src/main/scala/word2vec/W2V.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1386" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Lab2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab2-Spark" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab2-Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab2-Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="ontology" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab2-Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="ontology" type="462c0819:PsiDirectoryNode" />
+              <item name="categories" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab2-Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="ontology" type="462c0819:PsiDirectoryNode" />
+              <item name="objects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab2-Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="Word2Vec" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab2-Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab2-Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab2-Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab2-Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="grouping" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab2-Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="NCBO_BioNLP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab2-Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="ontology_construction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab2-Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="openie" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab2-Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="word2vec" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab2-Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="wordnet" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541351013709" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bbc7bf7-32e7-458a-ae4e-e5826af6fba1" name="Default Changelist" comment="" />
+      <created>1540922256230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540922256230</updated>
+      <workItem from="1540922257641" duration="16000" />
+      <workItem from="1540922286615" duration="2256000" />
+      <workItem from="1541269507650" duration="9047000" />
+      <workItem from="1541704621778" duration="23000" />
+      <workItem from="1542146180822" duration="309000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11651000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1386" height="788" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16792169" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Lab2-Spark/data/stopwords.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab2-Spark/src/main/scala/grouping/BioNLP_Grouping.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab2-Spark/src/main/scala/NCBO_BioNLP/RESTClientGet.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab2-Spark/src/main/scala/openie/SparkOpenIE.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab2-Spark/src/main/scala/openie/CoreNLP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="32" column="79" selection-start-line="32" selection-start-column="79" selection-end-line="32" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab2-Spark/src/main/scala/wordnet/WordNetSpark.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab2-Spark/src/main/scala/word2vec/W2V.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab2-Spark/src/main/scala/word2vec/W2V_medWords.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab2-Spark/src/main/scala/NCBO_BioNLP/SparkBioNLP.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="31" column="60" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab2-Spark/data/Word2Vec/topWordsWord2Vec.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5760" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab2-Spark/data/ontology/categories/customCategories.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab2-Spark/src/main/scala/ontology_construction/OntologyConstruction.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-24">
+          <caret line="81" column="6" selection-start-line="81" selection-start-column="6" selection-end-line="81" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab2-Spark/data/ontology/objects/customGroupObjects.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab2-Spark/src/main/scala/grouping/PartialMatchingTFIDF.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-696">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

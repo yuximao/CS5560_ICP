@@ -1,0 +1,21 @@
+anxiety	Disease
+autism	Disease
+children	Species
+autism spectrum disorders	Disease
+anxiety	Disease
+autism	Disease
+anxiety	Disease
+anxiety	Disease
+autism	Disease
+autism	Disease
+anxiety	Disease
+anxiety	Disease
+anxiety	Disease
+autism	Disease
+autism	Disease
+children	Species
+children	Species
+anxiety	Disease
+anxiety	Disease
+autism	Disease
+autism	Disease

@@ -1,0 +1,25 @@
+Patients	Species
+Anorexia Nervosa	Disease
+patients	Species
+anorexia nervosa	Disease
+AN	Disease
+anxiety	Disease
+eating disorders	Disease
+patients	Species
+AN	Disease
+Patients	Species
+AN	Disease
+eating disorder	Disease
+anxiety	Disease
+depression	Disease
+patients	Species
+AN	Disease
+patients	Species
+psychopathologies of eating disorders	Disease
+participants	Species
+patients	Species
+AN	Disease
+psychopathology of eating disorders	Disease
+anxiety	Disease
+patients	Species
+AN	Disease

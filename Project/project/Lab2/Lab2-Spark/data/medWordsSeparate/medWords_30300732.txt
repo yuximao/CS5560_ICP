@@ -1,0 +1,24 @@
+randomized controlled trials	Disease
+depression	Disease
+anxiety disorder	Disease
+obsessive-compulsive disorder	Disease
+OCD	Disease
+post-traumatic stress disorder	Disease
+PTSD	Disease
+randomized controlled trials	Disease
+RCTs	Disease
+depression	Disease
+anxiety disorder	Disease
+OCD	Disease
+PTSD	Disease
+RCTs	Disease
+depression	Disease
+anxiety disorder	Disease
+OCD	Disease
+PTSD	Disease
+depression	Disease
+generalized anxiety disorder	Disease
+GAD	Disease
+GAD	Disease
+depression	Disease
+GAD	Disease

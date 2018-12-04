@@ -1,0 +1,40 @@
+Atrial fibrillation	Disease
+cognitive aging	Disease
+atrial fibrillation	Disease
+AF	Disease
+cognitive decline	Disease
+dementia	Disease
+patients	Species
+AF	Disease
+dementia	Disease
+participants	Species
+AF	Disease
+patient	Species
+dementia	Disease
+Neurological Disorders	Disease
+Stroke	Disease
+vascular dementia	Disease
+Neurological and Communicative Disorders	Disease
+Stroke	Disease
+Alzheimer's Disease	Disease
+Related Disorders	Disease
+Alzheimer disease	Disease
+participants	Species
+AF	Disease
+participants	Species
+AF	Disease
+dementia	Disease
+AF	Disease
+dementia	Disease
+dementia	Disease
+Alzheimer disease	Disease
+people	Species
+AF	Disease
+dementia	Disease
+AF	Disease
+faster global cognitive decline	Disease
+dementia	Disease
+people	Species
+dementia	Disease
+patients	Species
+AF	Disease

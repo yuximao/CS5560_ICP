@@ -1,0 +1,18 @@
+obesity	Disease
+serious mental illness	Disease
+serious mental illness	Disease
+SMI	Disease
+schizophrenia	Disease
+bipolar disorder	Disease
+early death	Disease
+cardiovascular disease	Disease
+chronic illnesses	Disease
+weight loss	Disease
+cardiorespiratory fitness	Disease
+SMI	Disease
+SMI	Disease
+participants	Species
+psychiatric	Disease
+Participants	Species
+weight loss	Disease
+SMI	Disease

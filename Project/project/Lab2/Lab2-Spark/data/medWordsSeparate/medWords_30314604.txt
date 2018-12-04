@@ -1,0 +1,14 @@
+Addictive Behavior	Disease
+Idiopathic Parkinson's Disease	Disease
+Parkinson's disease	Disease
+PD	Disease
+cognitive and neurobehavioral complications	Disease
+Dopamine	Chemical
+addictive behavior	Disease
+impulse control disorders	Disease
+behavioral addictions	Disease
+addictive behavior	Disease
+PD	Disease
+addictive behavior	Disease
+PD to addiction	Disease
+behavioral addictions	Disease

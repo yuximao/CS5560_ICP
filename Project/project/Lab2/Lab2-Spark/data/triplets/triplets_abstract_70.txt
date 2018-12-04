@@ -1,0 +1,4 @@
+pregnancy	represent	time of increase risk for intimate partner violence
+n	=	12 hiv-positive pregnant woman recruit from clinical setting in South Africa
+Partner dynamics	result in	hiv shame
+result	engage in	context of abusive relationship

@@ -1,0 +1,5 @@
+pq912	be	inhibitor
+we	report on	first clinical study with pq912 in subject with biomarker-proven alzheimer 's disease
+aim	determine	treatment-related pharmacodynamic effect
+exploratory efficacy readout	be	tailor to patient population with early ad
+therapeutic approach	focus	capture by various measure

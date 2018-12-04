@@ -1,0 +1,19 @@
+haloperidol	Chemical
+levodopa	Chemical
+humans	Species
+Cognitive deficits	Disease
+impaired working memory	Disease
+schizophrenia	Disease
+Dopamine	Chemical
+humans	Species
+dopamine	Chemical
+L-dopa	Chemical
+haloperidol	Chemical
+carbidopa	Chemical
+L-dopa	Chemical
+haloperidol	Chemical
+N-back working memory	Disease
+L-dopa	Chemical
+haloperidol	Chemical
+cognitive impairments	Disease
+mental illness	Disease

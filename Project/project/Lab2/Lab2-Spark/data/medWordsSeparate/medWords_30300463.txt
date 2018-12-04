@@ -1,0 +1,14 @@
+nonepileptic seizures	Disease
+Epilepsy	Disease
+nonepileptic seizures	Disease
+child	Species
+patients	Species
+psychiatric	Disease
+children	Species
+Seizures	Disease
+mood disturbances	Disease
+personality disorders	Disease
+psychic trauma	Disease
+persons	Species
+anxiety	Disease
+depression	Disease

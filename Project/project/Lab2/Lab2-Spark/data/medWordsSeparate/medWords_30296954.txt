@@ -1,0 +1,18 @@
+patients	Species
+musculoskeletal and rheumatologic disorders	Disease
+cardiovascular diseases	Disease
+neurological disorders	Disease
+mental illnesses	Disease
+cancers	Disease
+diabetes	Disease
+respiratory diseases	Disease
+musculoskeletal and rheumatologic disorders	Disease
+cardiovascular diseases	Disease
+musculoskeletal and rheumatologic disorders	Disease
+cardiovascular diseases	Disease
+neurological disorders	Disease
+mental illnesses	Disease
+cancers	Disease
+respiratory diseases	Disease
+diabetes	Disease
+obesity	Disease

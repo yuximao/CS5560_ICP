@@ -1,0 +1,32 @@
+GSK3b	Gene
+erythropoietin	Chemical
+mood disorders	Disease
+Mood disorders	Disease
+psychosocial and occupational disability	Disease
+major depressive disorder	Disease
+MDD	Disease
+cognitive dysfunctions	Disease
+mood disorders	Disease
+human	Species
+erythropoietin	Gene
+EPO	Chemical
+EPO	Chemical
+patients	Species
+mood disorders	Disease
+glycogen synthase kinase 3-beta	Gene
+GSK3b	Gene
+EPO	Chemical
+mood disorder	Disease
+patients	Species
+EPO	Chemical
+mood disorders	Disease
+cognition	Disease
+GSK3b	Gene
+MDD	Disease
+patients	Species
+cognitive deficits	Disease
+patients	Species
+mood disorders	Disease
+EPO	Chemical
+patients	Species
+mood disorders	Disease

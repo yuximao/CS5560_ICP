@@ -1,0 +1,31 @@
+glutaminyl	Chemical
+PQ912	Chemical
+Alzheimer's disease	Disease
+PQ912	Chemical
+glutaminyl	Chemical
+A-beta	Gene
+PQ912	Chemical
+Alzheimer's disease	Disease
+AD	Disease
+patient	Species
+AD	Disease
+PQ912	Chemical
+cognitive impairment	Disease
+dementia	Disease
+AD	Disease
+AD	Disease
+patients	Species
+Patients	Species
+PQ912	Chemical
+patients	Species
+patients	Species
+PQ912	Chemical
+PQ912	Chemical
+gastrointestinal and skin/subcutaneous tissue disorders	Disease
+PQ912	Chemical
+glutaminyl	Chemical
+neurogranin	Gene
+toxicity	Disease
+YKL-40	Gene
+inflammation	Disease
+PQ912	Chemical

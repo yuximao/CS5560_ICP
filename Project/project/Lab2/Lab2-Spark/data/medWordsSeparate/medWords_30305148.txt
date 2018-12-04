@@ -1,0 +1,34 @@
+people	Species
+personality disorder	Disease
+people	Species
+personality disorder	Disease
+people	Species
+personality disorder	Disease
+people	Species
+personality disorder	Disease
+people	Species
+personality disorder	Disease
+people	Species
+psychotic mental disorders	Disease
+dementia	Disease
+bipolar affective disorder	Disease
+delusional disorder	Disease
+schizophrenia	Disease
+schizoaffective disorder	Disease
+schizotypal disorder	Disease
+cognitive or language difficulties	Disease
+personality disorder	Disease
+Participants	Species
+participant	Species
+participant	Species
+patient	Species
+participants	Species
+attrition	Disease
+people	Species
+personality disorder	Disease
+people	Species
+people	Species
+personality disorder	Disease
+people	Species
+personality disorder	Disease
+ISRCTN14994755	Chemical

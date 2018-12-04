@@ -1,0 +1,29 @@
+fatigue	Disease
+patients	Species
+systemic lupus erythematosus	Disease
+fatigue	Disease
+patients	Species
+systemic lupus erythematosus	Disease
+SLE	Disease
+Patients	Species
+SLE	Disease
+BEL112233	Chemical
+NCT00724867	Chemical
+patients	Species
+fatigue	Disease
+Chronic Illness	Disease
+BEL206350	Chemical
+fatigue	Disease
+patients	Species
+Patients	Species
+fatigue	Disease
+Physical Component Summary	Disease
+PCS	Disease
+Mental Component Summary	Disease
+MCS	Disease
+PCS	Disease
+MCS	Disease
+PCS	Disease
+MCS	Disease
+patient	Species
+fatigue	Disease

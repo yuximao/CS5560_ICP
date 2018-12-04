@@ -1,0 +1,34 @@
+persons	Species
+autism spectrum disorders	Disease
+psychiatric	Disease
+high-functioning autism	Disease
+HFA	Disease
+psychiatric	Disease
+HFA spectrum disorder	Disease
+psychiatric	Disease
+HFA spectrum disorder	Disease
+Autism spectrum disorders	Disease
+ASD	Disease
+HFA spectrum disorders	Disease
+Asperger's syndrome	Disease
+pervasive developmental disorders	Disease
+NOS	Gene
+ASD	Disease
+psychiatric	Disease
+psychiatric	Disease
+psychiatric illness	Disease
+psychiatric	Disease
+obsessive-compulsive disorder	Disease
+OCD	Disease
+Bipolar disorder	Disease
+BD	Disease
+psychiatric	Disease
+psychotic spectrum disorders	Disease
+HFA spectrum disorders	Disease
+psychiatric	Disease
+OCD	Disease
+psychiatric	Disease
+BD	Disease
+psychotic spectrum disorders	Disease
+psychiatric	Disease
+HFA	Disease

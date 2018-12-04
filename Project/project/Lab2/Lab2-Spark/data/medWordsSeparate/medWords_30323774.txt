@@ -1,0 +1,37 @@
+Baclofen	Chemical
+Patients	Species
+Alcohol Use Disorder	Disease
+Mental Health Disorders	Disease
+Alcohol Use Disorder	Disease
+AUD	Disease
+patients	Species
+human	Species
+baclofen	Chemical
+AUD	Disease
+baclofen	Chemical
+AUD	Disease
+psychiatric	Disease
+baclofen	Chemical
+alcohol	Chemical
+baclofen	Chemical
+AUD	Disease
+patients	Species
+psychiatric disorders	Disease
+human	Species
+baclofen	Chemical
+AUD	Disease
+physical disorders	Disease
+psychiatric	Disease
+patients	Species
+AUD	Disease
+baclofen	Chemical
+anxiety	Disease
+mood disorders	Disease
+baclofen	Chemical
+AUD	Disease
+patients	Species
+psychiatric disorders	Disease
+psychiatric	Disease
+AUD	Disease
+patients	Species
+baclofen	Chemical
